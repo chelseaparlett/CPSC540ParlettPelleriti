@@ -4,7 +4,7 @@
 
 # Syllabus
 
-## Instructor: Dr. Chelsea Parlett-Pelleriti ([cparlett\@chapman.edu](mailto:cparlett@chapman.edu){.email})
+## Instructor: Dr. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
 
 ## Lecture: MW 5:30-6:45pm
 
@@ -14,7 +14,7 @@
 
 -   Monday/Wednesday 6:45pm-7:30pm
 
-![](images/Screenshot%202024-08-25%20at%205.37.52%20PM.png){width="430"}
+![](Images/Screenshot%202024-08-25%20at%205.37.52%20PM.png)
 
 (if you cannot make office hours, and need to schedule a meeting with me outside of class and office hours, please make sure to give sufficiently advance notice.)
 
