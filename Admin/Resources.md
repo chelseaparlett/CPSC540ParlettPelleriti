@@ -1,5 +1,7 @@
 # Resources (Updated Regularly)
 
+[Drs. LaHaye and Parlett's Pre-Requisite Knowledge Doc](https://docs.google.com/document/d/1pFlZVz-cEbIFsym3VX46BHRCSLTTca7n55G_S4wD0xs/edit) (540, 541, 542)
+
 ## Books/Resources We'll Read for Class (FREE!)
 
 -   [Bayes Rules](https://www.bayesrulesbook.com/)
@@ -35,6 +37,8 @@
 -   [Introduction to Statistical Learning (with applications in) R](https://www.statlearning.com/)
 
 -   [R for Data Science](https://r4ds.hadley.nz/)
+
+-   My [392](https://www.youtube.com/playlist?list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV) (Intro to DS) and [393](https://www.youtube.com/playlist?list=PLmxpwhh4FDm5MkEi6m1Tm9vu-MEyiIR5f) (Machine/Deep Learning) YouTube Lectures
 
 ### Paid
 
