@@ -4,7 +4,7 @@
 
 # Syllabus
 
-## Instructor: Dr. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
+## Instructor: Dr. Chelsea Parlett-Pelleriti (cparlett\@chapman.edu)
 
 ## Lecture: MW 5:30-6:45pm
 
@@ -21,7 +21,7 @@
 ## INSTALLS
 
 -   [Install R and RStudio](https://posit.co/download/rstudio-desktop/)
--   **packages**: `install.packages("tidyverse", "rstan,"brms","lmer","mcgv","daggity","bayesrules","tidybayes","bayesplot", "marginaleffects")`
+-   **packages**: `install.packages("tidyverse", "rstan,"brms","lme4","mcgv","daggity","bayesrules","tidybayes","bayesplot", "marginaleffects")`
 
 ## Course Description
 
