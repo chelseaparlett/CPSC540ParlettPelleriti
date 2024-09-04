@@ -40,6 +40,14 @@
 
 -   My [392](https://www.youtube.com/playlist?list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV) (Intro to DS) and [393](https://www.youtube.com/playlist?list=PLmxpwhh4FDm5MkEi6m1Tm9vu-MEyiIR5f) (Machine/Deep Learning) YouTube Lectures
 
+-   Danielle Navarro's [Metropolis Hastings Blog](https://blog.djnavarro.net/posts/2023-04-12_metropolis-hastings/#fn5)
+
+-   Count Bayesie's [Monte Carlo Simulations Blog](https://www.countbayesie.com/blog/2015/3/3/6-amazing-trick-with-monte-carlo-simulations)
+
+-   [Plotting Graphs in R with `igraph`](https://kateto.net/netscix2016.html)
+
+-   Ritvik Math[Inverse Transform Sampling](https://www.youtube.com/watch?v=9ixzzPQWuAY)
+
 ### Paid
 
 -   [Statistical Rethinking](https://xcelab.net/rm/)
