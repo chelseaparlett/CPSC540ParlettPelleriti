@@ -1,0 +1,146 @@
+---
+title: "MarkovSeuss"
+author: "Chelsea Parlett-Pelleriti"
+format: html
+---
+
+# Hop on Pop
+
+First, lets load in the file we want to use. We'll use this file to create a huge transition matrix of words that will allow us to **generate new text** that's similar to what's in our file (much simpler than a transformer...don't you think?).
+
+```{r setup}
+library(tidyverse)
+fileName <- file.choose()
+fox <- readChar(fileName, file.info(fileName)$size)
+
+```
+
+Next, we'll pre-process the text.
+
+```{r preprocess}
+# clean string to get rid of dots
+words <- fox %>% tolower() %>%
+  # get rid of punctuation and split by word
+  gsub("\\.", "",.) %>%
+  gsub('[[:punct:]]+','',.) %>%
+  strsplit(., "\\s+") %>%
+  unlist()
+
+# grab unique words
+unique_words <- unique(words) %>% sort()
+
+```
+
+This makes sure that things like punctuation, and capitalization don't impact our Dr. Seuss generator. Now that it's clean, we can create our transition matrix. This transition matrix encodes **transition probabilities** between words.
+
+For example, for the sentence `"the cat and the fish looked at the pool"` the transition diagram looks like:
+
+![](../../Images/MCMC/cattransmat.png){fig-align="center"}
+
+and the transition matrix looks like:
+
+$$
+\begin{bmatrix}
+0 & 0 & 1 & 0 & 0 & 1 & 0\\
+0.33 & 0 & 0 & 0& 0& 0& 0 \\
+0 & 1 & 0 & 0 & 0 & 0& 0\\
+0.33 & 0 & 0 & 0 & 0 & 0& 0\\
+0 & 0 & 0 & 1 & 0 & 0& 0\\
+0 & 0 & 0 & 0 & 1 & 0& 0\\
+0.33 & 0 & 0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+
+To estimate these transition probabilities, we'll first look at, for each word, the number of times any given word in our vocabulary comes *after* that word.
+
+```{r transitionprob}
+# create empty matrix
+trans <- matrix(rep(0,length(unique_words)^2), ncol = length(unique_words))
+
+# get transition counts
+for (w in 1:length(words)){
+  i <- which(unique_words == words[w])
+  j <- which(unique_words == words[w + 1])
+  trans[i,j] <- trans[i,j] + 1
+}
+
+# change counts into probabilities
+trans <- t(trans)
+trans <- sweep(trans, 2, colSums(trans), FUN="/")
+```
+
+## Your Turn
+
+Let's write a function `get_word()` which takes in:
+
+-   `word_idx`: the index (starting at `1`) of the current word
+
+-   `trans`: the transition matrix we just created above
+
+and returns the index of the *newly* chosen word. Words should be chosen randomly based on the probabilities in the transition matrix. Remember, in the transition matrix, `trans`, `trans[row,column]` represents the probability of going **from** the word `unique_words[column]` to the word `unique_words[row]`. `trans[,column]` gives you a simplex of probabilities of going from `unique_words[column]` to any of the possible word choices.
+
+Work with your groups, and don't be afraid to google! But use this as an opportunity to get used to R syntax.
+
+```{r yourfunc}
+get_word <- function(word_idx, trans){
+  
+  ### YOUR CODE HERE ###
+  
+  ######################
+  # return new word index
+  return(new_idx)
+}
+
+```
+
+## Simulate
+
+Now that we have defined what an individual markov step will look like, let's simulate a new Dr. Seuss verse!
+
+```{r generate}
+
+# simulate new dr. seuss
+sim_len <- 125
+ww <- sample(1:length(unique_words),1)
+word_list <- c(ww,rep(0, sim_len))
+
+for(i in 2:(sim_len+1)){
+  ww <- get_word(ww, trans = trans)
+  word_list[i] <- ww
+}
+
+# line length
+linelen <- 6
+
+# get all simulated words
+out <- sapply(word_list, function(x) unique_words[[x]])
+
+# print out line by line
+for(i in seq(1,length(out), by = linelen)){
+  print(paste(out[i:(i+linelen-1)], collapse = " "))
+}
+```
+
+## Reflection Questions
+
+1.  Does this example fulfill the Markov Property? What is the Markov Property?
+
+2.  What are other ways you could define a "state" in this example that might give you better results?
+
+# Markov Schedule
+
+In Markov-polis, the weather is determined only by yesterday's weather. The following diagram shows the probability of each weather state (cloudy, rainy, sunny) given the previous day's weather.
+
+## Make a Transition Matrix
+
+Using the graph above, create a transition matrix for the weather states.
+
+```{r}
+weather_mat <- matrix()
+```
+
+## Simulate Weather
+
+Using your matrix, simulate a week's worth of weather states, and print them out.
+
+## Steady State
