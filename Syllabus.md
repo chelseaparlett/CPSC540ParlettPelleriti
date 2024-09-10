@@ -12,7 +12,7 @@
 
 ### Dr. Parlett
 
--   Monday/Wednesday 6:45pm-7:30pm (Swenson N206)
+-   Monday/Wednesday 6:45pm-7:30pm (M: Swenson N204, W: Swenson N206)
 
 ![](Images/Screenshot%202024-08-25%20at%205.37.52%20PM.png)
 
