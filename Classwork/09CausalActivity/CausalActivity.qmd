@@ -1,0 +1,19 @@
+---
+title: "CausalPuzzles"
+author: "Chelsea Parlett-Pelleriti"
+format: html
+---
+
+## Exercise's Effect on Chol
+
+In the data set [cholExercise.csv](), we have various health and lifestyle variables about 1000 different patients at Dr. Pearl's primary care practice.
+
+1.  In your group, draw out a DAG that you think is reasonable based on the variables provided (make the simplifying assumption that there are no unmeasured confounders). You can do this by hand or with `dagitty` and `ggdag`. Or try [dagitty](https://www.dagitty.net/) online!
+
+2.  Using `R`, try to get a *direct* causal estimate of the effect of exercise on cholesterol. Use any of the methods we talked about in class.
+
+```{r}
+
+```
+
+## 
