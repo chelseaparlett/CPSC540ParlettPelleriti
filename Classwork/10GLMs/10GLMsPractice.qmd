@@ -8,6 +8,7 @@ format: html
 In the code block below, some data on a Spelling Exam for 100 1st graders. A `0` means a student got the word wrong, and a `1` means they got it correct! Fit a **Rasch** and **2PL** model to the data.
 
 ```{r}
+# irt_practice.csv on GH
 library(mirt)
 library(MASS)
 library(tidyverse)
@@ -35,6 +36,7 @@ For the 2PL model, are some items better at **discrimination** than others? How 
 In the code block below, we load in some churn data from ACME company. There are 3 potential covariates (Sex, Age, and whether you signed up through the company's website, or through one of their sales people), as well as `observed_time` (time to churn in days), and `status` (whether or not the person's measurement was censored). Fit a Cox Proportional Hazards model, and answer the questions below:
 
 ```{r}
+# surv_practice.csv on GH
 library(survival)
 library(tidyverse)
 
@@ -62,6 +64,7 @@ In the code block below, some job stress data. In this data, we're looking at th
 Fit a Mixed Effect Model using `lmer()` that looks at whether our mindfulness intervention was effective. And answer the questions below:
 
 ```{r}
+# mem_practice.csv on GH
 library(lme4)
 library(tidyverse)
 
