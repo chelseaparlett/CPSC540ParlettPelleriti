@@ -1,0 +1,79 @@
+---
+title: "10 GLM Classwork"
+format: html
+---
+
+# Item Response Theory Practice
+
+In the code block below, some data on a Spelling Exam for 100 1st graders. A `0` means a student got the word wrong, and a `1` means they got it correct! Fit a **Rasch** and **2PL** model to the data.
+
+```{r}
+library(mirt)
+library(MASS)
+library(tidyverse)
+
+irt_data <- read.csv()
+
+# hint: mirt(data = ??, model = 1, itemtype = ???, verbose = FALSE)
+
+```
+
+Plot the **Item Characteristic Curves** (`type = "trace"`) for the items. Which items are most *difficult* in each model?
+
+```{r}
+
+```
+
+For the 2PL model, are some items better at **discrimination** than others? How can you tell? What does this tell you about the item?
+
+```{r}
+
+```
+
+# Survival Analysis Practice
+
+In the code block below, we load in some churn data from ACME company. There are 3 potential covariates (Sex, Age, and whether you signed up through the company's website, or through one of their sales people), as well as `observed_time` (time to churn in days), and `status` (whether or not the person's measurement was censored). Fit a Cox Proportional Hazards model, and answer the questions below:
+
+```{r}
+library(survival)
+library(tidyverse)
+
+surv_data <- read.csv()
+
+## hint: coxph(Surv(observed_time , status) ~ ???, data = surv_data)
+```
+
+-   Which covariates have the largest effect on whether a customer is at risk for churning?
+
+-   Based on this model, what type of client is the highest risk of churning?
+
+-   What proportion of your data is censored?
+
+-   Fit a Kaplan-Meier curve for the effect of `sex` on the Survival function, do your conclusions match the results of your Cox PH model?
+
+```{r}
+## hint: survfit() 
+```
+
+# Mixed Effect Model Practice
+
+In the code block below, some job stress data. In this data, we're looking at the how severely job stress impacts the participants over time (measured by the Stress Severity Survey, in `Outcome`). We measured participants 4 times: before our mindfulness intervention (`Treatment`), 2 days after, 2 weeks after, and 2 months after intervention (`Time` = 1,2,3 and 4). We also collected covariates of `Age`, `Sleep` (hours of sleep) and `Protein` (grams of protein eaten per day).
+
+Fit a Mixed Effect Model using `lmer()` that looks at whether our mindfulness intervention was effective. And answer the questions below:
+
+```{r}
+library(lme4)
+library(tidyverse)
+
+stress <- read.csv()
+
+## hint: lmer()
+```
+
+-   Did you include random intercepts? slopes? both? Why?
+
+-   How did you decide which covariates to include?
+
+-   Is the mindfulness treatment effective? How could you tell?
+
+-   How much do people vary in their baseline stress level (`Outcome`)? How can you tell?
