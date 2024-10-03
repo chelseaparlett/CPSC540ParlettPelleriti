@@ -1,0 +1,62 @@
+---
+title: "HW1"
+format: html
+---
+
+# Homework 1
+
+**Due October 27th, 2024 by 11:59pm**
+
+For this homework assignment, choose one data set below (or slack me about a data set you want to use, e.g. for your research...). As this is a **graduate course** it is expected that you use course materials to complete this assignment, but also that **you do some research on your own to find helpful extensions relevant the course material** (e.g. if you're measuring reaction time, maybe a *gamma* likelihood would help, even if we didn't talk specifically about gamma regression; if you have a Likert scale item, maybe cumulative logit models would help)
+
+-   look into the data set and describe in Intro/**Background**
+
+-   choose one of the **research questions** associated with each data set (or come up with your own, equally complex Q!)
+
+-   propose an **Analysis** (using the *tools/types of models we learned in class*, and any EDA tools such as plots, summaries) that answers the research question in the **Analysis** section. Also explain **why** you chose the analysis you did.
+
+    -   You **must** use models we covered in class, or extensions of these models. For example, I don't want you fitting neural networks. I want you to use the statistical models covered in this class, or closely related (check with me if you're unsure). For example: Ordinal Regression would be okay, Convolutional Neural Networks would not.
+
+-   **run** the analysis, and present results in **Results** section
+
+-   discuss your findings in the **Discussion.** Also discuss limitations/roadblocks
+
+Your assignment should include all of the following elements:
+
+-   Causal Inference
+
+-   Modeling (GLMs, GAMs)
+
+-   2+ plots
+
+Your assignment *can* but doesn't need to:
+
+-   use hypothesis testing
+
+-   use p-values/bayes factors
+
+## Groups
+
+If you would like to work in a group of **up to 2** you can, but must choose **one research question** per **person** (two total), using the *same data set*. You must let Dr. P know who is in your group before **October 15th EOD**.
+
+# Report Sections
+
+You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following sections:
+
+-   **Intro/Background**: Tell us about your **data set**, and your **research question**. Do some exploratory data analysis (make plots of relevant variables, make note of missing data, interesting patterns, relevant variables).
+
+-   **Analysis**: Tell us **how** you plan to answer the questions using a combination of models, summaries, and data visualization. Also explain **why** you chose the analysis you did.
+
+-   **Results**: What is the **answer** to your research question? What did the analysis tell you? This is where you share plots, coefficients from models, summaries, etc.
+
+-   **Discussion**: What are the **potential impacts/applications** of the answers you found? Were there any **limitations**? What would you do **differently** next time if you re-did the same assignment?
+
+As a reminder, I expect the following files when you turn in your assignment:
+
+-   PDF of report
+
+-   code file (.R, .qmd, .Rmd)
+
+-   a readme (.txt, .md)
+
+# Data Sets
