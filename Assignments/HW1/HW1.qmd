@@ -11,7 +11,7 @@ For this homework assignment, choose one data set below (or slack me about a dat
 
 -   look into the data set and describe in Intro/**Background**
 
--   choose one of the **research questions** associated with each data set (or come up with your own, equally complex Q!)
+-   choose one of the **research questions** (the entire bullet point) associated with each data set (or come up with your own, equally complex Q!)
 
 -   propose an **Analysis** (using the *tools/types of models we learned in class*, and any EDA tools such as plots, summaries) that answers the research question in the **Analysis** section. Also explain **why** you chose the analysis you did.
 
@@ -23,9 +23,9 @@ For this homework assignment, choose one data set below (or slack me about a dat
 
 Your assignment should include all of the following elements:
 
--   Causal Inference
+-   Discussion of **Causal Inference** (is the answer to your question a **causal estimate** if so, why? if not, why not?)
 
--   Modeling (GLMs, GAMs)
+-   **Modeling** (GLMs, GAMs, Time Series Models)
 
 -   2+ plots
 
@@ -60,3 +60,73 @@ As a reminder, I expect the following files when you turn in your assignment:
 -   a readme (.txt, .md)
 
 # Data Sets
+
+-   Choose your own dataset! Good Places to look:
+
+    -   data.gov
+
+    -   kaggle
+
+    -   osf.io
+
+    -   [tidy tuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data)
+
+-   [StackOverflow Posts](https://huggingface.co/datasets/mikex86/stackoverflow-posts)
+
+    -   does the [*sentiment*](https://www.tidytextmining.com/sentiment) of a post's body cause its score? Create a DAG and list of features that could be confounders (fork)/mediators (chain)/colliders (collider). Come up with an adjustment set and fit a model that adjusts for the appropriate variable in order to get a causal estimate
+
+    -   do the `Tags` of a post cause the `View Count` of the post? Create a DAG and list of features that could be confounders (fork)/mediators (chain)/colliders (collider). Come up with an adjustment set and fit a model that adjusts for the appropriate variable in order to get a causal estimate
+
+-   [Climate Data](https://berkeleyearth.org/data/)
+
+    -   Why *seasonal* patterns occur in climate measurements, and what does this tell us about the way climate fluctuates?
+
+-   [NHANES Data](https://cran.r-project.org/web/packages/NHANES/NHANES.pdf)
+
+    -   what is the relationship between `pulse` and Total Cholesterol?
+
+    -   what is the relationship between number of bad mental health days (`DaysMentHlthBad`) and income (`HHIncome`)?
+
+-   [Hard Drive Failures](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2024/)
+
+    -   what variables cause hard drive failure and what are their impact?
+
+-   [Higher Ed Math Tests](https://archive.ics.uci.edu/dataset/1031/dataset+for+assessing+mathematics+learning+in+higher+education)
+
+    -   which topics have the most difficult math questions?
+
+    -   which questions are the best at discriminating between students with different math abilities, and how could a professor use this information best?
+
+-   [LAPD Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+
+    -   Does the age of the victim (`Vict Age`) have a causal effect on the time a crime occured (`Time Occ`)?
+
+    -   Does the sex of the victim (`Vict Sex`) cause the `Status` of the crime?
+
+-   [IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+
+    -   does `meta_score` change over time differently for different `genre`s, and is there cyclical patterns?
+
+    -   can `gross` revenue of a movie be accurately forecasted into the future, and if so, what features are most impactful and what are their relationships to `gross` revenue?
+
+    -   are there `genre`s where the relationship between `meta_score` and `gross` revenue non-linear, and if so, describe the patterns
+
+-   [Car Fuel Data](https://archive.ics.uci.edu/dataset/10/automobile)
+
+    -   does engine size *cause* price to go up? If so, describe the relationship, is it linear? non-linear? If not, describe how you know.
+
+-   [Heart Health](https://archive.ics.uci.edu/dataset/45/heart+disease)
+
+    -   choose a variable you're interested in and create a DAG (using at *least 5* other variables from the dataset, but more is better) to estimate the impact of that variable on Heart Disease, then fit a model that adjusts for the appropriate variable in order to get a causal estimate
+
+-   [Student Success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+
+    -   what is the causal effect of daytime vs. evening attendance on dropping out? create a DAG (using at *least 5* other variables from the dataset, but more is better) to estimate the impact of daytime vs. evening attendance, then fit a model that adjusts for the appropriate variable in order to get a causal estimate
+
+-   [Air Quality](https://archive.ics.uci.edu/dataset/360/air+quality)
+
+    -   Are there seasonal patterns in Air Quality, and does that help us accurately forecast Air Quality?
+
+-   [Income Data 1994 Census](https://archive.ics.uci.edu/dataset/20/census+income)
+
+    -   does education cause income? Create a DAG and list of features that could be confounders (fork)/mediators (chain)/colliders (collider). Come up with an adjustment set and fit a model that adjusts for the appropriate variable in order to get a causal estimate
