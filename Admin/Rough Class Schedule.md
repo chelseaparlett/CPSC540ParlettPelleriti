@@ -1,5 +1,5 @@
 | Date | Day | Class \# | Topic | Other | Reading |
-|----------|----------|----------|----------|----------|-----------------------|
+|------------|------------|------------|------------|------------|----------------|
 | 2024-08-26 | M | 0 | Course Structure + Intro |  |  |
 | 2024-08-28 | W | 1 | Math Review + Intro | Quiz | Math for ML Chapter 2,4,5 |
 | 2024-09-02 | Labor Day |  |  |  |  |
@@ -18,12 +18,12 @@
 | 2024-10-16 | W | 15 | Midterm Exam | Exam |  |
 | 2024-10-21 | M | 16 | Introduction to Statistical Inference: Estimators |  | None |
 | 2024-10-23 | W | 17 | Introduction to Statistical Inference: Point + Interval Estimates | Quiz | Casella and Berger Chapter 7, Bayes Rules Section 8.1 |
-| 2024-10-28 | M | 18 | Hypothesis Testing |  | Casella and Berger Chapter 8, Bayes Rules Section 8.2 |
-| 2024-10-30 | W | 19 | Bayesian Inference | Quiz | TBD |
-| 2024-11-04 | M | 20 | Bayesian Inference |  | TBD |
-| 2024-11-06 | W | 21 | Frequentist Inference | Quiz | TBD |
-| 2024-11-11 | M | 22 | Frequentist Inference |  | TBD |
-| 2024-11-13 | W | 23 | Frequentist Inference | Quiz | TBD |
+| 2024-10-28 | M | 18 | Interval Estimation |  | Casella and Berger Chapter 9, Bayes Rules Section 8.2 |
+| 2024-10-30 | W | 19 | Interval Estimation | Quiz | Casella and Berger Chapter 9, Bayes Rules Section 8.2 |
+| 2024-11-04 | M | 20 | Hypothesis Testing |  | Casella and Berger Chapter 8, [Equiv Testing for Psych](https://journals.sagepub.com/doi/pdf/10.1177/2515245918770963) |
+| 2024-11-06 | W | 21 | Hypothesis Testing | Quiz | Casella and Berger Chapter 8, Bayes Rules Section 8.2-8.3 |
+| 2024-11-11 | M | 22 | Advanced Stat Inf |  | Casella and Berger Chapter 12 |
+| 2024-11-13 | W | 23 | Advanced Stat Inf | Quiz | Bayes Rules Chapters 9 and 13 |
 | 2024-11-18 | M | 24 | Topics in Statistical ML |  | TBD |
 | 2024-11-20 | W | 25 | READING GROUP: Statistical Inference | Quiz | Journal Articles |
 | Thanksgiving |  |  |  |  |  |
