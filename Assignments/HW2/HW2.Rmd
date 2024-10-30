@@ -1,0 +1,87 @@
+---
+title: "HW2"
+format: html
+---
+
+# Homework 2
+
+**Due November 17th, 2024 by 11:59pm**
+
+This is [**NOT**]{.underline} A GROUP ASSIGNMENT. You should work individually.
+
+## Data
+
+The data for this homework assignment is *synthetic* data looking at different lifestyle and demographic variables and mental health/well-being for **42** people that are enrolled in **Company X's** wellness program. The following variables are included in the data:
+
+-   `anxiety`: subjective anxiety severity on a continuous scale of -10 to 10 (higher means more anxiety)
+
+-   `corgi`: average number of corgis pet per week.
+
+-   `group`: `A` for group A, `B` for group B; the "Joy Group" each person is assigned to. Joy Groups are social activity groups that meet once a week to do well-being related activities. Group `A` is led by Andrew, group `B` is led by Betty.
+
+-   `age` the age of the workers (in years)
+
+-   `hair_color`: hair color (`blonde`, `brown`, `black`, `other`)
+
+-   `veggies_week`: average servings of vegetables eaten per week.
+
+-   `therapy`: `0` if person does not currently attend therapy, `1` if they do
+
+-   `waived_insurance`:`0` if person did not waive their health insurance coverage, `1` if they did
+
+-   `sex`: sex assigned at birth
+
+-   `income_k`: household income in thousands of dollars.
+
+-   `married`: `married` if married, `divorced` if divorced, `single` if never married
+
+-   `mental_well`: mental well being, between -4 and 4, with higher scores indicating higher subjective mental well being.
+
+## Questions
+
+For this homework assignment, use the data (`hw2.csv`) from GitHub (in `/Data/` folder) to conduct [***both***]{.underline} a **Bayesian** and **Frequentist** analysis of [***each***]{.underline} question listed below. For Bayesian Analyses, you must justify the priors you chose to use.
+
+-   **Question 1**: (*Hypothesis Testing*) Andrew and Betty are arguing about who is better at leading their Joy Group. Joy groups were randomly assigned when employees joined the company. Is there evidence that Group A and Group B have the *same* mean anxiety score?
+
+-   **Question 2**: (*Parameter Estimation*) *assuming* the DAG shown below is correct, and using *covariates* in a regression (GLM) model to adjust for variables, what is the **direct causal effect** of **petting corgis** on **mental well-being**? Be sure to include both a point estimate and interval estimate.
+
+```{r}
+library(ggdag)
+library(dagitty)
+hw_dag <- dagify(
+  mental_well ~ corgi + married + sex  + anxiety + age,
+  married ~  age,
+  income ~ age + married + sex,
+  waived_insurance ~ income + married,
+  therapy ~ anxiety + waived_insurance + income + mental_well,
+  veggies_week ~ age + married + income,
+  hair_color ~ age ,
+  corgi ~ age,
+  anxiety ~ group + age + corgi,
+  exposure = "corgi",
+  outcome = "mental_well"
+  )
+
+ggdag(hw_dag, node_size = 20, layout = "sugiyama",
+      text_col = "orange") + theme_dag()
+ggdag_paths(hw_dag)
+ggdag_adjustment_set(hw_dag)
+```
+
+# Report Sections
+
+You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following sections (NO **Introduction** needed as we're all using the same data. Please still explain your results as if presenting them to a non-expert):
+
+-   **Analysis**: Tell us **how** analyzed the data to answer the questions above (e.g. what methods/models did you use?) Also explain **why** you chose the analysis you did.
+
+-   **Results**: What is the **answer** to the questions (clearly label where you're answering each Question)? What did the analyses tell you? Importantly, compare the Bayesian and Frequentist Analyses and explain whether they give you similar conclusions or not and *why* you think this happened.
+
+-   **Discussion**: What are the **potential impacts/applications** of the answers you found? What would you do **differently** next time if you re-did the same assignment?
+
+As a reminder, I expect the following files when you turn in your assignment:
+
+-   PDF of report
+
+-   code file (.R, .qmd, .Rmd)
+
+-   a readme (.txt, .md)
