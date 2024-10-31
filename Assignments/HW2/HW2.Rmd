@@ -11,7 +11,7 @@ This is [**NOT**]{.underline} A GROUP ASSIGNMENT. You should work individually.
 
 ## Data
 
-The data for this homework assignment is *synthetic* data looking at different lifestyle and demographic variables and mental health/well-being for **42** people that are enrolled in **Company X's** wellness program. The following variables are included in the data:
+The data for this homework assignment is *synthetic* data looking at different lifestyle and demographic variables and mental health/well-being for **500** people that are enrolled in **Company X's** wellness program. The following variables are included in the data:
 
 -   `anxiety`: subjective anxiety severity on a continuous scale of -10 to 10 (higher means more anxiety)
 
@@ -69,7 +69,7 @@ ggdag(hw_dag, node_size = 20, layout = "sugiyama",
 
 # Report Sections
 
-You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following sections (NO **Introduction** needed as we're all using the same data. Please still explain your results as if presenting them to a non-expert):
+You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following **sections** (NO **Introduction** needed as we're all using the same data. Please still explain your results as if presenting them to a non-expert):
 
 -   **Analysis**: Tell us **how** analyzed the data to answer the questions above (e.g. what methods/models did you use?) Also explain **why** you chose the analysis you did.
 
