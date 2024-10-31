@@ -64,8 +64,7 @@ hw_dag <- dagify(
 
 ggdag(hw_dag, node_size = 20, layout = "sugiyama",
       text_col = "orange") + theme_dag()
-ggdag_paths(hw_dag)
-ggdag_adjustment_set(hw_dag)
+
 ```
 
 # Report Sections
