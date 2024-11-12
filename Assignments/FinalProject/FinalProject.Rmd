@@ -1,0 +1,115 @@
+---
+title: "Final Project"
+output: html_document
+---
+
+# Final Project
+
+The final project is composed of 3 parts:
+
+1.  **Proposal** (due *Friday November 22nd at 11:59pm*)
+
+2.  **Presentation** (due *December 2nd or 4th* during class depending on assigned presentation time)
+
+3.  **Report** (due *Friday December 13th at 11:59pm*; remember per the syllabus no late days can be used during Finals Week)
+
+## Groups
+
+If you would like to work in a group of [**up to 4**]{.underline} you can. You must let Dr. Parlett know who is in your group before **November 22nd EOD**. Working in a group means:
+
+1.  you will be graded together
+
+2.  you must submit a single report/proposal/presentation, not separate ones
+
+The number of research questions per group size is listed below (**I'm trying to incentivize you to work in groups**!!!) :
+
+| Group Size | Number of Research Questions |
+|------------|------------------------------|
+| 1 person   | 2                            |
+| 2 people   | 2                            |
+| 3 people   | 4                            |
+| 4 people   | 4                            |
+
+# Proposal
+
+Due **Friday November 22nd at 11:59pm**
+
+[**If you turn this in *early*, I will do my best to give you feedback early (not your grade, but feedback)**.]{.underline} For the proposal, please [use this format](https://docs.google.com/document/d/19rkCobbgXIxcH7jvS60l1t48DmGOxsRPT0Mljvcyhvg/edit?usp=sharing) to describe the data you'll be using and submit the required number of questions (see table above) that could **reasonably** be answered with the data.
+
+For this assignment your analysis needs to hit following requirements, so keep this in mind while writing your proposal:
+
+-   the propose question(s) are **sophisticated** and **complex** enough for a research paper (come talk to me if you're unsure whether yours meets this)
+
+-   discussion of **Causal Inference** (is the answer to your questions a **causal estimate** if so, why? if not, why not?)
+
+-   uses inference (hypothesis testing and/or parameter estimation) *at least once* for each question
+
+-   has at least 1 graph **per question**
+
+-   uses *at least* two **Models** total (GLMs, GAMs, Time Series Models) that was discussed in class (or is closely related)
+
+# Presentation
+
+Due *December 2nd or 4th* during class
+
+For the presentation, you will be randomly assigned a time slot on December 2nd or 4th during class to present your project. You will have 5-15 minutes **depending** on the number of groups (I will announce the time limits once groups have been chosen), and it is expected that you prepare a digital presentation (slides, poster format...etc). The presentation should touch on all sections of the report:
+
+-   **Intro/Background**: Tell us about your **data set**, and your **research question(s)**.
+
+-   **Analysis**: Do some exploratory data analysis (make plots of relevant variables, make note of missing data, interesting patterns, relevant variables).Tell us **how** you plan to answer the questions using a combination of models, summaries, and data visualization. Also explain **why** you chose the analysis you did.
+
+-   **Results**: What is the **answer** to your research question? What did the analysis tell you? This is where you share plots, coefficients from models, inference,summaries, etc.
+
+-   **Discussion**: What are the **potential impacts/applications** of the answers you found? Were there any **limitations**? What would you do **differently** next time if you re-did the same assignment?
+
+While it's not expected that the report is finished/polished by your presentation, I expect that a bulk of the analysis is finished, and part of your presentation grade will reflect completeness of the analysis.
+
+# Report
+
+Due **Friday December 13th at 11:59pm**
+
+For this project, choose one data set below (or slack me about a data set you want to use, e.g. for your research...). As this is a **graduate course** it is expected that you use course materials to complete this assignment, but also that **you do some research on your own to find helpful extensions relevant the course material** (e.g. if you're measuring reaction time, maybe a *gamma* likelihood would help, even if we didn't talk specifically about gamma regression; if you have a Likert scale item, maybe cumulative logit models would help)
+
+-   look into the data set and describe in Intro/**Background**
+
+-   choose **research questions** based on your data (Proposal)
+
+-   propose an **Analysis** (using the *tools/types of models we learned in class*, and any EDA tools such as plots, summaries) that answers the research question in the **Analysis** section. Also explain **why** you chose the analysis you did.
+
+    -   You **must** use models we covered in class, or extensions of these models. For example, I don't want you fitting neural networks. I want you to use the statistical models covered in this class, or closely related (check with me if you're unsure). For example: Ordinal Regression would be okay, Convolutional Neural Networks would not.
+
+-   **run** the analysis, and present results in **Results** section
+
+-   discuss your findings in the **Discussion.** Also discuss limitations/roadblocks
+
+## Report Sections
+
+Please use this format for the report itself. You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following sections:
+
+-   **Intro/Background**: Tell us about your **data set**, and your **research question(s)**.
+
+-   **Analysis**: Do some exploratory data analysis (make plots of relevant variables, make note of missing data, interesting patterns, relevant variables).Tell us **how** you plan to answer the questions using a combination of models, inference, summaries, and data visualization. Also explain **why** you chose the analysis you did.
+
+-   **Results**: What is the **answer** to your research question? What did the analysis tell you? This is where you share plots, coefficients from models, summaries, statistical tests etc.
+
+-   **Discussion**: What are the **potential impacts/applications** of the answers you found? Were there any **limitations**? What would you do **differently** next time if you re-did the same assignment?
+
+As a reminder, I expect the following files when you turn in your assignment:
+
+-   PDF of report
+
+-   code file (.R, .qmd, .Rmd)
+
+-   a readme (.txt, .md)
+
+# Data Sets
+
+-   Choose your own dataset! Good Places to look:
+
+    -   data.gov
+
+    -   kaggle
+
+    -   osf.io
+
+    -   [tidy tuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data)
