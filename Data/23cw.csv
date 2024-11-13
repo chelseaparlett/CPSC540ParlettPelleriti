@@ -5,3 +5,997 @@ NA,"Woman","Black","New York",140300,"Bachelor's",0,0
 84,NA,"White","Louisiana",74200,"Bachelor's",0,1
 59,"Man","White","Utah",37600,"Master's",0,1
 67,"Man","White","Kentucky",140500,"Master's",0,1
+60,"Woman","White","Texas",50100,"Master's",0,NA
+31,"Non-binary","Hispanic","Georgia",116100,"Associate",1,1
+42,"Man","White","Washington",21100,"Master's",0,1
+86,"Man","White","Maryland",52300,"Bachelor's",1,1
+74,"Man","White","Kansas",148600,"Bachelor's",0,1
+NA,"Non-binary","White","New Mexico",113200,"Bachelor's",0,1
+89,NA,"White","Oklahoma",104700,"Bachelor's",1,1
+43,"Man","White",NA,51300,"High School",0,NA
+24,"Woman",NA,"Colorado",31300,"Associate",1,0
+59,NA,"Hispanic","California",NA,"High School",NA,1
+26,"Man","White","North Dakota",NA,NA,0,0
+53,"Man","Hispanic","Maryland",121500,"Doctorate",NA,1
+60,"Woman","White",NA,55300,"High School",0,1
+32,"Woman","Hispanic","Michigan",61200,"Bachelor's",0,1
+49,"Man","White","Hawaii",143200,"No Degree",1,1
+24,"Woman","Hispanic","Alaska",83700,"Associate",1,0
+26,"Non-binary","White","Oregon",146500,"Associate",1,0
+58,"Man","Hispanic","New Hampshire",130000,"Bachelor's",0,0
+40,"Woman","White","Arizona",147400,"Master's",0,1
+44,"Man","Hispanic","California",34800,"Associate",NA,0
+77,"Man","White","Arkansas",60800,"Bachelor's",1,1
+70,"Man","White","Maine",142800,"Bachelor's",1,0
+24,"Man","White","Washington",103400,"Doctorate",1,0
+70,NA,"White","California",147300,"Master's",0,0
+44,"Man","White","Louisiana",146400,"High School",1,1
+55,"Woman","White","Mississippi",115000,"Bachelor's",0,0
+51,"Woman","Black","Indiana",70900,"Bachelor's",0,0
+86,"Woman","Hispanic","Florida",106300,"High School",0,1
+89,"Woman","White","New Jersey",53400,"Doctorate",1,1
+80,"Man","White","New Hampshire",60300,"Associate",0,1
+30,"Woman","White","Hawaii",129300,"No Degree",0,0
+42,"Woman","White","New Mexico",109500,"Bachelor's",0,1
+55,"Woman","Hispanic",NA,120700,"High School",0,0
+38,"Man","White","Texas",60000,"Master's",1,1
+58,"Man","Other",NA,103400,"Bachelor's",0,0
+64,"Woman","Black","Pennsylvania",99700,"Bachelor's",1,1
+77,"Woman","White","Alabama",NA,"Bachelor's",0,1
+33,"Non-binary","Black","Colorado",52000,"Master's",1,0
+23,"Woman","White","Montana",134100,"Bachelor's",1,1
+89,"Man","Black","Arkansas",122000,"No Degree",0,1
+56,"Man","Black","Louisiana",NA,"High School",0,0
+48,"Woman","White","Texas",118200,"Bachelor's",0,1
+67,"Woman","White","Texas",136700,"Master's",1,0
+51,"Man","Hispanic","Michigan",136100,"Associate",0,1
+21,"Man","White",NA,35500,"Associate",0,1
+30,NA,"Black","New Jersey",146900,"Bachelor's",0,NA
+NA,"Woman","White","Colorado",138300,"High School",0,1
+42,"Man","White","Arkansas",53700,"Doctorate",0,0
+69,"Man","Hispanic","Idaho",135600,"Bachelor's",NA,1
+39,"Man","White","West Virginia",128300,"No Degree",1,0
+49,"Man","Black","New Hampshire",77100,"High School",0,0
+42,"Woman","White","Tennessee",NA,"High School",0,0
+52,"Man","White","Georgia",132600,"High School",1,1
+57,"Woman","White","Connecticut",62100,"Bachelor's",0,0
+47,"Man","White","Connecticut",50200,"No Degree",0,0
+29,"Man","Hispanic","South Carolina",127600,"High School",0,1
+48,"Woman","Hispanic","Rhode Island",148900,"High School",0,1
+47,NA,"White","Minnesota",49900,"High School",0,0
+81,"Man","Black","West Virginia",31500,"High School",0,1
+31,"Man","White","South Carolina",102600,"Bachelor's",0,0
+88,"Man","Asian","Ohio",131400,"Bachelor's",0,1
+84,"Woman","Black","Colorado",43900,"Associate",1,1
+40,"Man","White","South Dakota",85700,"Doctorate",0,0
+54,"Man","Hispanic","New Mexico",66200,"High School",1,0
+25,"Man","Black","Alaska",127200,"Doctorate",0,0
+68,"Man","Asian","Vermont",82900,"High School",0,NA
+67,"Woman","White","Wyoming",50100,"Associate",0,1
+63,"Man",NA,"New Jersey",55100,"High School",1,1
+34,"Woman","Other","Alabama",127000,"High School",0,0
+79,"Man","White","Washington",23400,"High School",0,1
+63,"Woman","Hispanic","Delaware",72800,"High School",1,NA
+71,"Non-binary","White","Texas",97500,"Associate",1,1
+52,"Woman","White","Vermont",88700,"Bachelor's",0,1
+41,"Woman","Hispanic","Tennessee",108700,"Associate",0,0
+24,"Man","Black","Maryland",86000,"High School",0,0
+40,"Man","White","Vermont",92100,"High School",0,1
+43,"Man","White","South Dakota",129400,"Associate",1,1
+49,"Woman","Black","Oregon",60600,NA,0,0
+24,"Man","White","Ohio",24700,"Bachelor's",0,0
+44,"Man","Hispanic","South Dakota",126100,"Master's",0,0
+59,"Man","White","Alabama",121200,"High School",1,1
+22,"Man","Hispanic","Florida",131700,"Bachelor's",0,1
+87,"Man","White","New Mexico",28500,"High School",0,1
+33,"Man",NA,"Colorado",21100,"Bachelor's",0,1
+41,"Woman","Black","Tennessee",96900,"Doctorate",0,1
+49,"Woman","White","Colorado",133000,"No Degree",1,1
+38,"Woman","White","Hawaii",78000,"Master's",1,1
+72,"Man","Black","New York",24900,"Associate",0,1
+53,"Woman","White","Arkansas",73300,"Bachelor's",0,0
+56,"Man","Hispanic","Hawaii",67500,"Master's",0,0
+71,"Man","Black","Idaho",82000,"Bachelor's",0,1
+26,"Woman","White","Missouri",37400,"Associate",0,0
+88,"Man","White",NA,82300,"Bachelor's",0,0
+65,"Woman","Black","Kansas",54400,"High School",1,1
+73,"Man","Hispanic","Massachusetts",83700,"Bachelor's",0,1
+56,"Man","Hispanic","New Mexico",137800,"Bachelor's",1,0
+85,"Woman","Hispanic","Louisiana",85100,"Bachelor's",0,1
+18,"Man","Hispanic","North Dakota",111500,"No Degree",1,0
+57,"Woman","White","Louisiana",27500,"High School",0,1
+47,"Man","White","Delaware",109600,"Bachelor's",1,1
+33,"Woman","White","New Hampshire",123800,"High School",1,0
+71,"Man","Asian","Oregon",22500,"High School",0,1
+65,"Man",NA,"South Dakota",24800,"High School",0,0
+37,"Woman","White","Ohio",95100,"High School",1,0
+84,"Woman","White","Pennsylvania",122700,"High School",0,0
+53,"Man",NA,"Virginia",115600,"Associate",1,0
+69,"Man","White","Oregon",54900,"Bachelor's",1,1
+39,"Non-binary","White","North Dakota",124700,"No Degree",0,0
+66,"Woman","Asian","Nebraska",75200,"No Degree",0,1
+59,"Man",NA,"South Dakota",41500,"High School",0,0
+76,"Man","Hispanic","Arkansas",98500,"Associate",0,1
+28,"Man","Black","New Jersey",127300,"No Degree",NA,0
+72,"Man","White","Idaho",121500,"Associate",0,0
+25,"Woman","White","Alabama",30600,"Bachelor's",0,0
+63,"Man","White","North Carolina",29200,"No Degree",0,0
+83,"Man","Hispanic","Wyoming",NA,"Associate",0,1
+63,"Woman","Hispanic","Montana",31700,"No Degree",0,1
+87,"Woman","Hispanic","New York",47600,"Doctorate",0,1
+89,"Man","Asian","Idaho",77100,"High School",0,1
+61,"Man","White","Hawaii",121100,"High School",0,1
+49,"Man","White","New Hampshire",130700,"Bachelor's",0,1
+53,"Woman","Hispanic","Montana",101200,NA,0,0
+62,"Man","White","Idaho",70400,NA,0,0
+31,"Woman","White","Nevada",38700,"Bachelor's",0,1
+33,"Woman","White","New Mexico",134600,"No Degree",0,0
+50,"Woman","Hispanic","Hawaii",NA,"High School",0,0
+57,"Man","Black","Iowa",64000,"High School",0,0
+57,"Woman","White","Nevada",86700,"Bachelor's",1,1
+27,"Woman","White","Minnesota",84200,"Master's",0,1
+89,"Man","White","California",123100,"High School",0,1
+26,"Woman","Asian","Nebraska",139400,"High School",0,1
+24,"Man","White","Massachusetts",NA,"Doctorate",0,0
+24,"Woman","Hispanic","Maryland",127100,"Bachelor's",0,0
+75,"Woman","Asian","Louisiana",125000,"High School",1,1
+78,"Woman","Hispanic","Ohio",56600,"High School",0,1
+41,"Woman","White","Michigan",86100,"Master's",0,1
+80,"Man","Asian",NA,58400,"Bachelor's",1,1
+71,"Woman","Hispanic","Nebraska",132800,"Associate",1,1
+40,"Woman","White","Iowa",112700,"Associate",1,NA
+NA,"Woman",NA,"Arizona",67100,"Associate",1,1
+50,"Man","Black","California",149600,"No Degree",0,0
+74,"Man","White","Louisiana",111100,"No Degree",1,1
+46,"Non-binary","Asian","New Jersey",50900,"Bachelor's",0,0
+27,"Woman","White","Georgia",104200,"High School",0,0
+70,NA,"White","Oregon",64700,"No Degree",1,NA
+71,"Non-binary","White","Arizona",124100,NA,0,1
+28,"Man","White","South Carolina",62300,"Associate",0,1
+42,"Woman",NA,"Hawaii",54700,"High School",0,1
+69,"Man","Hispanic",NA,29100,"Bachelor's",1,0
+43,"Woman","White","Maine",94200,"Associate",1,1
+24,"Man","White","Oklahoma",20500,"High School",1,0
+42,"Woman","Asian","Maryland",56500,"No Degree",1,1
+49,"Woman","White","New Mexico",56400,"Associate",0,0
+41,"Woman","Hispanic","Kentucky",126400,"Master's",1,1
+74,"Man","White",NA,35300,"High School",0,NA
+90,"Man","Black","Minnesota",54100,"High School",0,1
+40,"Man","Hispanic","Kansas",77100,"Associate",0,0
+31,"Man","Black","South Dakota",144600,"High School",0,0
+23,"Man","White","Indiana",61300,"Associate",0,0
+18,"Man","White","Hawaii",122100,"No Degree",1,0
+75,"Man","Hispanic","California",37100,"High School",0,1
+46,"Woman","Hispanic","Texas",84300,"No Degree",1,1
+NA,"Man","White","Idaho",88300,"High School",0,1
+44,"Man","Black","Colorado",135200,"Master's",0,0
+24,"Man","White","Ohio",67000,"Master's",0,0
+77,"Man","Asian","Iowa",80600,"No Degree",0,1
+43,"Woman","Hispanic","Indiana",77200,"Doctorate",1,0
+58,"Woman","Hispanic","Kentucky",112700,"No Degree",1,0
+23,"Man","Hispanic","Connecticut",26700,"Associate",0,0
+48,"Man","Hispanic","Alabama",111200,"Associate",1,1
+34,"Woman","Hispanic","Louisiana",106300,"High School",0,1
+81,"Man","White","Arizona",106300,"High School",0,1
+54,"Man","White","Florida",85000,"High School",0,1
+74,"Non-binary","Hispanic","Hawaii",55800,"Master's",0,1
+37,"Man","White","Maryland",68500,"Associate",0,0
+52,"Man","Hispanic","Wisconsin",33700,"High School",0,0
+NA,"Woman","White","Minnesota",53100,"Master's",0,0
+83,"Man","Hispanic","Washington",26000,"No Degree",1,0
+21,"Woman","Asian","Oklahoma",81000,"No Degree",1,0
+22,"Man","Hispanic",NA,62100,"High School",1,0
+42,NA,"Hispanic","Montana",47300,"High School",0,NA
+25,"Man","White","Ohio",117800,"No Degree",0,1
+72,"Woman","White","Oklahoma",51700,"Doctorate",0,0
+62,"Woman","White","Hawaii",72700,"High School",0,1
+35,"Woman","White","Missouri",111400,"Bachelor's",0,0
+59,"Woman","Hispanic","Utah",34900,"Bachelor's",0,1
+48,"Woman","White","Illinois",37500,"Bachelor's",NA,0
+23,"Woman","White","Louisiana",148000,"High School",0,0
+88,"Man","White","Texas",147000,"Master's",0,1
+78,"Woman","White","Delaware",118600,"High School",NA,1
+65,"Man","White","Kansas",23900,"Bachelor's",0,1
+34,"Man","White","Iowa",146600,"High School",1,1
+62,"Woman","Black","New Mexico",118800,NA,1,1
+80,"Woman","White","Massachusetts",135400,"Associate",1,1
+70,"Man","White","New Mexico",NA,"Bachelor's",0,1
+70,"Woman","White",NA,55200,"High School",0,1
+80,"Man","Asian","Oregon",98900,"Associate",1,1
+88,"Woman","White","Connecticut",64200,"High School",1,1
+34,"Man","Hispanic","New Mexico",118400,"High School",0,0
+19,"Man","White","New Mexico",29700,"Master's",0,0
+66,"Woman","White","Wyoming",135800,"Bachelor's",1,0
+19,"Woman","White","Wyoming",120200,"Doctorate",0,0
+30,"Man","Hispanic","Tennessee",134800,"Associate",0,NA
+41,"Woman","Black","Oregon",143200,"Master's",0,0
+66,"Woman","White",NA,62100,NA,0,NA
+84,"Man","White","Hawaii",43200,"High School",1,0
+19,"Woman","Black","Florida",39500,"Bachelor's",1,1
+54,"Woman","White",NA,34900,"Master's",0,1
+80,"Man","Black",NA,81300,"High School",1,1
+30,"Man","White","Missouri",125500,"High School",0,0
+59,"Woman","White","Wyoming",132700,"No Degree",0,1
+78,"Non-binary","Black","Nebraska",28400,"Bachelor's",1,1
+87,"Woman","White","Nevada",115200,"Doctorate",0,1
+55,"Woman","Hispanic","Pennsylvania",146400,"Associate",1,0
+81,"Woman","White","North Dakota",NA,"Associate",0,NA
+53,NA,"Hispanic","Nevada",113100,"Bachelor's",0,0
+52,"Woman","White","Vermont",97400,NA,0,0
+84,"Woman","Black","Hawaii",25600,"Bachelor's",0,1
+65,"Woman","White","California",78400,"Doctorate",NA,1
+83,"Man","White","Mississippi",103000,"Bachelor's",1,1
+40,"Man","White","Arizona",124100,"Associate",0,0
+84,"Woman","Hispanic","California",90400,"No Degree",0,1
+26,"Man","White","New Hampshire",134600,"Associate",1,0
+78,"Woman","White","Delaware",20900,"No Degree",0,1
+56,"Man","White","Arizona",78100,NA,0,1
+48,"Man","White","Virginia",82800,"High School",1,0
+90,"Man","White","Indiana",123100,"Master's",0,1
+53,"Woman","Other","Iowa",56200,"Bachelor's",0,0
+39,"Woman","White","Iowa",96800,"No Degree",1,0
+61,"Man","Black","Wisconsin",44400,"No Degree",0,1
+58,"Woman","White","Arizona",124900,"Doctorate",0,NA
+60,"Man","Hispanic","Louisiana",97300,"Associate",0,0
+56,"Woman","White","Oregon",55400,"High School",0,1
+54,"Woman","White","Illinois",124300,"Bachelor's",0,1
+50,"Woman","White","Alaska",98600,"No Degree",NA,1
+29,"Man","White",NA,144500,"High School",1,0
+38,"Woman","Asian","Wyoming",43200,"No Degree",0,1
+52,"Woman","Other","Pennsylvania",20600,"High School",1,1
+47,"Woman","White","Colorado",NA,"Master's",1,1
+67,"Man","White",NA,120300,"High School",NA,1
+64,"Woman","Hispanic","Alabama",94500,"High School",0,1
+84,"Woman","White","Ohio",42200,"Bachelor's",0,1
+59,"Woman","White","New York",31600,"Bachelor's",0,1
+57,"Man","Black","New Hampshire",NA,"High School",0,0
+59,"Woman","White",NA,38900,"High School",0,0
+43,"Woman","Black","Idaho",102600,"Associate",0,0
+30,"Man","White","Louisiana",78000,"Bachelor's",0,0
+37,"Woman","Black","Arkansas",140300,"No Degree",0,1
+37,"Man","White","Massachusetts",99500,"No Degree",0,1
+58,"Woman","White","Virginia",NA,"High School",NA,1
+25,NA,NA,"Wisconsin",87200,"Bachelor's",0,NA
+56,"Woman","White","Texas",109600,"No Degree",1,1
+NA,NA,"Asian","New Mexico",83000,"Bachelor's",0,1
+28,"Woman","White","Indiana",100100,"Associate",0,0
+19,"Man","Hispanic","Delaware",82300,"Master's",0,0
+36,"Man","White","Tennessee",130800,"Bachelor's",0,0
+30,"Man","Hispanic","Virginia",54800,"Bachelor's",1,0
+48,"Woman","Hispanic","New Mexico",73100,"Bachelor's",0,1
+NA,"Woman","White","Tennessee",124000,"High School",1,0
+39,"Woman","Black","Maine",133600,"Bachelor's",0,1
+33,"Woman","Black","Washington",90100,"High School",0,1
+86,"Man","Other","Kentucky",62700,"Bachelor's",0,0
+53,"Woman","Hispanic","Kentucky",95200,"Bachelor's",0,1
+67,"Man","Hispanic","North Dakota",63400,"High School",1,0
+50,"Man","White","South Carolina",40600,"High School",0,0
+45,"Non-binary","White","Ohio",86300,"No Degree",1,0
+NA,"Woman","White","Tennessee",24700,"Bachelor's",0,0
+29,"Man","Black","Nebraska",38500,"High School",0,0
+70,"Woman","White","Wisconsin",42400,"Bachelor's",0,1
+45,"Woman","Black","Louisiana",62100,"High School",1,1
+83,"Woman","White","Arizona",NA,"High School",0,NA
+67,"Non-binary","White","Mississippi",132600,"High School",0,1
+64,"Woman",NA,"Alaska",66300,"Bachelor's",0,0
+68,"Non-binary","White","Vermont",143600,"High School",0,0
+23,"Woman","White","Arizona",82700,"Bachelor's",1,NA
+32,"Woman","Hispanic","Kansas",132800,"Bachelor's",1,1
+36,"Woman","Black","New Jersey",61300,"Associate",0,0
+76,"Man","Black","Massachusetts",63600,"Bachelor's",1,1
+20,"Man","Asian","Florida",41000,"Bachelor's",1,1
+50,"Woman","White","West Virginia",101200,"High School",0,1
+65,"Man","Asian","Tennessee",43800,"Bachelor's",0,1
+62,"Man","Hispanic","Montana",90100,"Bachelor's",0,0
+27,"Man","White","Kentucky",45500,"No Degree",0,1
+NA,"Man","White","Virginia",33500,"High School",0,1
+41,"Woman","White","South Dakota",62900,"Associate",0,1
+35,"Woman","Hispanic","Ohio",98200,"Bachelor's",1,0
+76,"Man","White","Oklahoma",109800,"Bachelor's",1,NA
+26,"Man","White","Alabama",46600,"Associate",0,0
+70,"Man","White","Wisconsin",74000,"High School",0,0
+NA,"Man","White","Pennsylvania",38800,"High School",1,0
+25,"Man","Black","Georgia",47000,"Bachelor's",0,0
+22,"Woman","White","Rhode Island",119600,NA,1,0
+46,"Woman","White","Minnesota",82600,"High School",0,1
+67,"Woman","White","Montana",51100,"Doctorate",0,1
+87,"Man","White","Kansas",123500,"High School",1,1
+43,"Man","White","Wyoming",77600,"No Degree",1,0
+90,"Man","Hispanic","New Jersey",42100,"No Degree",0,1
+28,"Man","White","Massachusetts",41500,"Bachelor's",0,0
+23,"Woman","Hispanic","Oklahoma",145900,"Bachelor's",0,1
+73,"Woman","White","Missouri",87900,"Bachelor's",0,1
+NA,"Woman","Black","Minnesota",87900,"Bachelor's",0,0
+85,"Man","White","Idaho",109500,NA,0,0
+45,NA,"White","Connecticut",122500,"Doctorate",NA,1
+84,"Man","Asian","Massachusetts",110000,"Bachelor's",1,1
+57,NA,"White","Missouri",134300,"Bachelor's",0,0
+23,"Man","White","Mississippi",38300,"High School",1,0
+53,"Woman","Black","Nebraska",54500,"High School",1,1
+72,"Man","White","Washington",136500,"Bachelor's",1,1
+65,"Man","Hispanic","Pennsylvania",66000,"High School",0,1
+27,"Man","Hispanic","Wyoming",141200,"Bachelor's",0,0
+42,"Man","Other","Nevada",62500,"Bachelor's",0,0
+55,"Woman","Asian","Louisiana",103900,NA,0,1
+42,"Man","White","Indiana",NA,"Bachelor's",0,1
+21,"Man","Hispanic","Pennsylvania",93100,"High School",0,0
+69,"Man","White","Montana",NA,"High School",1,0
+39,"Woman","White","Pennsylvania",89000,"Master's",0,0
+41,"Woman","Black","West Virginia",69800,"No Degree",0,0
+56,"Woman","White","Texas",98200,"Bachelor's",0,1
+64,"Woman","Asian","Wisconsin",54200,"No Degree",0,0
+77,NA,"Hispanic",NA,104100,"High School",0,1
+80,"Man","White","New Hampshire",106600,"Bachelor's",1,1
+54,"Woman","Black","Minnesota",92100,"Associate",1,1
+63,"Man","Black","Connecticut",60100,"High School",0,1
+71,NA,"White","Arkansas",116600,"No Degree",0,1
+64,"Woman","White","Idaho",130100,"Associate",0,1
+33,"Man","White","Vermont",67900,"Bachelor's",0,0
+36,"Man","Black","Louisiana",77400,"Associate",0,0
+89,"Man","White","Montana",133200,"No Degree",0,1
+48,"Woman",NA,"Kentucky",73200,"No Degree",0,0
+NA,"Non-binary","Hispanic","New Jersey",83000,"High School",0,0
+65,"Woman","Hispanic","North Carolina",85500,"Associate",0,1
+77,NA,"Black","Pennsylvania",25100,"Bachelor's",1,1
+79,"Man","White","North Dakota",71400,"High School",0,1
+26,"Man","Hispanic","Tennessee",79800,"High School",1,0
+28,"Woman","White","Wyoming",92400,"Associate",1,0
+60,"Woman","White","North Carolina",107400,"High School",0,1
+47,"Man",NA,"Wyoming",NA,"Bachelor's",1,NA
+78,"Woman","Asian","Mississippi",135800,"Bachelor's",1,1
+72,"Non-binary","White","North Dakota",106600,"Bachelor's",NA,0
+78,"Man","White","Massachusetts",88100,"No Degree",0,1
+51,"Woman","White","Tennessee",60400,"Doctorate",1,0
+74,"Woman","Asian","Hawaii",23400,"High School",0,0
+55,"Woman","Hispanic","New Jersey",36900,"Bachelor's",0,0
+80,"Woman","White","Delaware",85300,"Bachelor's",0,1
+63,"Woman","White","New Hampshire",86400,"Associate",1,1
+NA,"Woman","Hispanic","North Dakota",35000,"High School",0,1
+35,"Man","Hispanic","Indiana",53300,"High School",1,0
+19,"Non-binary","White","Arkansas",41400,"Bachelor's",1,0
+89,"Woman","White","Montana",56300,"Bachelor's",1,1
+38,"Man","White","Wyoming",39800,"Master's",1,1
+74,"Woman","White","Utah",75800,NA,1,1
+88,"Man","White","Oklahoma",47600,"High School",1,1
+89,"Woman",NA,"Kentucky",30100,"High School",0,1
+76,"Woman","White","Georgia",133400,"High School",0,1
+54,"Non-binary","Hispanic","Alabama",47800,"Associate",0,NA
+72,"Man","White","Indiana",46400,"Bachelor's",0,0
+23,"Man","White","California",61200,"Doctorate",1,0
+57,"Woman","Black","Illinois",62900,"Associate",0,0
+23,"Woman",NA,"Iowa",120000,"High School",1,0
+45,"Man","Black","Nevada",94500,"Master's",0,1
+49,"Man","White","Pennsylvania",41100,"No Degree",NA,0
+66,"Man","White","Maryland",125700,"Doctorate",0,1
+82,"Woman","White","South Dakota",139900,"High School",1,1
+86,"Woman","Hispanic","Maryland",52800,"Associate",0,1
+64,"Man","Hispanic","Connecticut",117700,NA,0,1
+37,"Man","White","New York",46600,"Associate",0,0
+19,"Woman","Other","Utah",127800,"Associate",0,0
+79,"Man","White","Massachusetts",59300,"Doctorate",0,1
+80,"Woman",NA,"New York",119700,"Bachelor's",0,1
+79,"Man","Hispanic","Wyoming",35700,"Bachelor's",0,0
+27,"Man","White","Utah",129800,"High School",1,0
+76,"Man",NA,"Rhode Island",126800,"Bachelor's",1,1
+66,"Man","White","Oklahoma",131000,"Bachelor's",NA,1
+24,NA,NA,"Texas",21900,"No Degree",0,0
+78,"Woman","Asian","New Jersey",24900,"Bachelor's",0,1
+55,"Man","White","North Dakota",58900,"High School",0,1
+53,"Woman","Black",NA,62500,"No Degree",0,NA
+40,"Man","Hispanic","Ohio",29700,"High School",0,0
+51,"Man","White","California",112100,"High School",0,1
+21,"Woman","White","Oregon",23300,"Doctorate",0,NA
+71,"Man","Asian","Washington",127100,"Bachelor's",0,1
+46,"Woman","White","Arkansas",86500,"High School",0,1
+75,"Woman","Hispanic","North Dakota",119700,"High School",0,1
+73,"Woman",NA,"Louisiana",NA,"Bachelor's",0,1
+68,"Woman","White","Pennsylvania",NA,"Master's",0,1
+67,"Man","White","Ohio",143400,"High School",0,1
+65,"Man","White","New Hampshire",61200,"Bachelor's",1,1
+20,"Woman","White","Minnesota",57300,"No Degree",1,0
+50,"Man","White","Georgia",145900,"Bachelor's",0,1
+51,"Non-binary","White","Louisiana",51600,"Associate",0,1
+83,"Man","Hispanic","Tennessee",124000,"Associate",1,0
+81,"Man","Black","Alaska",58400,"Bachelor's",0,1
+57,"Woman","White","North Dakota",110600,"High School",1,1
+75,"Woman","White","North Carolina",119000,"Bachelor's",1,0
+37,"Woman","White","Delaware",55600,"Bachelor's",0,0
+42,"Woman","White","Michigan",20700,"Associate",1,0
+88,"Woman",NA,"Louisiana",74900,"High School",1,1
+NA,"Woman","White","Oklahoma",97700,"Bachelor's",0,NA
+78,"Woman","Asian",NA,NA,"High School",0,NA
+39,"Man","White","South Dakota",64500,"High School",0,0
+73,"Man","White","Illinois",87200,"Associate",0,1
+50,"Woman","Black","Indiana",49700,"Bachelor's",1,0
+81,"Non-binary","Black","Missouri",57600,"Bachelor's",0,1
+70,"Man","White","Illinois",22900,"High School",0,0
+48,"Woman","White","Rhode Island",88700,"High School",0,1
+63,"Woman","White","Oklahoma",74400,"Bachelor's",NA,1
+89,"Woman","White","Florida",146700,"Associate",0,1
+41,"Woman","White","Michigan",26400,"High School",1,1
+77,"Man","White","South Dakota",103000,"High School",0,1
+47,"Woman","White","North Dakota",84200,"Master's",0,1
+40,"Woman","Hispanic","Idaho",20600,"High School",0,NA
+34,"Non-binary","White","South Dakota",44100,"High School",0,0
+NA,"Woman","White","Florida",102500,"High School",0,0
+74,"Man","Black","Louisiana",87400,"No Degree",0,1
+60,"Man","White","New Mexico",135900,"Bachelor's",0,1
+40,"Man","White","Florida",108100,"Bachelor's",0,0
+62,"Non-binary","Hispanic","South Carolina",86800,"High School",0,1
+25,"Woman","Hispanic","Missouri",59900,"Doctorate",0,1
+53,"Non-binary","White","Tennessee",71700,"Associate",0,0
+84,"Man","White","North Dakota",39900,"Bachelor's",0,1
+56,"Woman","White","North Dakota",69400,"High School",0,1
+50,"Woman","Hispanic","Oregon",55100,"No Degree",0,1
+55,"Woman","White",NA,142900,"No Degree",NA,1
+45,"Woman","White","Alaska",NA,"No Degree",0,0
+70,"Woman","Black","Maryland",115600,"Associate",0,1
+27,"Man","White","Pennsylvania",28800,NA,1,0
+58,"Woman","White","Oklahoma",68200,"High School",1,1
+25,"Woman","Asian","Maryland",48300,"No Degree",0,1
+18,"Man","White","Tennessee",134300,"High School",1,0
+83,"Woman","Hispanic","Maryland",75000,"Doctorate",1,1
+29,"Man","Black","South Carolina",NA,"Doctorate",0,1
+89,"Non-binary","White","Wyoming",73600,"Associate",0,NA
+58,"Man","Black","Kansas",40300,"High School",1,0
+25,"Woman","White","Alaska",101800,"No Degree",0,0
+74,"Woman","White","Utah",120000,"Bachelor's",0,1
+90,"Man","White","Kansas",137200,"Doctorate",0,1
+69,"Woman","Hispanic","Maryland",99300,"Master's",1,1
+84,"Man","White","Virginia",102000,"Associate",0,1
+57,"Man","White","Alabama",106100,"Associate",0,1
+19,NA,"White","Kentucky",140900,"Associate",0,0
+82,"Man","Hispanic","Wyoming",149000,"Bachelor's",1,0
+90,"Man","White",NA,53600,"Master's",0,1
+24,"Woman","Hispanic","Pennsylvania",57800,"High School",0,0
+46,"Man","White","New York",138500,"No Degree",0,0
+37,"Man","Black","South Carolina",68500,"Bachelor's",1,0
+24,"Man","Other","South Carolina",114100,"Associate",0,0
+62,"Man","Hispanic","Missouri",129200,"No Degree",0,0
+42,"Man","White","Georgia",35200,"Bachelor's",0,1
+30,"Man",NA,"Wyoming",129800,"Master's",0,1
+27,"Woman","Black","Montana",105300,"Bachelor's",0,0
+58,"Woman","White","West Virginia",21200,"Master's",0,1
+NA,"Man","White",NA,34000,"Bachelor's",1,0
+25,"Man","White","Maine",75500,"No Degree",1,0
+88,"Man","Hispanic","South Carolina",127700,"High School",0,1
+32,"Woman","White",NA,63600,"High School",1,0
+66,"Woman","White","Iowa",58300,"Doctorate",NA,1
+56,"Man",NA,"Connecticut",137900,"Doctorate",1,0
+52,"Woman","White","Nevada",72900,"High School",0,1
+23,"Man","Hispanic","Arizona",93800,"No Degree",0,1
+88,"Man","White","Louisiana",52300,"Bachelor's",0,1
+21,"Woman","Hispanic","Louisiana",37500,"Doctorate",1,0
+65,"Woman",NA,"Missouri",45600,NA,0,1
+25,"Man","White","Louisiana",88900,"Bachelor's",1,0
+70,"Woman","Other","North Carolina",144200,"Bachelor's",0,NA
+84,"Woman",NA,"New Jersey",74600,"Bachelor's",0,NA
+70,"Man","Black","Arkansas",129100,"Master's",0,1
+31,"Woman",NA,"Georgia",30400,"Master's",NA,0
+45,"Woman",NA,"Maine",117500,"High School",0,1
+23,"Man","White","Pennsylvania",NA,"Associate",1,0
+26,"Man","Black","Massachusetts",NA,"Bachelor's",0,0
+50,"Woman",NA,"Oklahoma",25900,"No Degree",1,0
+63,"Woman","Black","Delaware",120000,"Bachelor's",0,0
+81,"Man","White","West Virginia",138400,"High School",0,1
+36,"Man","Black","Connecticut",117000,NA,1,0
+18,"Woman","White","North Carolina",32700,"High School",1,0
+69,"Non-binary","Hispanic","West Virginia",142900,"Bachelor's",NA,0
+85,"Woman","Hispanic","North Dakota",43200,"Associate",0,1
+22,"Woman","White",NA,124300,"High School",0,0
+36,"Woman","Hispanic","Illinois",107300,"Bachelor's",1,0
+52,"Man","White","Ohio",74400,"Associate",0,1
+50,"Woman","White","West Virginia",118000,"Associate",0,1
+86,"Man","White","Vermont",NA,"Bachelor's",0,NA
+78,"Man","White","New York",97200,"Associate",0,1
+40,"Woman","White","Idaho",61600,NA,1,0
+58,"Man","White","Oregon",104000,"High School",0,1
+80,"Woman","Black","Arkansas",66500,"High School",0,1
+66,"Woman","White","Missouri",133300,"High School",0,1
+86,"Man","Black","West Virginia",72800,"No Degree",0,1
+81,"Woman","White","Nebraska",79300,"Doctorate",1,1
+19,"Woman","White","Idaho",135600,"High School",0,NA
+35,"Non-binary","Hispanic","West Virginia",104800,"Associate",1,0
+21,"Woman","White","Alabama",21300,"High School",1,0
+89,"Man","White","Missouri",105200,"Doctorate",0,1
+82,"Woman",NA,"Kentucky",51400,"Doctorate",0,1
+28,"Non-binary","Asian","Kansas",145500,"No Degree",0,1
+74,"Man","Hispanic","Pennsylvania",78100,"Associate",0,1
+73,"Man","Black","Oregon",106900,"Bachelor's",0,0
+32,"Woman","Asian","Alaska",33000,"Associate",0,0
+69,NA,"Hispanic","Connecticut",46900,"No Degree",0,NA
+78,"Woman",NA,"New Mexico",NA,"High School",1,1
+53,"Woman","Hispanic","Virginia",93800,"Bachelor's",0,1
+NA,"Non-binary","White","Iowa",73000,"Associate",1,NA
+24,"Non-binary","White","Kansas",95400,"High School",1,0
+85,"Man","Hispanic","New Jersey",37200,"No Degree",0,1
+70,"Man","White","Rhode Island",84700,"Master's",1,1
+41,"Woman","Asian","Oklahoma",44200,"Bachelor's",1,1
+85,"Woman","White","New York",51300,"High School",0,1
+84,"Man","White","Arkansas",125100,"Associate",1,1
+28,"Woman","Black","Georgia",108200,"Bachelor's",1,NA
+22,"Woman","Black","Georgia",146000,"Master's",0,1
+49,"Non-binary","White","Alabama",38000,"No Degree",0,0
+28,"Man","White","Virginia",78600,"Bachelor's",0,1
+77,"Man","White","New Hampshire",83600,"Bachelor's",0,1
+48,"Woman","White","Oklahoma",90500,"Doctorate",0,1
+62,"Woman","Hispanic","South Carolina",79300,"No Degree",1,0
+76,"Man","White","Hawaii",NA,"Associate",1,1
+41,"Woman","Asian","Colorado",112900,"Bachelor's",0,0
+52,"Woman","Black","Wisconsin",137800,"Master's",0,0
+NA,"Man","White","Idaho",57700,NA,0,0
+81,"Woman","White","New Hampshire",119500,"Bachelor's",1,1
+89,"Woman","White",NA,140800,"No Degree",1,1
+61,"Woman","White","Arizona",21300,"Bachelor's",0,1
+59,"Woman","White","Colorado",85100,"High School",0,1
+49,"Woman","Asian","Nevada",53700,"High School",0,1
+56,"Woman","White","Alaska",80100,NA,1,1
+24,"Man","Black","Delaware",73000,"No Degree",1,1
+55,"Man","Black","New Mexico",128600,"Bachelor's",0,0
+34,"Man","White",NA,37400,"No Degree",0,0
+50,"Woman",NA,"Virginia",133000,"Bachelor's",0,1
+19,"Woman","Hispanic","Wisconsin",71000,"Bachelor's",0,0
+83,"Woman","White","Pennsylvania",100600,"Associate",1,1
+87,"Woman","White","Oklahoma",36700,"High School",0,NA
+76,"Man","White","Connecticut",134600,"No Degree",0,NA
+64,"Woman","White","Montana",103200,"Bachelor's",0,1
+26,NA,"Hispanic","Wyoming",86600,"Bachelor's",0,0
+40,"Man","Asian","Wyoming",NA,"Doctorate",0,1
+NA,"Woman","White","Maryland",145400,"No Degree",1,1
+32,"Man","Asian","Kansas",122900,"High School",1,0
+89,"Woman","White","Mississippi",143400,"Master's",0,1
+38,"Man","Black","Alabama",106000,"Bachelor's",0,1
+65,"Man","White","Colorado",79200,"Associate",0,0
+90,"Woman","White","Delaware",142800,"High School",0,1
+60,"Man","White","Arizona",107000,"High School",0,NA
+73,"Woman","White","Colorado",65500,"High School",0,1
+21,"Woman","White","Kansas",65100,"Master's",1,0
+88,"Man","White","North Dakota",22000,"Bachelor's",0,1
+73,"Woman","White","Indiana",78700,"Master's",1,1
+67,"Woman","Black","Colorado",86300,"Bachelor's",0,1
+28,"Man","White","Minnesota",27800,"Bachelor's",0,1
+77,"Man","White","Massachusetts",116500,"High School",0,1
+84,"Man","Asian","Alabama",39900,"Bachelor's",0,NA
+NA,"Woman","White","Michigan",64700,"High School",0,1
+NA,"Man","White","Arkansas",NA,"Associate",0,1
+30,"Woman","White","Nebraska",139500,"Bachelor's",NA,0
+NA,"Man","White","Texas",102800,"Associate",0,1
+19,"Man","Asian","Washington",132200,NA,0,1
+23,"Woman","White","New Jersey",73700,"Master's",0,0
+34,"Man","Hispanic","New Jersey",111600,"Bachelor's",0,0
+49,"Man","Hispanic","Alaska",45600,"No Degree",0,1
+88,"Man","White","Maryland",88600,"High School",0,1
+89,"Woman","White","Maryland",137000,"High School",1,0
+34,"Man","White","Alabama",57800,NA,1,0
+88,"Woman","Hispanic","New York",59700,"High School",NA,1
+72,"Woman","White","Georgia",75900,"High School",0,0
+36,"Man","Black","Utah",135300,"High School",0,0
+32,"Man","White","Pennsylvania",108500,NA,0,0
+63,"Man","White","Indiana",76900,"High School",1,1
+31,"Woman","Black",NA,128300,"High School",0,0
+44,"Man","White","Wyoming",51500,"High School",0,1
+50,"Woman","White","Rhode Island",69900,"High School",1,0
+67,"Man","White","Hawaii",35600,"No Degree",0,1
+35,"Man","Black","Rhode Island",50300,NA,0,0
+37,"Man","White","New Hampshire",109400,"Associate",1,0
+59,"Woman","White","Virginia",149100,"Doctorate",0,0
+70,"Man","White","Nebraska",128200,"No Degree",0,1
+80,"Woman","Hispanic","Wyoming",110700,"Doctorate",0,1
+NA,"Woman","White","California",88200,"Master's",0,1
+48,"Woman","White",NA,43800,"Doctorate",0,1
+72,"Woman","Black","Virginia",147700,"High School",1,0
+35,"Woman",NA,"Utah",127100,"Associate",0,1
+61,"Man","White","South Carolina",145900,"No Degree",0,1
+38,NA,"White","New York",88200,"Bachelor's",1,1
+46,"Woman","White","Connecticut",116700,"No Degree",0,1
+53,"Man","Black","Michigan",123500,"High School",0,1
+40,NA,"Hispanic","Oklahoma",85200,"High School",0,0
+59,"Man","Black","North Carolina",87700,"High School",0,0
+86,"Woman","White","North Dakota",111600,"No Degree",0,1
+83,"Woman","Hispanic","Alabama",82000,"Bachelor's",1,1
+79,"Man","Hispanic","Oregon",58200,"Bachelor's",0,1
+81,"Man","Asian","Hawaii",89700,"Master's",0,1
+68,"Man","White","South Carolina",96600,"Bachelor's",0,NA
+35,"Man","White","South Dakota",105800,"Associate",0,1
+27,"Woman",NA,"West Virginia",144300,"No Degree",0,0
+90,"Man","Black","Illinois",55200,"Associate",NA,1
+89,"Man","White","Kentucky",54400,"Bachelor's",0,1
+NA,"Woman","White",NA,53300,"Bachelor's",0,0
+60,"Woman","Hispanic","Hawaii",76600,"Bachelor's",0,1
+22,"Man","White","Wisconsin",75500,"High School",0,0
+NA,"Woman","Black","Georgia",70900,"No Degree",0,NA
+40,"Woman","Black","Wyoming",93800,"No Degree",0,0
+20,"Woman","White","Indiana",68500,"High School",1,0
+32,"Man",NA,"Idaho",68800,"Bachelor's",NA,1
+75,"Man","White","New York",NA,"High School",0,1
+24,"Woman","Black","Florida",101200,"Bachelor's",1,1
+51,"Man","White","Arkansas",41400,"Associate",0,0
+NA,"Man","White","Wisconsin",37600,"Doctorate",0,0
+35,"Woman","Hispanic","Texas",NA,"Bachelor's",0,0
+63,"Woman","White","Nebraska",29900,"Associate",1,1
+26,"Woman","Hispanic","Oklahoma",109700,"Doctorate",0,0
+34,"Woman","Asian","South Dakota",146200,"Bachelor's",0,1
+24,"Woman","White","Wyoming",123000,"Master's",0,1
+25,"Man","Hispanic","Wisconsin",105100,"High School",0,0
+82,"Man","White","Idaho",109700,"No Degree",0,NA
+26,"Woman","Black","Florida",64900,"Bachelor's",1,1
+42,"Man","Black",NA,103700,"High School",0,1
+19,"Man","White","Nevada",70700,"Associate",0,0
+28,"Woman","White","Nevada",36200,"No Degree",NA,0
+85,"Woman","Black","Illinois",121900,"No Degree",0,1
+57,"Man","White","Connecticut",132900,"Bachelor's",0,0
+37,"Man","White","Arizona",74200,"No Degree",0,0
+28,"Man","Hispanic","Minnesota",104400,"Master's",1,0
+35,"Man",NA,"Idaho",94900,"Master's",NA,0
+71,"Woman","Hispanic","Mississippi",136200,"Doctorate",0,1
+31,"Woman","White","Maryland",71400,"Bachelor's",0,0
+84,"Woman","Asian","Kansas",71500,"Master's",1,NA
+NA,"Woman","White",NA,60000,"Bachelor's",0,1
+56,"Woman","Black","Texas",32600,"High School",0,1
+40,"Man","White","Alabama",114400,NA,0,0
+57,"Woman","Black","Oregon",135700,"Bachelor's",0,0
+50,"Woman","White","Kansas",92300,"Associate",0,1
+54,"Man","Hispanic","Ohio",37100,"High School",1,1
+77,"Woman","Black","Iowa",137500,"Bachelor's",1,1
+46,NA,"White","Missouri",71500,"Bachelor's",NA,0
+87,"Non-binary","White","South Carolina",36900,"Associate",0,1
+42,"Woman","White",NA,136900,"Bachelor's",NA,1
+59,"Non-binary","White",NA,78000,"High School",0,1
+NA,"Woman",NA,"Oregon",76400,"Bachelor's",1,1
+NA,"Man","Asian","New Jersey",74200,"High School",0,1
+25,"Man","White","South Dakota",60800,"Master's",0,0
+33,"Woman","White","Tennessee",38400,"No Degree",0,0
+56,"Man","Hispanic","Illinois",122800,"Master's",0,NA
+82,"Man","Hispanic","Oregon",129300,"Associate",0,1
+75,"Woman","White","Alabama",45100,"No Degree",0,1
+73,"Woman","White",NA,79400,"Bachelor's",1,0
+60,"Woman","White","New Mexico",52900,"Associate",0,1
+84,"Man","White",NA,30800,"High School",0,1
+73,"Non-binary","Black","New Jersey",120000,"High School",0,0
+NA,"Woman","White","North Dakota",56000,"High School",0,1
+34,"Man","Hispanic","Tennessee",NA,"Bachelor's",0,1
+31,"Man","White","California",37500,"No Degree",0,0
+81,"Man","White","Arizona",82000,"Associate",0,1
+41,"Man",NA,"California",130600,NA,0,0
+25,"Man","White","Vermont",21800,"Doctorate",NA,1
+37,"Woman","White","Illinois",149300,"No Degree",0,1
+67,"Man","White","Iowa",122600,"Associate",0,1
+34,"Man","White","Colorado",52500,"Master's",1,1
+26,"Woman","White","Alabama",116300,"No Degree",0,0
+52,"Woman","Asian","Georgia",80200,"Bachelor's",1,1
+80,"Man","White","Wyoming",24600,"Associate",0,1
+74,"Man","Asian","Missouri",99300,"Associate",1,1
+33,"Woman","White","Texas",72000,"Master's",1,0
+69,"Man","White","Maryland",149600,"Bachelor's",0,1
+52,"Man","White","Louisiana",77500,"Associate",0,1
+71,"Woman",NA,"Iowa",21300,"No Degree",0,NA
+43,"Woman","Black","Montana",23300,"Bachelor's",0,1
+30,"Man","Asian","Rhode Island",59500,"High School",0,0
+53,"Woman","Hispanic","Arizona",36200,"Bachelor's",0,0
+NA,"Woman","Black",NA,34900,"No Degree",0,1
+42,NA,"White","Maine",78800,"High School",1,1
+45,"Man","Black","Oregon",73300,"Master's",0,1
+46,"Woman","White","Washington",55300,"High School",0,1
+61,"Man","White","Maine",70900,"Doctorate",1,0
+71,"Man","White","Connecticut",92300,"High School",0,0
+42,"Woman","Other","Nevada",50300,"High School",0,0
+46,"Woman","White","Kansas",26200,"Bachelor's",0,0
+37,"Man","White","California",145700,"Associate",1,1
+30,"Man","White","Mississippi",NA,"Bachelor's",0,1
+52,"Woman","Hispanic",NA,98200,"Bachelor's",0,1
+72,"Man","Hispanic","Tennessee",142000,"Associate",0,NA
+22,"Woman","White","North Carolina",148900,"No Degree",0,NA
+73,NA,"Hispanic","Oklahoma",96900,"Associate",0,1
+61,"Man","White","Nebraska",123300,"Bachelor's",0,0
+89,"Woman","White","Maryland",31400,"High School",0,1
+55,NA,"White","Florida",33400,"Bachelor's",1,1
+41,"Man","Hispanic","California",37000,"High School",0,0
+65,"Woman","White","Connecticut",49300,"Associate",0,1
+32,"Man","White","North Carolina",63600,"No Degree",0,1
+82,"Woman","Asian","Alaska",99000,"Associate",0,1
+71,"Man",NA,"Texas",NA,"Bachelor's",NA,1
+27,"Woman","White","Alabama",56600,"No Degree",1,0
+59,"Man","White","Vermont",30500,"No Degree",0,0
+58,"Man",NA,"New Mexico",103000,"No Degree",0,1
+42,"Woman","Hispanic","Tennessee",131500,"High School",0,0
+69,"Woman","White","Wyoming",119900,"No Degree",0,NA
+54,"Woman","White","Arkansas",NA,"High School",0,0
+44,"Woman","White","Oklahoma",106200,"No Degree",1,0
+NA,"Man","White","North Dakota",117100,"Associate",1,1
+52,"Woman","White","Kansas",78000,"Bachelor's",1,1
+51,NA,"White","Kansas",46900,NA,1,1
+80,"Woman","Hispanic","South Carolina",53800,"Associate",1,1
+66,"Man","White","Ohio",NA,"Bachelor's",0,1
+NA,"Man","White","Maryland",32800,"Associate",0,0
+46,"Woman","White",NA,24300,"Master's",1,1
+88,"Woman","White","Texas",102300,"Associate",0,1
+62,"Man","White","Kentucky",89900,NA,0,1
+51,"Man","White","Kansas",126800,"Master's",1,1
+90,"Non-binary","White","North Dakota",106000,"High School",0,1
+64,"Man","White","Delaware",80900,"Associate",0,0
+18,"Woman","White","California",131600,"Associate",0,1
+27,"Man","White","Idaho",120700,"Bachelor's",1,1
+58,"Woman","White","New Mexico",69700,NA,0,1
+58,"Woman","Asian","Washington",148300,"High School",0,1
+56,"Man",NA,"Minnesota",NA,"Bachelor's",0,1
+23,"Non-binary","White","Alaska",146500,"Bachelor's",0,NA
+49,"Woman","White","Iowa",78600,"No Degree",0,1
+78,"Woman","Hispanic","Oregon",60300,"High School",1,1
+33,"Woman","Black","South Dakota",131700,"Doctorate",0,0
+19,"Woman",NA,"Iowa",112000,"Bachelor's",0,0
+51,"Woman","White","Rhode Island",92400,"Associate",0,0
+47,"Woman","White","South Dakota",51400,"High School",1,0
+45,NA,"White","Mississippi",88200,"Bachelor's",0,1
+75,"Woman","White","Florida",118100,"Bachelor's",0,1
+47,"Woman","White","Hawaii",85000,"Associate",0,0
+56,"Woman","Black","Georgia",NA,"High School",0,1
+87,"Man","Hispanic","Wisconsin",85500,"Bachelor's",0,1
+85,"Woman","White","Tennessee",99200,"High School",0,1
+84,"Man","Hispanic","Washington",84200,"Associate",0,1
+63,"Man","White","Rhode Island",45400,"No Degree",0,1
+76,"Woman","White","Nevada",86600,"Associate",0,1
+65,"Man","Hispanic","Kentucky",135200,"No Degree",0,1
+27,"Woman","Asian","Utah",29900,"Doctorate",0,0
+45,"Woman","White","Oregon",80600,"Bachelor's",1,NA
+84,"Woman","Hispanic","Ohio",132600,"Bachelor's",0,1
+18,"Man","White","Louisiana",62600,"Associate",0,0
+61,"Woman","White","Indiana",97400,"Bachelor's",0,1
+66,"Man","White","Connecticut",81000,"High School",NA,1
+50,"Woman","White","Vermont",118800,"High School",0,1
+53,"Woman","Other","New Mexico",89000,"No Degree",0,1
+30,"Man","Black","Arizona",145900,"Associate",0,0
+63,"Woman","Black","North Dakota",143400,"Master's",1,0
+35,"Man","Hispanic","Missouri",94700,"Bachelor's",0,0
+67,"Man","White","Hawaii",37300,"Bachelor's",0,NA
+43,"Woman","White","Tennessee",52900,"High School",0,0
+53,"Man","White","Kansas",149100,"No Degree",1,0
+53,"Man","Black","Ohio",NA,"High School",0,NA
+73,"Man","White","Oklahoma",48600,"High School",0,1
+74,"Man","Black","Connecticut",65300,"Bachelor's",0,1
+20,"Man","Black","Georgia",94000,NA,1,0
+28,"Woman","Hispanic","Maryland",23900,"Bachelor's",0,0
+68,"Man","Hispanic","Kentucky",22600,"Associate",0,0
+47,NA,"White","Massachusetts",63600,"High School",0,0
+33,"Man","White","Texas",53300,"High School",1,0
+28,"Man","White","Indiana",23000,"High School",1,0
+83,"Man","Black","Arizona",119800,"High School",1,0
+39,"Woman","White","Indiana",121500,"High School",0,1
+34,"Man","White","New York",110100,"Associate",0,0
+22,"Woman",NA,"Wisconsin",26600,"Bachelor's",0,0
+79,"Man","White","Oregon",105700,"No Degree",0,0
+52,"Man","White",NA,119100,"High School",1,0
+39,"Man","Hispanic","Ohio",61600,"Associate",0,0
+80,"Man","Black","Indiana",72500,"High School",0,NA
+32,NA,"Asian","Kentucky",24200,"Master's",0,0
+52,"Woman","White","Hawaii",84000,"High School",0,0
+47,"Woman","Hispanic","Alabama",38400,"Associate",0,0
+51,"Woman","White","Florida",123900,"High School",1,1
+86,"Man","White","Nebraska",73200,"High School",0,1
+86,"Man","White","Arizona",141700,"High School",0,0
+88,"Woman","White",NA,115300,"No Degree",0,0
+19,"Man","White","Michigan",76500,NA,0,0
+40,"Man","Hispanic","Utah",123800,"Bachelor's",0,1
+38,"Woman","White","West Virginia",67600,"Bachelor's",1,1
+36,"Man","White","South Dakota",69500,"Bachelor's",0,1
+26,"Man","White","New Jersey",107600,"Bachelor's",1,0
+79,"Man","White","Florida",77200,"Associate",0,1
+86,"Woman","White","Iowa",112600,"Master's",1,1
+62,"Woman",NA,"Virginia",76600,"No Degree",NA,1
+49,NA,"White","Ohio",106500,"High School",0,0
+65,"Woman","White","Delaware",88000,"No Degree",0,1
+32,"Woman",NA,"West Virginia",137500,"No Degree",0,0
+43,"Man","Other","Alabama",141900,"Bachelor's",0,0
+37,"Man","Black","Montana",144900,"No Degree",1,0
+52,"Man","White","Texas",50400,"No Degree",0,1
+72,"Man","Black","Alabama",76100,"Master's",0,1
+48,"Man","White","Washington",74500,"High School",1,0
+41,"Man","Hispanic","Rhode Island",40700,"Master's",1,1
+34,NA,"Black","New Hampshire",89100,"Bachelor's",NA,0
+88,"Woman","White","Michigan",NA,"Associate",0,1
+74,"Man","Black","Minnesota",31800,"Master's",0,1
+52,"Man","White","New Mexico",105300,"High School",0,1
+75,NA,"White","Hawaii",43200,"Associate",1,0
+71,"Man","White","New Jersey",52300,"No Degree",0,1
+30,"Man","White","Oregon",95300,"High School",1,1
+85,"Woman","Black","New Mexico",32900,"High School",0,1
+42,"Man","White","New Jersey",106500,"High School",0,0
+46,"Man","White","Mississippi",100600,"High School",0,1
+70,"Man","Other","West Virginia",133500,"High School",0,0
+33,"Man","Other","Montana",45800,"No Degree",0,0
+58,"Woman","Hispanic","Wisconsin",61700,"Associate",0,1
+26,"Man","Hispanic","Wisconsin",73300,"No Degree",1,0
+54,"Woman","White","Montana",140500,"No Degree",1,1
+71,"Woman","Hispanic","South Carolina",25700,"High School",1,0
+41,"Man","Asian","Arizona",45200,"High School",0,0
+31,"Woman","White","Maryland",113600,"Doctorate",0,1
+47,"Man","Hispanic","South Carolina",27200,"Bachelor's",0,0
+79,"Woman","Black","Massachusetts",147600,"High School",0,NA
+57,"Man","White","Indiana",23400,"Associate",NA,1
+56,"Man","Black","Kansas",86200,"Associate",0,1
+89,"Woman","White","Nebraska",132500,"Bachelor's",1,1
+31,"Woman","White","Kansas",59200,"No Degree",0,1
+65,"Woman","White","Ohio",100600,"Bachelor's",1,NA
+82,"Woman","White","Indiana",93500,"High School",0,1
+40,"Woman","Hispanic","Montana",78300,"No Degree",0,1
+43,"Man","White","Kentucky",142500,"Associate",0,0
+63,"Woman","White","New Mexico",NA,"Bachelor's",1,1
+40,"Woman","Hispanic",NA,64800,"Bachelor's",1,1
+80,"Woman","Hispanic","Vermont",142700,"High School",0,1
+38,"Man","Other","Maryland",32000,"High School",1,0
+56,"Woman","White","Alaska",135100,"Bachelor's",NA,NA
+88,"Woman","Other",NA,58800,"High School",0,1
+62,"Woman","White","Indiana",40500,"High School",1,1
+64,"Man",NA,"Oregon",34500,"No Degree",1,1
+63,NA,"Black","New York",30700,"No Degree",0,0
+77,"Man",NA,"South Dakota",50100,"Bachelor's",0,1
+34,"Woman","Hispanic","Mississippi",131900,"Master's",0,0
+26,"Woman","Other","New Hampshire",73700,"High School",0,1
+40,"Woman",NA,"Massachusetts",112600,"No Degree",1,NA
+NA,"Woman","Hispanic","Nebraska",140900,"No Degree",1,0
+55,"Woman","White","Wyoming",59600,"Associate",1,1
+50,"Woman","White","New Hampshire",116000,"Bachelor's",0,1
+77,"Woman","White","Nebraska",105000,"High School",0,0
+89,"Man","White","Nevada",NA,"No Degree",0,1
+22,"Man","Hispanic","Georgia",22800,"Bachelor's",0,0
+80,"Woman","White","New Hampshire",69700,"No Degree",0,1
+58,"Non-binary","White","Louisiana",52900,"Bachelor's",1,1
+54,"Woman","Black","North Dakota",89300,"Master's",0,1
+63,"Man","Asian","Arkansas",106900,"High School",0,1
+33,"Man","White","South Dakota",58000,"Bachelor's",0,0
+23,"Man","White","Washington",81200,"Bachelor's",0,0
+69,"Man","Hispanic","Alaska",69300,"No Degree",0,1
+89,"Man","White","Arkansas",33000,"No Degree",0,1
+NA,"Woman","White","Idaho",43200,"High School",0,1
+25,"Man","White","New Hampshire",129900,"Associate",1,0
+60,"Man","Hispanic","Wyoming",81400,"High School",1,0
+41,"Man","White","Hawaii",134100,"Master's",0,0
+22,"Woman","White",NA,129400,"Bachelor's",0,0
+NA,"Woman","White","Nebraska",42600,"High School",0,1
+82,"Man","Black","New Jersey",114200,"Bachelor's",0,1
+21,"Woman","Hispanic","Arkansas",75400,"Associate",1,1
+52,"Man","Asian","Georgia",96100,"Bachelor's",0,1
+27,"Man","White","Minnesota",119800,"Associate",NA,0
+29,"Woman","White","Utah",140300,"High School",0,0
+65,"Woman","White","West Virginia",124800,"Bachelor's",1,1
+20,"Man","Hispanic","Alaska",142500,"Associate",1,0
+43,"Woman","White","New York",58800,"Associate",1,NA
+77,"Man","White","Wyoming",20200,"High School",1,1
+62,"Woman","White","Utah",44700,"High School",1,0
+25,"Woman","Black","Colorado",116600,"Bachelor's",0,0
+34,"Man","Black","Tennessee",102500,"No Degree",1,0
+22,"Woman","White","Kentucky",85700,"High School",0,0
+NA,"Man","Asian","South Carolina",23600,"High School",0,1
+19,"Man",NA,"Mississippi",27900,"High School",0,0
+34,"Man","Hispanic","Rhode Island",42200,"No Degree",0,NA
+66,"Woman","Hispanic","Indiana",149200,"Associate",0,1
+89,"Woman","Hispanic","Hawaii",121500,"Master's",1,1
+NA,"Woman","White","Montana",87900,"Bachelor's",1,1
+35,"Man","White","Mississippi",25700,"Master's",1,1
+43,"Man","White","Tennessee",55100,"Bachelor's",1,1
+47,"Woman","White","Maine",34900,"High School",0,1
+86,"Man","White","Washington",114000,"High School",0,1
+63,"Man","White","Texas",72600,"Associate",0,0
+29,"Man","Hispanic","Indiana",NA,"Doctorate",0,0
+NA,"Man","Hispanic","Georgia",69600,"Bachelor's",0,1
+18,"Woman","Hispanic","Washington",75600,"Bachelor's",0,0
+65,"Woman","White","Wyoming",NA,NA,0,1
+69,"Man","White","North Carolina",78400,"Master's",1,1
+24,"Man","Hispanic","Minnesota",NA,"High School",1,0
+86,"Man","Asian",NA,125100,"High School",NA,1
+27,"Woman","White","Michigan",40000,"No Degree",0,0
+53,"Woman","White","Minnesota",91800,"High School",1,NA
+25,"Woman","White","New Hampshire",76800,"High School",0,1
+66,"Woman","White","New Jersey",114700,"Master's",0,1
+86,"Man","White","Kentucky",NA,"No Degree",1,1
+56,"Man","White","Florida",78400,"Bachelor's",0,1
+39,"Woman","White","Rhode Island",118400,"Bachelor's",0,0
+27,"Woman","Hispanic","Arkansas",52000,NA,0,0
+79,"Woman","Black",NA,81600,"High School",1,1
+82,"Woman","White","Alaska",49600,"Bachelor's",0,1
+64,"Man",NA,NA,78100,"No Degree",1,1
+31,"Man","White","Maryland",137500,"Bachelor's",0,1
+88,"Man","Hispanic","Kansas",143600,"Associate",1,0
+80,"Woman","Hispanic","Vermont",96200,"Master's",1,1
+NA,"Woman","White","Wisconsin",103900,"Bachelor's",0,1
+36,"Man","White","New York",142600,"Bachelor's",0,0
+39,"Woman","Asian","Rhode Island",115400,"Associate",0,0
+35,"Woman","White","North Dakota",143500,"High School",0,NA
+68,"Non-binary","White","Illinois",108700,"Bachelor's",1,0
+84,"Man","Asian","Rhode Island",53600,"High School",0,1
+69,"Non-binary","White","Oklahoma",113100,"Master's",1,1
+80,"Woman","White","Ohio",83700,"Doctorate",0,1
+54,"Man","Hispanic","Wisconsin",138200,"Bachelor's",0,1
+35,"Woman","Black","Vermont",141500,"Bachelor's",1,0
+58,"Man","Black","Mississippi",82000,"High School",0,1
+82,"Man","White","Arkansas",77200,"High School",1,1
+56,"Man","White","Nebraska",97500,"Master's",1,1
+32,"Woman","Hispanic","Kansas",111800,"Bachelor's",0,0
+66,"Woman","Asian","Delaware",146800,"Master's",0,1
+87,"Man","Hispanic","Arizona",80600,"No Degree",0,1
+57,NA,"White","Kentucky",58700,"Associate",0,1
+77,"Man","Hispanic","Massachusetts",127400,"High School",0,1
+51,"Woman","Black","New Jersey",137200,"No Degree",0,0
+35,"Man","White","Vermont",NA,"High School",0,1
+NA,"Woman","White","Georgia",55300,"Master's",0,1
+77,"Woman","Hispanic",NA,76300,"Bachelor's",0,1
+52,"Man","White","North Dakota",144300,"High School",1,1
+87,"Woman","Asian","Georgia",86200,"No Degree",1,1
+71,"Woman","White","Arkansas",52800,"Master's",NA,1
+60,"Man","White","Mississippi",73300,"High School",0,0
+90,"Woman","White","Maryland",47000,"Doctorate",1,1
+39,"Man","White","Texas",85500,"Master's",0,0
+37,"Woman","White","Alaska",130500,"Bachelor's",0,1
+64,"Woman","Hispanic","Virginia",22900,"Associate",0,1
+58,NA,"Black","Oklahoma",128300,"Associate",1,1
+31,"Woman","White","North Carolina",53200,"Doctorate",0,0
+46,"Man","White","Virginia",112200,"Associate",1,NA
+28,"Woman","Asian","Indiana",106200,"Bachelor's",1,0
+77,"Woman","Asian","Minnesota",99000,"Master's",NA,0
+37,"Woman","Hispanic","Colorado",100200,"High School",0,0
+68,"Woman","Asian","Minnesota",97400,"High School",0,1
+30,"Man","Hispanic",NA,108000,"High School",0,1
+23,"Woman","White",NA,147400,"Associate",1,0
+NA,"Woman","White","Oklahoma",128900,"Associate",0,1
+61,"Woman","Hispanic","New York",29900,NA,0,1
+NA,"Woman","Asian","Kentucky",88700,"Master's",1,1
+36,"Man","White","Washington",41100,NA,0,NA
+28,"Man","Black","Nebraska",76100,"Associate",1,1
+80,"Woman","White","Massachusetts",33100,NA,0,1
+39,"Man","White","Minnesota",33700,"Bachelor's",1,0
+28,"Woman",NA,"Kansas",128100,"Bachelor's",1,0
+44,"Man","Asian","Utah",144000,"High School",0,0
+19,"Woman","Black","Delaware",72400,"No Degree",1,0
+23,"Non-binary","White","Alaska",67900,"Bachelor's",0,0
+72,"Woman","White","Washington",78300,"High School",0,NA
+65,"Woman","White","West Virginia",76400,"High School",1,1
+45,"Woman","White","Kentucky",145200,"Bachelor's",0,NA
+46,"Man","White","Ohio",116400,"Bachelor's",1,0
+85,"Man","White","Alaska",56600,"Bachelor's",0,1
+58,"Non-binary","White","Texas",83800,"Bachelor's",0,1
+22,"Woman","Hispanic","North Carolina",147200,"Bachelor's",0,0
+26,"Man","Black",NA,93800,"High School",0,0
+45,"Man","White","Maine",30300,"Doctorate",0,1
+32,"Non-binary","White","New Jersey",27700,"Bachelor's",0,1
+77,"Woman","White","Nebraska",NA,"High School",0,1
+34,"Man","White","North Carolina",127100,"Bachelor's",1,0
+78,"Woman","Asian","Washington",101500,"Bachelor's",1,1
+58,"Man","White","Louisiana",47800,"Bachelor's",1,0
+42,"Woman",NA,"Arkansas",NA,"Master's",0,0
+36,"Man","Hispanic","Minnesota",38400,"High School",0,1
+69,NA,"White","Alaska",76100,"High School",0,1
+88,"Man","White","Tennessee",120500,"High School",0,1
+28,"Man","Hispanic","New York",138300,"Bachelor's",1,0
+32,"Woman","White","New York",127500,"High School",0,0
+90,"Non-binary","White","Alabama",144300,NA,0,1
+28,"Man",NA,"New York",68900,"High School",0,0
+NA,"Man","Asian","Alabama",26100,"High School",0,1
+90,"Woman","Hispanic","South Carolina",57600,"Bachelor's",0,1
+40,"Woman","Hispanic","Maine",150000,"High School",0,1
+34,"Man","White","South Carolina",78300,"Bachelor's",0,0
+27,"Woman","White","Nevada",149400,NA,1,0
+89,"Woman","Asian","New Jersey",112000,"High School",0,1
+35,"Man","White","Minnesota",59000,"Associate",0,0
+41,"Man","White","North Carolina",138100,"High School",1,0
+67,"Non-binary","Black","Georgia",81700,"High School",0,1
+88,"Woman","White","West Virginia",126000,"High School",0,1
+29,"Man","White","Connecticut",53000,"No Degree",NA,0
+20,"Man","Asian","Pennsylvania",144600,"High School",0,0
+48,"Man","White","Minnesota",80200,"High School",0,1
+38,"Man","White",NA,36900,"High School",0,1
+NA,"Man","White","Virginia",120100,"Bachelor's",0,1
+51,"Woman","White","Georgia",38500,"No Degree",NA,0
+NA,"Woman","White","New Jersey",90400,"Associate",NA,1
+53,NA,"White",NA,105500,"Master's",0,1
+43,"Woman","Black","Oklahoma",94900,"No Degree",0,0
+18,"Man","Hispanic","Hawaii",85600,"No Degree",0,0
+NA,"Man","White","Utah",141000,"High School",0,0
+59,"Woman","White","Idaho",49500,NA,1,1
+NA,"Man","White","Colorado",21800,"High School",1,1
+29,"Woman","Asian","California",56100,"Bachelor's",1,0
+30,"Man","Asian","Kansas",60500,"Associate",0,0
+67,"Man","White","Washington",137100,"High School",0,1
+81,"Man","Asian","Florida",92500,"Doctorate",0,1
+NA,"Man","White","Nevada",37500,"Associate",0,0
+41,"Woman","Black","Alabama",48200,NA,0,0
+26,"Woman","White","Wyoming",31000,"High School",0,0
+48,NA,"Asian","Tennessee",131200,"Bachelor's",0,1
