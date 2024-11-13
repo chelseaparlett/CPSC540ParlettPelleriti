@@ -1,0 +1,55 @@
+---
+title: "PracticeProblems"
+output: html_document
+---
+
+# Practice Problems
+
+## Registering to Vote
+
+### Freq
+
+Use the data [here](https://raw.githubusercontent.com/chelseaparlett/CPSC540ParlettPelleriti/refs/heads/main/Data/23cw.csv) to analyze the relationship between various personal/demographic variables and **whether or not someone is registered to vote**. Fit a GLM appropriate for the question and use the output and ggplots to answer the questions below.
+
+-   Is there a statistically significant relationship between **age** and whether someone is registered to vote?
+
+-   Is there a statistically significant relationship between **income** and whether someone is registered to vote?
+
+-   What is the best **interval estimate** for the effect of eating at Taco Bell on registering to vote?
+
+-   How certain are we about the effect of being **White** on registering to vote? How can you tell?
+
+-   Which state has the highest probability of being registered to vote?
+
+```{r}
+library(ggplot2)
+```
+
+### Bayes
+
+Use `brms` to fit a similar Bayesian model with Weakly Informative (regularizing) priors on the coefficients (hint: `prior("normal(?,?)", class = "b")`). Are any of your inferences different from the frequentist model?
+
+```{r}
+library(brms)
+```
+
+## Spelling Scores
+
+Use the data [here](https://raw.githubusercontent.com/chelseaparlett/CPSC540ParlettPelleriti/refs/heads/main/Data/23cw2.csv) to analyze the relationship between various personal/demographic variables and **schools standardized test scores**. Fit a Bayesian Mixed Effect GLM appropriate for the question and use the output and ggplots to answer the questions below.
+
+-   How well do your **priors** fit what you expect about the data? (pp_check)
+
+-   Is there evidence that **hair-color** has no effect on standardized test scores?
+
+-   How much does the intercept for standardized test-scores **vary** between different school districts (used **random effects**)?
+
+-   How much better are test scores per extra **100 calories a day**? Does this data provide evidence that it's beneficial for schools to hand out snacks to students leading up to the exam?
+
+-   What is the probability that the regression coefficient for **`sleep`** is $\geq 5$ (meaning that an hour of extra sleep gives you a $+5$ predicted standardized test score)?
+
+    ```{r}
+    library(brms)
+    library(bayesplot)
+    library(tidybayes)
+
+    ```
