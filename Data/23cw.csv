@@ -1,0 +1,7 @@
+"age","gender","race","state","income","education_level","ate_at_tacobell","registered_to_vote"
+48,"Woman","White","Wyoming",25900,"High School",0,1
+NA,"Woman","Black","New York",140300,"Bachelor's",0,0
+31,"Woman","Black","Arkansas",NA,NA,1,0
+84,NA,"White","Louisiana",74200,"Bachelor's",0,1
+59,"Man","White","Utah",37600,"Master's",0,1
+67,"Man","White","Kentucky",140500,"Master's",0,1
