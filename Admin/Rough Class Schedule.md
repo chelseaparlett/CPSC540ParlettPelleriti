@@ -1,5 +1,5 @@
 | Date | Day | Class \# | Topic | Other | Reading |
-|------------|------------|------------|------------|------------|----------------|
+|----|----|----|----|----|----|
 | 2024-08-26 | M | 0 | Course Structure + Intro |  |  |
 | 2024-08-28 | W | 1 | Math Review + Intro | Quiz | Math for ML Chapter 2,4,5 |
 | 2024-09-02 | Labor Day |  |  |  |  |
@@ -24,8 +24,10 @@
 | 2024-11-06 | W | 21 | Hypothesis Testing | Quiz | Casella and Berger Chapter 8, Bayes Rules Section 8.2-8.3 |
 | 2024-11-11 | M | 22 | Advanced Stat Inf |  | Casella and Berger Chapter 12 |
 | 2024-11-13 | W | 23 | Advanced Stat Inf | Quiz | Bayes Rules Chapters 9 and 13 |
-| 2024-11-18 | M | 24 | Topics in Statistical ML |  | TBD |
-| 2024-11-20 | W | 25 | READING GROUP: Statistical Inference | Quiz | Journal Articles |
+| 2024-11-18 | M | 24 | Topics in Statistical ML |  | None |
+| 2024-11-20 | W | 25 | READING GROUP: Statistical Inference | Quiz | Severe Testing as a Basic Concept
+in a Neyman-Pearson Philosophy
+of Induction (see slack or Canvas) |
 | Thanksgiving |  |  |  |  |  |
 | Thanksgiving |  |  |  |  |  |
 | 2024-12-02 | M | 26 | Final Project |  |  |
