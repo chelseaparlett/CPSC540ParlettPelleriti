@@ -2,29 +2,26 @@
 
 [Drs. LaHaye and Parlett's Pre-Requisite Knowledge Doc](https://docs.google.com/document/d/1pFlZVz-cEbIFsym3VX46BHRCSLTTca7n55G_S4wD0xs/edit) (540, 541, 542)
 
-## Books/Resources We'll Read for Class (FREE!)
-
--   [Bayes Rules](https://www.bayesrulesbook.com/)
-
--   [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (3rd Edition)
-
--   [Causal Inference in R](https://www.r-causal.org/)
-
--   [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)
-
--   [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+## Books/Resources (FREE!)
 
 -   [Math for Machine Learning](https://mml-book.github.io/) (on Reserve at Library)
+-   [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)
+-   [Causal Inference in R](https://www.r-causal.org/)
+-   [Bayes Rules](https://www.bayesrulesbook.com/)
 
--   [GAMs Interactive Course](https://noamross.github.io/gams-in-r-course/), [StitchFix GAMs Blog](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)
 
-## Books/Resources I Strongly Suggest Buying/Borrowing/Sharing
+## Books/Resources You Should Buy/Borrow/Share
 
 -   [Statistical Inference](https://www.amazon.com/Statistical-Inference-Chapman-Texts-Science/dp/1032593032/)
 
 ## Other Books/Resources You Might Find Helpful
 
 ### Free
+-   [GAMs Interactive Course](https://noamross.github.io/gams-in-r-course/), [StitchFix GAMs Blog](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)
+
+-   [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+
+-   [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (3rd Edition)
 
 -   [Probabilistic Machine Learning](https://probml.github.io/pml-book/book2.html) (on Reserve at Library)
 

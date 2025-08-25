@@ -1,35 +1,33 @@
-| Date | Day | Class \# | Topic | Other | Reading |
-|----|----|----|----|----|----|
-| 2024-08-26 | M | 0 | Course Structure + Intro |  |  |
-| 2024-08-28 | W | 1 | Math Review + Intro | Quiz | Math for ML Chapter 2,4,5 |
-| 2024-09-02 | Labor Day |  |  |  |  |
-| 2024-09-04 | W | 3 | Probability Theory + Graph Theory | Quiz | Math for ML Chapter 6 (*Suggested*: Statistical Inference Chapters 1 & 2) |
-| 2024-09-09 | M | 4 | Graph Theory + MCMC |  | Bayes Rules Chapter 7 |
-| 2024-09-11 | W | 5 | MCMC | Quiz | PRML Chapter 11 |
-| 2024-09-16 | M | 6 | MCMC |  | 8 |
-| 2024-09-18 | W | 7 | Causal Inference DAGs | Quiz | Causal Inference in R Chapter 5 |
-| 2024-09-23 | M | 8 | Causal Inference DAGs |  | Causal Inference in R Chapter 8-10 |
-| 2024-09-25 | W | 9 | Generalized Linear Models | Quiz | Regression and Other Stories Chapters 8 and 13 |
-| 2024-09-30 | M | 10 | Generalized Linear Models |  | [TJ Mahr's blog](https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/), [Bayes Rules Chapter 17](https://www.bayesrulesbook.com/chapter-17), [RMS Chapters 17 + 20](https://hbiostat.org/rmsc) |
-| 2024-10-02 | W | 11 | Generalized Linear Models | Quiz | None, no good FREE resources :( |
-| 2024-10-07 | M | 12 | Generalized Additive Models |  | **Noam Ross** course + StitchFix Blog (see [Resources](https://github.com/chelseaparlett/CPSC540ParlettPelleriti/blob/main/Admin/Resources.md)) |
-| 2024-10-09 | W | 13 | READING GROUP: Models/Causal Inference |  | Journal Articles |
-| 2024-10-14 | M | 14 | Review |  |  |
-| 2024-10-16 | W | 15 | Midterm Exam | Exam |  |
-| 2024-10-21 | M | 16 | Introduction to Statistical Inference: Estimators |  | None |
-| 2024-10-23 | W | 17 | Introduction to Statistical Inference: Point + Interval Estimates | Quiz | Casella and Berger Chapter 7, Bayes Rules Section 8.1 |
-| 2024-10-28 | M | 18 | Interval Estimation |  | Casella and Berger Chapter 9, Bayes Rules Section 8.2 |
-| 2024-10-30 | W | 19 | Interval Estimation | Quiz | Casella and Berger Chapter 9, Bayes Rules Section 8.2 |
-| 2024-11-04 | M | 20 | Hypothesis Testing |  | Casella and Berger Chapter 8, [Equiv Testing for Psych](https://journals.sagepub.com/doi/pdf/10.1177/2515245918770963) |
-| 2024-11-06 | W | 21 | Hypothesis Testing | Quiz | Casella and Berger Chapter 8, Bayes Rules Section 8.2-8.3 |
-| 2024-11-11 | M | 22 | Advanced Stat Inf |  | Casella and Berger Chapter 12 |
-| 2024-11-13 | W | 23 | Advanced Stat Inf | Quiz | Bayes Rules Chapters 9 and 13 |
-| 2024-11-18 | M | 24 | Topics in Statistical ML |  | None |
-| 2024-11-20 | W | 25 | READING GROUP: Statistical Inference | Quiz | Severe Testing as a Basic Concept
-in a Neyman-Pearson Philosophy
-of Induction (see slack or Canvas) |
-| Thanksgiving |  |  |  |  |  |
-| Thanksgiving |  |  |  |  |  |
-| 2024-12-02 | M | 26 | Final Project |  |  |
-| 2024-12-04 | W | 27 | Final Project |  |  |
-| 2024-12-11 | W |  | Final Exam | Exam |  |
+|Date        |Day|Class #|Topic                               |Other|Notes                                    |Reading                                       |
+|------------|---|-------|------------------------------------|-----|-----------------------------------------|----------------------------------------------|
+|2025-08-25  |M  |0      |Course Structure + Intro            |     |                                         |                                              |
+|2025-08-27  |W  |1      |Math Review + Intro                 |Quiz |LA, Probability                          |Math for ML Chapter 2,4,5                     |
+|Labor Day   |M  |       |                                    |     |                                         |                                              |
+|2025-09-03  |W  |3      |Probability Theory + Graph Theory   |Quiz |Graphs, DAGs, R                          |Math for ML Chapter 6                         |
+|2025-09-08  |M  |4      |Generalized Linear Models           |     |Basics of GLMs                           |Regression and Other Stories Chapters 8 and 13|
+|2025-09-10  |W  |5      |Generalized Linear Models           |Quiz |Specific GLMs                            |Regression and Other Stories Chapter 15       |
+|2025-09-15  |M  |6      |Generalized Linear Models           |     |Splines, Polynomial Regression, GAMs     |Noam Ross course (see Resources)              |
+|2025-09-17  |W  |7      |Generalized Linear Models           |Quiz |Mixed Effect Models + other GLM offshoots|TJ Mahr's blog                                |
+|2025-09-22  |M  |8      |Generalized Linear Models           |     |Repeated Measures and Time Series        |                                              |
+|2025-09-24  |W  |9      |READING GROUP: Models               |     |                                         |Journal Articles (see Canvas)                 |
+|2025-09-29  |M  |10     |MCMC                                |     |Monte Carlo, Metropolis Hastings         |Bayes Rules! Chapter 7                        |
+|2025-10-01  |W  |11     |MCMC                                |Quiz |Gibbs Sampling, Hamiltonian Monte Carlo  |                                              |
+|2025-10-06  |M  |12     |Causal Inference DAGs               |     |DAGs + Common Issues + Experiments       |Causal Inference in R Chapter 5               |
+|2025-10-08  |W  |13     |Causal Inference DAGs               |Quiz |Causal Inference Methods                 |Causal Inference in R Chapter 8-10            |
+|2025-10-13  |M  |14     |Review                              |     |                                         |                                              |
+|2025-10-15  |W  |15     |Midterm Exam                        |Exam |                                         |                                              |
+|2025-10-20  |M  |16     |Statistical Inference               |     |Estimation                               |TBD                                           |
+|2025-10-22  |W  |17     |Statistical Inference               |Quiz |Quantifying Uncertainty                  |TBD                                           |
+|2025-10-27  |M  |18     |Statistical Inference               |     |Interval Estimates + Bootstrapping       |TBD                                           |
+|2025-10-29  |W  |19     |Statistical Inference               |Quiz |Interval Estimates + Bootstrapping       |TBD                                           |
+|2025-11-03  |M  |20     |Statistical Inference               |     |Hypothesis Testing                       |TBD                                           |
+|2025-11-05  |W  |21     |Statistical Inference               |Quiz |Hypothesis Testing                       |TBD                                           |
+|2025-11-10  |M  |22     |Advanced Statistical Inference      |     |Bayesian Regression Inference            |TBD                                           |
+|2025-11-12  |W  |23     |Advanced Statistical Inference      |Quiz |Frequentist Regression Inference         |TBD                                           |
+|2025-11-17  |M  |24     |Topics in Statistical ML            |     |TBD                                      |TBD                                           |
+|2025-11-19  |W  |25     |READING GROUP: Statistical Inference|     |                                         |Journal Articles (see Canvas)                 |
+|Thanksgiving|M  |       |                                    |     |                                         |                                              |
+|Thanksgiving|W  |       |                                    |     |                                         |                                              |
+|2025-12-01  |M  |26     |Final Project Presentations         |     |                                         |                                              |
+|2025-12-03  |W  |27     |Final Project Presentations         |     |                                         |                                              |
+|2025-12-10  |   |       |Final Exam                          |Exam |                                         |                                              |
