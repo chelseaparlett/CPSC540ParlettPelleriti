@@ -11,7 +11,7 @@ This is [**NOT**]{.underline} A GROUP ASSIGNMENT. You should work individually.
 
 ## Data
 
-The data for this homework assignment is *synthetic* data looking at some marketing data for 5000 customers from **Company X**. Company X is a wellness brand that sells various supplements and other wellness products. Recently, they ran a new campaign called "Be Well" to support their new energy + protein poweder. There were 3 variants of the campaigned used. This data set contains data about the campaign as well as some customer information. The following variables are included in the data:
+The [data for this homework assignment](https://raw.githubusercontent.com/chelseaparlett/CPSC540ParlettPelleriti/refs/heads/main/Data/marketingcampaign.csv)is *synthetic* data looking at some marketing data for 5000 customers from **Company X**. Company X is a wellness brand that sells various supplements and other wellness products. Recently, they ran a new campaign called "Be Well" to support their new energy + protein poweder. There were 3 variants of the campaigned used. This data set contains data about the campaign as well as some customer information. The following variables are included in the data:
 
 -   `age`: age of customer
 
