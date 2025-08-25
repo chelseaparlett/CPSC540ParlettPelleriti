@@ -1,0 +1,5001 @@
+age,gender,past_purchases,campaign_variant,ad_source,email_signup,campaign_spend
+32,Man,21,C,TikTok,TRUE,70.18
+37,Man,29,A,Google Search,FALSE,115.82
+63,Woman,14,B,Google Search,FALSE,374.88
+41,Man,50,B,Facebook,FALSE,82.32
+42,Man,44,A,TikTok,FALSE,47.82
+66,Man,40,C,Facebook,TRUE,181.23
+47,Non-Binary,21,A,Facebook,TRUE,187.5
+21,Woman,72,C,Google Search,TRUE,203.9
+30,Woman,61,A,Instagram,FALSE,112.98
+33,Man,46,B,Google Search,TRUE,213.26
+58,Woman,41,A,TikTok,FALSE,210.03
+45,Woman,20,C,Facebook,TRUE,273.73
+46,Woman,50,A,TikTok,TRUE,110.24
+42,Man,32,B,Facebook,FALSE,104.69
+32,Woman,56,A,Google Search,TRUE,230.88
+67,Man,13,A,Instagram,FALSE,277.83
+47,Man,42,B,Facebook,TRUE,185.61
+18,Man,64,B,Instagram,TRUE,91.11
+51,Man,26,A,Google Search,TRUE,171.7
+33,Woman,56,A,Google Search,TRUE,119.13
+24,Man,71,A,Google Search,TRUE,116.86
+37,Man,6,A,Facebook,TRUE,38.39
+25,Woman,60,A,Google Search,TRUE,108.21
+29,Woman,82,A,Facebook,FALSE,41.07
+31,Woman,48,B,TikTok,FALSE,171.36
+18,Man,38,C,Instagram,TRUE,4.32
+53,Woman,39,A,Facebook,FALSE,140.69
+42,Woman,32,A,TikTok,TRUE,146.81
+23,Man,22,A,Facebook,FALSE,85.1
+59,Man,16,C,TikTok,TRUE,120.84
+46,Woman,7,B,Instagram,TRUE,403.1
+36,Woman,36,C,Instagram,TRUE,292.22
+53,Man,33,C,Google Search,TRUE,308.88
+53,Woman,47,C,Facebook,TRUE,288.58
+52,Man,28,A,Instagram,TRUE,168.88
+50,Woman,37,A,Instagram,TRUE,246.98
+48,Other,32,A,Facebook,TRUE,133.69
+39,Man,44,C,TikTok,TRUE,121.96
+35,Man,16,A,Facebook,FALSE,134.06
+34,Man,35,C,Google Search,FALSE,136.6
+30,Man,55,C,Google Search,TRUE,122.76
+37,Man,29,C,Facebook,FALSE,149.74
+21,Man,32,C,TikTok,TRUE,8.23
+73,Man,17,A,Facebook,TRUE,200.54
+58,Man,31,B,TikTok,FALSE,226.45
+23,Man,51,C,Google Search,FALSE,128
+34,Man,49,A,Google Search,FALSE,118.94
+33,Woman,37,B,Facebook,TRUE,190.17
+52,Man,41,B,TikTok,FALSE,181.7
+39,Man,47,A,TikTok,TRUE,104.61
+44,Man,37,C,Facebook,TRUE,183.43
+40,Woman,54,A,Google Search,FALSE,163.73
+39,Non-Binary,29,B,Google Search,TRUE,227.74
+61,Woman,58,C,Facebook,TRUE,265.96
+37,Woman,40,A,Google Search,TRUE,193.63
+63,Man,38,C,Facebook,TRUE,227.13
+18,Woman,83,B,Facebook,TRUE,163.27
+49,Man,9,C,Facebook,FALSE,118.35
+42,Man,28,B,Google Search,TRUE,210.63
+43,Man,33,B,Instagram,TRUE,166.41
+46,Woman,28,B,Instagram,TRUE,340.97
+32,Woman,59,A,Instagram,TRUE,134.22
+35,Woman,49,C,Facebook,FALSE,171.59
+25,Man,37,B,Instagram,TRUE,195.22
+24,Woman,49,A,Facebook,TRUE,71.69
+45,Man,46,A,Google Search,TRUE,165.26
+47,Woman,46,C,TikTok,TRUE,218.72
+41,Man,17,A,Facebook,TRUE,189.05
+54,Man,52,B,Google Search,TRUE,280.2
+71,Woman,37,A,Facebook,FALSE,287.04
+33,Man,40,B,Instagram,TRUE,190.56
+18,Woman,95,C,Facebook,TRUE,95.87
+55,Man,9,B,Google Search,FALSE,297.71
+29,Woman,31,C,Facebook,TRUE,212.52
+30,Man,5,C,TikTok,FALSE,155.27
+55,Woman,24,A,TikTok,TRUE,223.97
+36,Woman,41,B,Google Search,TRUE,189.48
+22,Non-Binary,80,A,Instagram,FALSE,112.66
+43,Non-Binary,66,A,Instagram,TRUE,239.24
+38,Woman,51,C,TikTok,TRUE,191.65
+40,Non-Binary,46,A,Instagram,FALSE,189.13
+46,Woman,34,C,Facebook,TRUE,258.47
+34,Woman,65,C,Facebook,TRUE,232.34
+50,Woman,27,C,Google Search,TRUE,364.24
+37,Woman,47,C,Facebook,TRUE,206.07
+45,Woman,34,B,Facebook,FALSE,186.86
+56,Woman,25,A,TikTok,TRUE,192.44
+47,Man,30,A,Instagram,TRUE,192.24
+35,Man,42,C,TikTok,TRUE,156.22
+57,Man,31,C,TikTok,TRUE,184.05
+55,Woman,24,A,Instagram,TRUE,270.4
+48,Woman,18,A,Instagram,TRUE,149.88
+44,Woman,70,A,Facebook,TRUE,216.13
+31,Man,51,A,Google Search,FALSE,134.29
+60,Man,38,B,Instagram,FALSE,283.33
+31,Man,28,B,Facebook,TRUE,144.18
+73,Other,0,A,Facebook,FALSE,231.15
+63,Woman,30,C,Google Search,TRUE,469.04
+36,Man,24,C,Google Search,FALSE,238.79
+25,Woman,70,A,Instagram,TRUE,65.46
+29,Man,52,A,TikTok,TRUE,35.02
+44,Man,50,B,Facebook,TRUE,193.93
+36,Woman,49,A,Facebook,TRUE,136.89
+35,Man,33,C,Google Search,TRUE,151.51
+26,Woman,38,C,Instagram,FALSE,192.11
+39,Woman,49,B,Google Search,FALSE,305.58
+28,Woman,89,A,Instagram,FALSE,167.31
+18,Woman,63,B,Instagram,TRUE,80.68
+34,Woman,44,A,Instagram,TRUE,85.75
+54,Woman,13,C,Instagram,FALSE,332.21
+31,Man,39,A,Instagram,FALSE,81.65
+49,Woman,13,A,Google Search,FALSE,155.96
+18,Woman,76,B,Google Search,TRUE,90.24
+39,Non-Binary,53,C,Facebook,FALSE,188.37
+48,Non-Binary,86,B,Instagram,FALSE,261.99
+45,Man,37,C,TikTok,TRUE,68.34
+42,Man,47,A,Google Search,TRUE,193.06
+30,Woman,94,C,Instagram,TRUE,147.34
+27,Woman,45,A,Instagram,FALSE,80.05
+25,Other,43,C,TikTok,TRUE,108.62
+42,Man,17,B,Facebook,TRUE,114.68
+26,Non-Binary,51,B,Instagram,TRUE,162.67
+33,Woman,51,A,Instagram,TRUE,190.35
+36,Man,24,B,Facebook,TRUE,112
+68,Woman,22,C,TikTok,TRUE,354.64
+30,Woman,63,C,TikTok,FALSE,16.96
+44,Woman,63,C,Facebook,TRUE,170.66
+41,Woman,11,A,Google Search,TRUE,246.63
+26,Other,31,B,Google Search,TRUE,191.41
+39,Woman,55,A,Facebook,TRUE,145.14
+62,Man,59,A,Facebook,TRUE,153.67
+47,Man,14,B,Google Search,TRUE,247.16
+41,Non-Binary,34,B,TikTok,TRUE,220.84
+34,Man,63,A,Facebook,FALSE,133.82
+18,Man,28,A,Google Search,TRUE,43.43
+57,Woman,52,B,Instagram,TRUE,475.46
+18,Man,31,A,TikTok,TRUE,0
+51,Other,0,C,Facebook,TRUE,231.71
+69,Man,8,C,Google Search,TRUE,441.24
+18,Woman,86,C,Facebook,TRUE,105.4
+51,Woman,38,C,Facebook,TRUE,205.45
+36,Man,37,B,Google Search,FALSE,237
+18,Woman,70,C,Instagram,TRUE,71.45
+18,Man,48,A,Instagram,TRUE,63.34
+18,Woman,99,A,Facebook,FALSE,100.6
+32,Woman,64,C,TikTok,TRUE,112.78
+18,Woman,70,C,Google Search,TRUE,111.28
+50,Man,13,B,Instagram,TRUE,210.48
+72,Man,10,C,Google Search,TRUE,413.49
+21,Man,28,A,Google Search,TRUE,79.63
+52,Man,17,C,TikTok,FALSE,175.49
+52,Man,17,B,Instagram,TRUE,242.33
+45,Woman,28,A,TikTok,FALSE,109.6
+25,Non-Binary,52,C,Instagram,TRUE,159.25
+38,Woman,46,C,Facebook,TRUE,180.14
+36,Man,54,B,Instagram,TRUE,171.56
+48,Woman,62,B,Facebook,FALSE,225.14
+34,Man,35,A,Google Search,TRUE,141.61
+55,Woman,57,A,Facebook,TRUE,191.07
+34,Woman,69,C,Instagram,TRUE,197.93
+56,Woman,55,C,Facebook,FALSE,204.66
+24,Woman,79,A,Google Search,FALSE,157.85
+21,Woman,65,B,Instagram,TRUE,60.8
+80,Woman,0,A,Facebook,FALSE,270.2
+34,Man,45,A,Instagram,FALSE,91.38
+44,Man,17,B,Instagram,TRUE,244.82
+50,Man,29,A,Google Search,TRUE,154.61
+33,Man,56,C,Facebook,FALSE,92.33
+48,Woman,42,B,Google Search,FALSE,393.38
+46,Woman,46,C,Instagram,FALSE,253.22
+37,Man,54,B,Instagram,TRUE,116.4
+41,Man,24,B,Instagram,TRUE,272.67
+39,Man,65,A,Facebook,TRUE,121.27
+72,Man,9,A,Instagram,TRUE,234.01
+29,Woman,50,B,TikTok,TRUE,104.03
+24,Non-Binary,62,A,Instagram,FALSE,8.41
+41,Man,49,B,Google Search,TRUE,267.43
+45,Man,48,A,Facebook,TRUE,99.73
+47,Woman,36,B,TikTok,TRUE,153.8
+33,Man,47,B,Instagram,FALSE,163.55
+24,Woman,75,A,Google Search,TRUE,140.77
+59,Man,20,A,Google Search,FALSE,205.98
+35,Woman,51,B,Google Search,FALSE,261.29
+27,Man,38,A,Google Search,TRUE,95.64
+36,Non-Binary,61,C,Google Search,TRUE,319.33
+37,Woman,41,A,TikTok,FALSE,127.09
+57,Man,47,A,Facebook,TRUE,186.6
+41,Man,32,A,Instagram,FALSE,111.41
+51,Woman,35,A,TikTok,FALSE,133.98
+33,Man,54,B,Google Search,TRUE,221.29
+43,Woman,75,B,Google Search,TRUE,345.72
+35,Man,45,B,Google Search,TRUE,186.01
+41,Woman,77,B,Facebook,FALSE,224.61
+27,Woman,51,A,Instagram,FALSE,92.05
+20,Woman,71,A,Instagram,FALSE,138.12
+70,Man,16,A,Instagram,TRUE,196.34
+49,Man,63,C,Facebook,TRUE,186.53
+21,Woman,58,B,Google Search,TRUE,164.69
+31,Woman,95,A,Facebook,FALSE,137.05
+22,Man,54,C,Facebook,TRUE,112.7
+73,Woman,20,B,Google Search,TRUE,582.49
+60,Man,16,A,Google Search,TRUE,182.76
+36,Woman,39,C,Google Search,TRUE,272.05
+48,Woman,39,C,Instagram,TRUE,358.16
+34,Woman,44,B,Instagram,TRUE,257.1
+33,Man,49,A,Facebook,FALSE,47.57
+28,Woman,73,A,TikTok,TRUE,93.46
+31,Man,42,B,Instagram,TRUE,93.32
+65,Woman,29,C,TikTok,TRUE,307.75
+39,Woman,54,B,Google Search,TRUE,301.88
+42,Man,15,A,Facebook,FALSE,131.46
+44,Man,38,A,Google Search,TRUE,138.61
+58,Non-Binary,37,A,Instagram,TRUE,209.39
+32,Man,55,A,Facebook,TRUE,95.47
+25,Woman,67,B,Google Search,TRUE,148.79
+65,Woman,17,B,Instagram,FALSE,458.85
+33,Man,55,B,Instagram,TRUE,137.27
+29,Woman,51,A,TikTok,TRUE,52.1
+21,Man,42,C,Google Search,TRUE,91.19
+21,Man,30,A,TikTok,TRUE,0
+31,Woman,75,C,Facebook,FALSE,114.1
+49,Woman,48,C,Facebook,TRUE,250.61
+57,Woman,47,C,TikTok,TRUE,237.89
+51,Non-Binary,41,C,TikTok,TRUE,267.59
+35,Man,31,C,Google Search,FALSE,154.73
+41,Woman,95,C,Instagram,TRUE,250.83
+29,Man,28,C,Instagram,TRUE,178.38
+29,Woman,38,B,Facebook,TRUE,139.58
+53,Woman,55,A,Facebook,TRUE,191.6
+25,Woman,56,A,Google Search,TRUE,143.16
+69,Man,29,A,Facebook,TRUE,234.06
+39,Woman,26,A,TikTok,FALSE,52.54
+43,Non-Binary,53,A,Google Search,TRUE,197.38
+29,Man,17,A,TikTok,TRUE,30.94
+31,Man,35,B,Instagram,FALSE,155.63
+20,Woman,51,A,Facebook,TRUE,64.88
+37,Man,43,A,TikTok,TRUE,133.61
+46,Man,31,A,Instagram,FALSE,98.09
+45,Woman,40,B,Google Search,FALSE,318.34
+28,Man,36,C,Google Search,TRUE,151.79
+28,Woman,60,B,Facebook,FALSE,56.82
+32,Man,56,C,TikTok,TRUE,78.02
+62,Woman,40,C,Google Search,FALSE,486.88
+23,Man,47,A,Facebook,TRUE,47.55
+37,Woman,68,C,Facebook,FALSE,154.36
+69,Woman,15,A,TikTok,TRUE,277.4
+38,Woman,62,B,Instagram,TRUE,307.52
+20,Woman,73,A,Facebook,TRUE,100.85
+30,Man,36,B,Google Search,TRUE,170.98
+47,Man,31,C,TikTok,FALSE,130.12
+34,Woman,61,C,Instagram,TRUE,248.13
+32,Woman,70,B,Google Search,FALSE,239.61
+35,Man,35,A,TikTok,TRUE,105.53
+41,Woman,49,A,Google Search,TRUE,266.87
+64,Man,28,A,Facebook,FALSE,138.83
+39,Man,42,A,Instagram,TRUE,66.59
+56,Woman,45,B,TikTok,FALSE,173.15
+49,Man,23,A,Instagram,FALSE,215.12
+38,Woman,40,C,Facebook,TRUE,181.39
+18,Man,65,C,Facebook,FALSE,19.73
+32,Man,42,B,Google Search,TRUE,131.58
+33,Woman,31,A,Facebook,TRUE,83.99
+41,Man,34,A,Google Search,TRUE,147.41
+60,Woman,58,B,Facebook,FALSE,291.36
+74,Man,0,A,Facebook,FALSE,143.5
+63,Man,0,A,Instagram,TRUE,214.79
+38,Man,32,C,Google Search,TRUE,219.06
+18,Man,49,B,Instagram,FALSE,14.93
+34,Woman,63,C,Facebook,FALSE,255.94
+41,Man,10,B,Google Search,TRUE,226.39
+53,Woman,16,B,Facebook,TRUE,335.84
+54,Woman,35,A,Facebook,TRUE,205.51
+50,Non-Binary,50,C,Instagram,FALSE,368.62
+19,Non-Binary,83,A,TikTok,TRUE,106.51
+53,Man,4,C,Instagram,TRUE,335.12
+33,Woman,51,A,Instagram,FALSE,109.52
+43,Man,40,A,Instagram,FALSE,221.06
+41,Woman,32,A,Facebook,TRUE,153.09
+46,Woman,23,B,Facebook,FALSE,221.56
+40,Non-Binary,66,C,Facebook,TRUE,100.72
+18,Woman,54,A,Instagram,FALSE,0
+51,Other,56,B,Facebook,TRUE,236.35
+46,Man,53,C,TikTok,TRUE,173.85
+36,Man,37,C,Google Search,TRUE,160.16
+42,Woman,30,A,Google Search,TRUE,206.8
+42,Man,3,A,Google Search,FALSE,102.2
+43,Man,46,A,Instagram,TRUE,220.97
+65,Woman,23,B,TikTok,FALSE,261.78
+37,Woman,79,B,Facebook,TRUE,224.54
+43,Woman,74,A,Instagram,TRUE,216.53
+58,Man,10,A,Google Search,TRUE,223.62
+56,Woman,34,C,Facebook,TRUE,307.87
+57,Man,24,A,Google Search,FALSE,179.58
+31,Non-Binary,94,B,TikTok,TRUE,174.78
+70,Woman,48,C,Instagram,FALSE,493.47
+41,Man,33,C,Google Search,TRUE,200.13
+68,Man,6,A,Facebook,TRUE,236.34
+20,Woman,80,B,Facebook,FALSE,76.37
+40,Man,18,B,Google Search,FALSE,197.91
+59,Woman,42,B,Google Search,TRUE,472.92
+29,Man,66,A,Google Search,FALSE,79.94
+29,Woman,61,A,Google Search,FALSE,121.68
+26,Woman,52,B,TikTok,FALSE,126.92
+24,Non-Binary,66,A,Google Search,FALSE,41.16
+33,Woman,53,A,Instagram,TRUE,230.64
+45,Woman,45,C,Facebook,FALSE,204.01
+18,Man,54,A,Google Search,TRUE,76.17
+43,Man,47,B,Google Search,TRUE,256.92
+59,Woman,31,C,Instagram,TRUE,434.53
+71,Woman,28,A,Google Search,FALSE,290.36
+60,Man,10,A,Instagram,TRUE,215.53
+51,Man,53,B,Facebook,TRUE,230.75
+18,Non-Binary,73,B,Facebook,TRUE,119.04
+31,Woman,81,A,TikTok,TRUE,105.98
+35,Other,50,C,TikTok,TRUE,92.97
+51,Man,38,B,Facebook,TRUE,195.23
+38,Woman,68,C,Instagram,TRUE,155.74
+21,Other,52,B,Facebook,TRUE,94.45
+65,Woman,15,C,Instagram,TRUE,464.31
+54,Woman,42,B,Facebook,TRUE,285.94
+44,Non-Binary,55,C,Facebook,TRUE,300.66
+58,Man,30,B,Google Search,FALSE,273.28
+20,Man,50,B,Google Search,TRUE,103.48
+50,Man,20,A,Facebook,TRUE,183.4
+32,Woman,42,C,Google Search,TRUE,229.69
+50,Woman,17,C,TikTok,TRUE,145.75
+39,Woman,34,B,Instagram,TRUE,283.64
+49,Non-Binary,36,C,Instagram,TRUE,360.12
+60,Woman,42,A,Instagram,TRUE,279.84
+40,Man,47,A,Instagram,FALSE,134.3
+55,Man,42,B,Google Search,TRUE,355.31
+22,Other,50,B,Google Search,TRUE,143.76
+29,Woman,53,C,Instagram,FALSE,133.02
+63,Man,0,C,Facebook,TRUE,292.24
+46,Man,50,B,Instagram,TRUE,319.96
+18,Man,66,A,Facebook,TRUE,80.06
+20,Non-Binary,52,C,TikTok,TRUE,113.95
+37,Woman,49,C,Google Search,TRUE,254.72
+53,Man,11,C,TikTok,FALSE,111.28
+38,Man,57,A,Google Search,TRUE,146.76
+49,Woman,37,A,Instagram,TRUE,190.96
+54,Non-Binary,20,B,Facebook,TRUE,353.96
+65,Woman,36,A,Facebook,TRUE,286.51
+41,Woman,44,A,Instagram,TRUE,232.69
+39,Non-Binary,55,A,Google Search,TRUE,244.33
+18,Man,30,A,Instagram,TRUE,63.46
+41,Woman,50,C,Google Search,FALSE,291.9
+31,Woman,52,A,Facebook,TRUE,177.84
+25,Man,46,C,TikTok,FALSE,73.81
+37,Man,26,C,TikTok,FALSE,181.36
+55,Woman,32,A,Google Search,FALSE,255.43
+18,Woman,60,A,Facebook,FALSE,125.04
+34,Man,39,B,Facebook,TRUE,140.42
+42,Woman,51,C,TikTok,TRUE,223.72
+27,Woman,84,B,TikTok,FALSE,101.75
+45,Woman,56,A,Facebook,TRUE,129.35
+46,Woman,40,B,TikTok,TRUE,216.64
+40,Man,16,C,Instagram,FALSE,186.99
+18,Woman,40,A,Google Search,TRUE,65.05
+79,Non-Binary,20,B,Google Search,TRUE,739.08
+37,Woman,63,B,Instagram,TRUE,309.64
+50,Man,71,B,Facebook,TRUE,226.54
+44,Woman,55,B,Facebook,FALSE,207.72
+55,Man,31,C,Facebook,FALSE,199.86
+52,Woman,37,B,Instagram,TRUE,375.59
+37,Man,36,A,Google Search,FALSE,190.88
+46,Man,33,B,Facebook,TRUE,157.39
+26,Woman,52,A,Facebook,FALSE,93.3
+53,Woman,42,C,Google Search,TRUE,360.69
+33,Man,16,A,Instagram,TRUE,132.08
+76,Man,2,A,Facebook,TRUE,325.44
+18,Man,46,C,Facebook,FALSE,65.16
+33,Woman,54,B,Facebook,TRUE,189.53
+52,Woman,50,B,Facebook,TRUE,312.5
+48,Man,16,A,Facebook,FALSE,113.63
+31,Man,51,C,Instagram,TRUE,207.96
+25,Man,52,B,TikTok,TRUE,82.6
+42,Man,52,A,Google Search,TRUE,151.17
+40,Woman,46,A,Facebook,TRUE,167.27
+18,Woman,83,C,Facebook,FALSE,79.54
+41,Woman,43,A,Facebook,TRUE,137.57
+43,Woman,54,C,Google Search,TRUE,270.41
+43,Woman,58,A,Facebook,TRUE,205.18
+24,Other,38,C,Google Search,TRUE,162.42
+47,Non-Binary,17,B,Google Search,TRUE,368.72
+61,Man,18,B,Instagram,TRUE,343.38
+47,Woman,45,C,Instagram,TRUE,287.28
+23,Woman,58,B,TikTok,TRUE,133.96
+33,Man,35,B,Google Search,TRUE,167.97
+45,Woman,15,C,Facebook,FALSE,199.95
+30,Woman,29,B,Facebook,TRUE,176.96
+18,Man,28,A,Google Search,TRUE,24.84
+53,Man,11,A,Instagram,FALSE,213.88
+28,Woman,37,B,Google Search,TRUE,230.68
+31,Woman,52,B,Google Search,FALSE,198.81
+63,Woman,30,C,Google Search,TRUE,539.74
+28,Woman,54,B,TikTok,FALSE,85.17
+53,Non-Binary,57,A,Facebook,TRUE,289.75
+21,Woman,87,C,Google Search,TRUE,171.72
+35,Man,43,A,TikTok,TRUE,60.99
+39,Woman,53,A,TikTok,TRUE,129
+22,Man,86,A,Google Search,TRUE,54.12
+30,Man,38,B,Google Search,FALSE,200.6
+40,Man,17,B,Facebook,TRUE,171.72
+50,Woman,35,A,TikTok,FALSE,176.61
+18,Woman,81,C,Instagram,FALSE,182.65
+35,Man,34,A,Google Search,TRUE,34.73
+51,Woman,73,C,Google Search,TRUE,343.31
+32,Man,17,B,Facebook,FALSE,140.08
+43,Woman,43,B,Google Search,TRUE,292.54
+47,Woman,24,A,Google Search,TRUE,325.27
+44,Woman,37,C,Google Search,TRUE,340.27
+50,Man,17,C,Instagram,FALSE,279.16
+38,Man,49,B,Facebook,FALSE,151.99
+34,Man,37,A,TikTok,TRUE,37.68
+18,Woman,41,A,TikTok,TRUE,73.81
+39,Man,60,C,TikTok,FALSE,67.37
+46,Woman,37,C,Google Search,FALSE,358.18
+48,Non-Binary,41,B,Google Search,FALSE,422.5
+32,Woman,42,B,Facebook,TRUE,240.73
+67,Man,0,C,Google Search,FALSE,341.92
+44,Woman,37,A,Instagram,TRUE,239.75
+42,Woman,44,C,Instagram,TRUE,230.62
+59,Woman,23,C,Instagram,FALSE,375.46
+29,Man,35,B,Facebook,FALSE,148.97
+33,Woman,30,C,Instagram,TRUE,159.66
+76,Woman,35,A,Instagram,TRUE,399.26
+40,Woman,48,C,Google Search,FALSE,185.46
+65,Man,26,A,Instagram,TRUE,291.55
+18,Woman,90,B,Facebook,FALSE,54.83
+37,Man,15,A,TikTok,TRUE,110.09
+46,Non-Binary,19,B,Facebook,FALSE,221.23
+45,Woman,52,C,Instagram,FALSE,274.13
+25,Woman,83,C,Google Search,TRUE,106.36
+40,Man,37,A,Instagram,TRUE,34.6
+24,Woman,76,B,Facebook,TRUE,165.68
+51,Woman,49,C,Instagram,FALSE,331.97
+56,Man,25,A,Google Search,FALSE,239.64
+18,Woman,70,B,TikTok,FALSE,115.85
+59,Woman,9,C,Instagram,TRUE,387.74
+21,Woman,48,A,TikTok,FALSE,36.28
+47,Man,29,A,Facebook,TRUE,161.56
+50,Non-Binary,47,C,Instagram,TRUE,404.09
+37,Woman,47,A,TikTok,TRUE,143.34
+30,Woman,38,C,TikTok,FALSE,126.38
+42,Man,30,C,Instagram,TRUE,177.06
+47,Woman,52,A,TikTok,TRUE,195.32
+53,Man,30,B,TikTok,FALSE,208.58
+18,Man,38,C,Facebook,TRUE,80.59
+18,Woman,45,C,Facebook,TRUE,187.6
+61,Woman,23,A,Google Search,TRUE,273.65
+56,Man,46,A,TikTok,FALSE,104.14
+47,Man,22,A,Google Search,TRUE,186.59
+51,Woman,43,A,Facebook,TRUE,145.43
+54,Other,36,C,Facebook,TRUE,215.94
+18,Man,50,C,Facebook,FALSE,2.05
+57,Man,61,B,Facebook,TRUE,299.84
+33,Man,43,B,Facebook,TRUE,106.09
+43,Woman,38,A,Facebook,TRUE,177.7
+36,Woman,62,A,Facebook,TRUE,215.58
+53,Woman,38,A,Facebook,TRUE,221.27
+35,Woman,53,B,Google Search,TRUE,244.38
+48,Man,9,B,TikTok,FALSE,186.35
+34,Woman,48,A,Google Search,TRUE,176.43
+24,Woman,52,A,Instagram,TRUE,91.49
+58,Man,40,A,Facebook,FALSE,69.1
+51,Man,27,A,Google Search,TRUE,272.95
+66,Woman,47,C,Facebook,TRUE,319.85
+41,Woman,64,A,Google Search,TRUE,211.15
+57,Woman,35,C,Facebook,TRUE,291.26
+70,Man,27,C,TikTok,FALSE,190.84
+36,Man,50,C,Instagram,TRUE,217.48
+20,Man,57,A,Facebook,TRUE,60.12
+36,Woman,60,A,Facebook,TRUE,81.91
+37,Woman,35,A,Instagram,FALSE,167.9
+42,Woman,42,B,Facebook,TRUE,356.05
+66,Woman,25,C,Instagram,TRUE,457.02
+35,Woman,55,C,Instagram,TRUE,256.56
+46,Man,37,A,Instagram,FALSE,189.57
+37,Woman,49,A,Instagram,TRUE,155.74
+40,Man,32,A,Google Search,TRUE,191.61
+45,Man,16,C,TikTok,TRUE,227.8
+60,Woman,16,C,Instagram,TRUE,418.32
+42,Man,25,B,TikTok,FALSE,185.85
+51,Woman,49,B,Google Search,FALSE,358.64
+52,Man,33,B,Facebook,TRUE,244.46
+54,Woman,61,B,Facebook,TRUE,244.47
+31,Man,73,A,Facebook,TRUE,45.05
+64,Man,4,B,Google Search,TRUE,383.66
+34,Woman,48,C,Google Search,FALSE,242.46
+38,Woman,55,A,Instagram,TRUE,241.15
+61,Woman,58,C,Instagram,FALSE,394.53
+59,Other,0,A,Google Search,TRUE,328.34
+24,Woman,78,A,Instagram,TRUE,180.79
+27,Man,44,A,TikTok,TRUE,120.18
+20,Non-Binary,64,C,Instagram,FALSE,167.88
+43,Woman,55,B,TikTok,TRUE,247.66
+42,Woman,76,A,Instagram,TRUE,128.77
+45,Woman,42,A,Instagram,TRUE,213.35
+48,Man,15,A,Facebook,FALSE,85.31
+31,Man,34,B,Facebook,FALSE,186.02
+25,Man,60,C,Facebook,TRUE,101.9
+55,Man,33,C,TikTok,TRUE,172.33
+51,Man,26,C,Facebook,FALSE,150
+18,Man,49,B,Google Search,TRUE,74.38
+39,Woman,42,A,Instagram,FALSE,208.72
+27,Man,61,C,TikTok,FALSE,48.69
+18,Woman,76,B,TikTok,TRUE,148.32
+42,Man,33,A,Instagram,TRUE,89.75
+39,Non-Binary,37,C,Facebook,FALSE,196.45
+39,Woman,66,B,Google Search,FALSE,184.44
+43,Man,36,C,Instagram,TRUE,217.83
+53,Woman,34,B,Instagram,TRUE,332.84
+43,Woman,47,B,Instagram,FALSE,257.15
+31,Non-Binary,62,A,Facebook,FALSE,31.76
+29,Man,54,A,Facebook,TRUE,100.97
+38,Man,61,A,Google Search,FALSE,114.09
+45,Man,0,A,Facebook,FALSE,118.32
+24,Woman,62,C,TikTok,FALSE,63.79
+37,Woman,45,B,Facebook,FALSE,140.1
+55,Woman,50,C,TikTok,TRUE,198.77
+38,Man,38,B,Facebook,FALSE,106.3
+30,Woman,60,C,Google Search,TRUE,199.25
+36,Woman,50,C,Facebook,TRUE,83.72
+57,Woman,28,C,Google Search,FALSE,335.32
+48,Woman,86,A,TikTok,FALSE,87.09
+59,Woman,10,B,TikTok,TRUE,284.96
+42,Man,18,B,Instagram,TRUE,146.18
+46,Woman,47,B,Google Search,TRUE,351.74
+32,Man,35,A,Google Search,TRUE,182.94
+49,Woman,42,B,Instagram,FALSE,313.98
+32,Man,22,B,Google Search,TRUE,196.91
+19,Woman,71,A,Google Search,FALSE,82.08
+42,Man,33,C,Google Search,FALSE,188.94
+69,Woman,0,A,TikTok,TRUE,168.16
+52,Woman,33,A,Google Search,FALSE,301.47
+57,Woman,5,A,Instagram,TRUE,356.64
+45,Man,30,C,Google Search,TRUE,270.74
+31,Man,41,B,Google Search,TRUE,145.82
+37,Man,13,A,Google Search,FALSE,132.4
+36,Man,54,B,TikTok,TRUE,70.51
+33,Woman,55,B,Facebook,TRUE,192.03
+51,Man,26,C,TikTok,TRUE,148.43
+22,Other,66,B,Facebook,TRUE,51.83
+53,Woman,35,A,Instagram,TRUE,252.56
+53,Woman,20,C,Facebook,TRUE,303.76
+22,Woman,78,C,TikTok,FALSE,138.48
+50,Woman,46,B,Instagram,FALSE,328.03
+76,Man,0,A,Google Search,FALSE,320.8
+32,Woman,62,B,Google Search,TRUE,291
+53,Man,35,C,Google Search,TRUE,258.16
+28,Non-Binary,62,C,Google Search,TRUE,154.82
+57,Non-Binary,46,A,Google Search,TRUE,275.87
+44,Woman,79,C,TikTok,TRUE,249.14
+65,Man,34,C,TikTok,TRUE,244.58
+18,Woman,99,C,Instagram,FALSE,72.67
+39,Woman,72,A,Google Search,TRUE,132.83
+32,Woman,46,C,Facebook,FALSE,112.77
+37,Woman,51,A,Google Search,TRUE,207.22
+31,Woman,42,A,TikTok,FALSE,98.66
+27,Man,48,C,Facebook,FALSE,50.32
+49,Woman,36,B,Instagram,FALSE,345.86
+24,Man,53,C,Instagram,TRUE,69.55
+62,Man,18,C,Facebook,FALSE,231.66
+22,Man,41,C,Google Search,TRUE,71.58
+42,Man,29,C,Facebook,TRUE,147.92
+48,Other,43,C,TikTok,FALSE,238
+49,Man,15,C,Google Search,FALSE,216.3
+35,Woman,37,C,Facebook,FALSE,136.16
+41,Man,16,A,TikTok,TRUE,146.94
+54,Man,1,B,Instagram,TRUE,235.48
+18,Man,62,A,Facebook,TRUE,49.29
+28,Woman,73,B,Instagram,FALSE,271.92
+45,Woman,45,A,TikTok,TRUE,185.86
+33,Man,39,C,Google Search,TRUE,137.16
+61,Woman,40,B,Facebook,TRUE,373.71
+50,Woman,30,A,Instagram,TRUE,292.7
+41,Man,47,B,Google Search,TRUE,219.61
+18,Woman,73,C,TikTok,FALSE,80.03
+40,Man,7,B,TikTok,TRUE,98.4
+35,Man,45,A,Google Search,TRUE,171.18
+38,Man,28,C,Facebook,FALSE,174.84
+22,Woman,49,B,Facebook,FALSE,47.77
+47,Man,43,A,Google Search,FALSE,111.08
+24,Man,54,C,Facebook,TRUE,70.35
+37,Woman,66,C,Facebook,TRUE,149.48
+46,Woman,67,B,Facebook,TRUE,232.34
+28,Woman,65,B,Instagram,TRUE,144.69
+49,Man,14,B,Google Search,TRUE,242.67
+20,Woman,74,C,TikTok,TRUE,150.13
+18,Man,50,C,Google Search,TRUE,3.85
+47,Man,17,C,Google Search,FALSE,128.61
+53,Woman,34,A,TikTok,TRUE,194.75
+36,Man,29,A,Google Search,FALSE,144.17
+48,Non-Binary,29,C,Instagram,FALSE,264.19
+23,Man,31,A,Instagram,TRUE,126.93
+38,Man,36,A,TikTok,TRUE,77.29
+18,Woman,42,A,Instagram,TRUE,6.27
+58,Man,0,C,Facebook,TRUE,188.37
+68,Man,33,A,Instagram,FALSE,157.02
+56,Woman,32,B,Instagram,FALSE,307.84
+40,Woman,49,A,Instagram,TRUE,200.57
+40,Woman,74,C,Facebook,TRUE,235.55
+18,Woman,49,A,Facebook,TRUE,7.38
+52,Woman,67,C,Instagram,TRUE,352.54
+37,Man,45,B,Google Search,FALSE,181.9
+30,Woman,54,A,TikTok,TRUE,156.07
+19,Man,69,A,Instagram,FALSE,13.78
+36,Man,36,B,Facebook,TRUE,98.38
+27,Non-Binary,47,B,Instagram,TRUE,148.45
+34,Other,30,B,Google Search,TRUE,248.05
+22,Woman,56,C,Instagram,FALSE,144.29
+65,Man,0,A,Google Search,TRUE,222.27
+40,Woman,36,A,Instagram,TRUE,167.85
+56,Woman,38,C,Instagram,TRUE,334.61
+18,Woman,49,A,Instagram,FALSE,83.67
+33,Woman,61,B,TikTok,TRUE,226.11
+30,Man,41,B,Instagram,FALSE,120.38
+22,Man,40,A,Facebook,TRUE,93.55
+63,Non-Binary,11,C,Google Search,FALSE,435.19
+19,Non-Binary,65,C,TikTok,TRUE,106.7
+45,Woman,38,C,TikTok,TRUE,276.29
+53,Man,44,A,Facebook,FALSE,111.96
+43,Woman,40,A,Facebook,TRUE,206.82
+27,Man,57,B,Google Search,TRUE,94.81
+54,Man,58,C,Facebook,TRUE,226.26
+43,Woman,28,C,TikTok,TRUE,173.33
+24,Man,41,B,TikTok,TRUE,74.35
+19,Man,61,B,TikTok,TRUE,62.35
+71,Other,37,C,Instagram,FALSE,389.47
+30,Woman,58,A,TikTok,TRUE,134.68
+18,Woman,42,A,Google Search,FALSE,51.11
+48,Woman,34,C,TikTok,TRUE,243.65
+45,Man,20,C,Google Search,FALSE,262.45
+20,Woman,59,B,Facebook,TRUE,107.28
+18,Woman,68,C,TikTok,TRUE,2.79
+38,Woman,43,A,Facebook,TRUE,74.66
+57,Man,65,A,Instagram,TRUE,148.16
+50,Man,32,B,Google Search,FALSE,271.08
+33,Woman,40,C,Facebook,FALSE,69.21
+27,Man,43,C,Instagram,TRUE,157.12
+44,Woman,32,A,Facebook,TRUE,175.77
+42,Woman,60,A,Facebook,TRUE,204.93
+49,Other,36,B,TikTok,TRUE,237.67
+34,Woman,34,A,Google Search,TRUE,172.4
+53,Man,31,A,Facebook,TRUE,113.65
+28,Man,40,C,Google Search,TRUE,135.75
+35,Man,33,C,Facebook,FALSE,28.52
+51,Man,38,C,Facebook,TRUE,245.61
+55,Woman,41,A,Facebook,TRUE,228.67
+18,Man,60,C,Instagram,TRUE,135.62
+42,Non-Binary,43,A,TikTok,FALSE,209.88
+49,Woman,46,B,Google Search,TRUE,345.91
+18,Man,52,A,Instagram,TRUE,97.72
+47,Woman,2,A,TikTok,FALSE,209.43
+28,Woman,56,A,TikTok,TRUE,80.34
+55,Other,22,A,Facebook,FALSE,145.36
+48,Man,29,B,Facebook,FALSE,230.08
+52,Woman,40,C,Google Search,TRUE,408.74
+42,Man,19,A,Google Search,FALSE,145.69
+53,Man,13,A,TikTok,TRUE,115.99
+61,Man,31,A,Facebook,TRUE,147.29
+69,Man,10,C,Facebook,TRUE,218.43
+40,Man,24,C,Instagram,FALSE,200.79
+18,Man,52,C,Instagram,FALSE,66.27
+40,Man,33,A,Facebook,TRUE,66.74
+43,Man,29,A,Google Search,FALSE,186.6
+38,Woman,39,A,TikTok,TRUE,119.71
+49,Man,34,A,Facebook,TRUE,99.05
+55,Woman,45,A,Facebook,TRUE,202.52
+32,Woman,61,C,Facebook,TRUE,200.8
+36,Woman,40,A,Google Search,TRUE,199.71
+46,Man,7,A,Facebook,TRUE,96.89
+32,Woman,41,A,Instagram,FALSE,158.87
+41,Man,17,B,Instagram,TRUE,236.97
+18,Man,58,B,Facebook,TRUE,73.87
+23,Woman,72,A,TikTok,TRUE,103.6
+20,Man,63,A,Facebook,TRUE,63.12
+27,Woman,58,C,Instagram,TRUE,169.68
+30,Man,15,C,Google Search,TRUE,115.43
+46,Woman,82,C,Facebook,TRUE,225.09
+55,Woman,18,B,TikTok,TRUE,285.8
+29,Man,43,A,Google Search,TRUE,61.52
+25,Woman,51,B,Google Search,FALSE,234.32
+24,Non-Binary,56,B,Instagram,TRUE,197.84
+34,Woman,76,C,Google Search,FALSE,131.81
+36,Man,62,C,Google Search,TRUE,156.12
+47,Woman,12,B,Facebook,FALSE,223.09
+35,Woman,30,B,Instagram,TRUE,252.78
+18,Man,31,A,Instagram,FALSE,86.34
+39,Woman,47,A,Instagram,TRUE,78.37
+58,Woman,35,A,Facebook,TRUE,221.97
+58,Woman,39,A,Google Search,FALSE,293.86
+28,Woman,55,C,TikTok,TRUE,100.95
+18,Man,59,B,Facebook,TRUE,49.14
+77,Woman,0,A,Instagram,TRUE,459.44
+38,Woman,18,C,Facebook,TRUE,159.48
+39,Woman,35,B,Instagram,TRUE,265.69
+46,Man,13,B,Facebook,TRUE,154.74
+18,Woman,72,C,Facebook,FALSE,0.53
+29,Other,18,A,Google Search,TRUE,31.42
+18,Woman,60,B,Facebook,FALSE,35.91
+30,Man,28,B,Google Search,TRUE,254.37
+42,Non-Binary,50,B,Google Search,TRUE,334.83
+20,Woman,65,B,TikTok,TRUE,86.72
+49,Man,15,A,TikTok,TRUE,144.19
+44,Man,37,C,TikTok,TRUE,183.17
+26,Woman,55,B,Instagram,TRUE,199.11
+43,Woman,59,B,TikTok,TRUE,167.21
+51,Man,36,C,Google Search,TRUE,260.35
+56,Woman,27,C,Instagram,TRUE,454.25
+37,Woman,53,A,Instagram,FALSE,171.15
+39,Woman,44,B,Google Search,FALSE,345.12
+39,Man,29,C,Instagram,FALSE,169.54
+62,Woman,0,A,Instagram,TRUE,278.41
+57,Man,46,C,Google Search,FALSE,274.62
+53,Man,23,C,Google Search,TRUE,278.07
+36,Woman,71,C,Facebook,TRUE,196.78
+46,Woman,67,A,Facebook,TRUE,247.86
+46,Woman,22,B,Facebook,FALSE,180.3
+24,Man,56,C,Instagram,FALSE,157.15
+18,Man,45,C,Facebook,TRUE,56.1
+50,Woman,59,A,Facebook,TRUE,234.28
+18,Man,46,A,Instagram,TRUE,77.48
+40,Woman,50,B,TikTok,FALSE,147.56
+44,Woman,44,A,Facebook,FALSE,126.99
+48,Man,40,A,Google Search,TRUE,201.68
+43,Man,0,A,TikTok,FALSE,159.17
+29,Man,43,A,Google Search,FALSE,59.71
+55,Woman,35,A,Google Search,TRUE,331.72
+66,Man,44,B,Facebook,FALSE,276.24
+53,Woman,38,C,Google Search,FALSE,375.95
+18,Man,47,A,Facebook,TRUE,73.33
+61,Man,27,A,Google Search,FALSE,220.77
+39,Man,33,B,Instagram,TRUE,248.36
+48,Man,30,B,Google Search,TRUE,294.83
+49,Non-Binary,38,A,Instagram,FALSE,269.01
+39,Woman,36,C,Facebook,FALSE,131.9
+39,Man,47,C,TikTok,TRUE,106.86
+55,Man,12,A,TikTok,TRUE,93.38
+51,Man,16,A,Facebook,TRUE,166.98
+55,Man,21,A,Instagram,FALSE,172.72
+76,Man,19,B,Google Search,FALSE,459.8
+50,Woman,42,A,Google Search,TRUE,239.31
+43,Woman,44,B,TikTok,TRUE,228.82
+18,Man,45,C,TikTok,TRUE,38.42
+80,Woman,6,C,Instagram,TRUE,574.05
+33,Man,53,A,Google Search,TRUE,131.57
+76,Woman,8,A,Google Search,FALSE,338.33
+46,Man,21,B,Instagram,TRUE,274.98
+63,Man,13,B,Google Search,TRUE,329.16
+38,Man,30,C,Facebook,FALSE,158.34
+48,Other,27,C,Google Search,TRUE,337.6
+43,Man,42,A,TikTok,FALSE,139.31
+37,Man,50,C,Facebook,FALSE,130.06
+38,Woman,36,A,TikTok,TRUE,171.15
+55,Man,15,A,TikTok,FALSE,104.17
+37,Man,36,A,Facebook,FALSE,96.3
+18,Man,55,B,Google Search,TRUE,135.92
+37,Woman,50,C,TikTok,TRUE,160.38
+48,Man,32,A,Google Search,TRUE,217.56
+49,Woman,37,A,TikTok,FALSE,224.96
+49,Man,0,B,Facebook,TRUE,187.97
+18,Woman,83,B,TikTok,TRUE,84.7
+46,Woman,58,B,TikTok,TRUE,271.25
+55,Man,16,C,TikTok,TRUE,168.16
+59,Man,32,A,Instagram,TRUE,207.52
+37,Man,61,A,Google Search,FALSE,131.82
+35,Woman,54,A,Facebook,TRUE,157.96
+62,Woman,35,B,Instagram,TRUE,462
+18,Man,56,A,Google Search,TRUE,57
+33,Woman,41,A,TikTok,TRUE,38.53
+47,Man,47,C,Facebook,TRUE,152.18
+18,Man,36,C,TikTok,FALSE,89.14
+44,Man,46,B,Google Search,TRUE,257.86
+68,Man,29,B,Google Search,TRUE,398.58
+40,Man,29,B,Facebook,TRUE,156.6
+36,Man,62,A,Facebook,TRUE,0
+47,Man,27,C,TikTok,TRUE,134.45
+36,Man,47,B,Facebook,FALSE,109.33
+52,Man,17,A,Instagram,TRUE,190.35
+54,Man,24,B,TikTok,TRUE,253.92
+40,Woman,36,A,TikTok,TRUE,59.37
+22,Woman,62,B,TikTok,TRUE,129.07
+20,Woman,45,C,Google Search,TRUE,103.06
+31,Woman,44,C,Instagram,TRUE,181.72
+52,Woman,37,C,Facebook,TRUE,304.55
+18,Woman,45,B,Instagram,TRUE,124.33
+18,Non-Binary,87,C,Facebook,TRUE,69.73
+30,Woman,67,A,TikTok,TRUE,49.22
+46,Man,9,A,Instagram,FALSE,180.29
+26,Man,46,A,Google Search,TRUE,58.45
+53,Woman,33,C,Facebook,FALSE,244.03
+45,Woman,6,C,Instagram,TRUE,301.33
+37,Man,42,C,TikTok,TRUE,158.19
+52,Man,12,A,TikTok,FALSE,87.59
+46,Woman,13,A,Google Search,TRUE,217.29
+33,Woman,49,C,Instagram,FALSE,247.69
+43,Man,28,A,Google Search,TRUE,108.04
+50,Man,11,A,Facebook,FALSE,182.11
+45,Man,37,C,TikTok,TRUE,111.32
+30,Woman,54,B,Facebook,TRUE,195.78
+53,Woman,44,A,Facebook,FALSE,168.34
+57,Non-Binary,42,C,Instagram,TRUE,416.75
+44,Non-Binary,39,A,Instagram,TRUE,242.22
+42,Man,13,B,Facebook,TRUE,221.53
+39,Woman,63,C,TikTok,FALSE,176.8
+72,Man,0,B,Google Search,FALSE,397.06
+44,Man,25,C,Instagram,TRUE,252.64
+38,Woman,33,C,TikTok,TRUE,194.71
+18,Woman,85,B,TikTok,FALSE,126.03
+18,Non-Binary,48,C,TikTok,TRUE,78.42
+39,Woman,63,A,Google Search,FALSE,136.72
+43,Man,54,A,Google Search,TRUE,170.89
+44,Woman,49,C,TikTok,TRUE,270.13
+52,Man,34,A,Facebook,TRUE,157.05
+37,Woman,35,B,Instagram,TRUE,261.87
+58,Woman,25,B,Instagram,FALSE,417.65
+26,Woman,70,A,Instagram,FALSE,80.55
+22,Non-Binary,64,C,Facebook,TRUE,62.07
+22,Man,73,B,TikTok,TRUE,105.24
+51,Man,59,B,Instagram,TRUE,284.28
+39,Man,41,B,Google Search,FALSE,183.53
+52,Woman,30,A,Facebook,TRUE,172.11
+36,Woman,54,A,Google Search,TRUE,209.86
+31,Man,53,B,Google Search,FALSE,143.96
+34,Man,62,C,Instagram,TRUE,112.54
+18,Woman,58,C,Google Search,FALSE,52.17
+22,Non-Binary,64,A,Instagram,TRUE,134.16
+18,Woman,70,C,TikTok,TRUE,20.68
+56,Man,29,A,Facebook,TRUE,145.78
+31,Woman,44,C,Google Search,TRUE,265.63
+52,Man,30,B,Facebook,FALSE,147.92
+63,Woman,23,C,Google Search,FALSE,492.12
+37,Woman,68,A,Facebook,TRUE,146.49
+44,Woman,42,A,Instagram,TRUE,207.83
+18,Other,33,C,Google Search,TRUE,110.2
+28,Woman,86,A,TikTok,TRUE,86.98
+41,Man,15,A,TikTok,FALSE,115.09
+44,Man,14,C,Google Search,FALSE,203.2
+29,Man,47,C,Instagram,FALSE,169.61
+80,Woman,10,A,TikTok,FALSE,251.91
+33,Man,25,A,Google Search,TRUE,85.24
+41,Man,35,C,TikTok,TRUE,151.97
+50,Woman,34,C,Instagram,TRUE,391.96
+40,Woman,21,C,Instagram,TRUE,289.98
+30,Man,46,C,TikTok,FALSE,138.33
+56,Woman,53,B,Google Search,FALSE,374.2
+64,Woman,38,C,Facebook,TRUE,340.51
+40,Woman,60,A,TikTok,TRUE,155.97
+48,Woman,48,A,Google Search,FALSE,263.17
+39,Woman,50,B,Google Search,TRUE,331.35
+55,Man,24,B,Google Search,TRUE,322.68
+23,Woman,42,A,Google Search,FALSE,77.46
+75,Woman,3,A,TikTok,FALSE,232.32
+31,Man,43,B,Facebook,TRUE,127.74
+18,Man,23,C,Google Search,FALSE,109.42
+35,Woman,51,C,Facebook,TRUE,97.83
+42,Woman,37,A,Instagram,TRUE,158.51
+64,Woman,52,C,TikTok,TRUE,332.39
+54,Other,48,C,TikTok,TRUE,194.06
+42,Woman,39,A,Google Search,TRUE,176.99
+19,Woman,71,C,TikTok,TRUE,35.14
+27,Man,20,A,TikTok,FALSE,15.91
+38,Woman,29,B,Instagram,FALSE,210.6
+78,Man,23,B,Facebook,TRUE,266.01
+18,Man,52,A,Google Search,TRUE,63.68
+57,Man,10,C,Instagram,FALSE,232.53
+32,Woman,60,A,Instagram,TRUE,106.43
+65,Man,25,A,Facebook,TRUE,162.2
+23,Woman,60,A,Facebook,TRUE,92.85
+42,Man,41,B,Facebook,TRUE,120.3
+24,Man,34,C,Facebook,FALSE,47.26
+54,Woman,27,A,Instagram,FALSE,220.82
+62,Woman,18,A,Facebook,FALSE,184.5
+69,Other,14,C,Instagram,TRUE,355.66
+52,Man,34,A,TikTok,FALSE,134
+68,Man,22,A,Google Search,TRUE,301
+59,Non-Binary,0,B,Instagram,FALSE,377.4
+38,Man,37,A,Google Search,FALSE,105.34
+47,Other,40,B,TikTok,TRUE,181.76
+25,Other,59,A,Google Search,TRUE,125.15
+37,Man,67,A,Instagram,TRUE,118.52
+58,Woman,37,A,Facebook,TRUE,208.59
+48,Woman,11,A,Google Search,TRUE,167.23
+47,Woman,39,B,Google Search,TRUE,349.07
+24,Other,26,B,Instagram,TRUE,89.74
+31,Woman,81,C,Facebook,TRUE,167.21
+29,Man,72,C,Instagram,TRUE,132.85
+46,Woman,53,A,TikTok,TRUE,131.65
+25,Woman,45,A,TikTok,TRUE,112.27
+48,Woman,30,A,Instagram,TRUE,128.75
+23,Other,69,B,Facebook,TRUE,87.38
+67,Woman,7,C,Facebook,FALSE,346.91
+47,Man,36,A,Instagram,TRUE,160.87
+29,Woman,58,A,TikTok,TRUE,112.83
+44,Woman,63,C,Facebook,TRUE,263.69
+35,Woman,39,A,Instagram,FALSE,180.99
+46,Woman,34,C,Facebook,TRUE,260.89
+44,Non-Binary,59,B,Instagram,TRUE,369.76
+25,Man,31,B,Facebook,TRUE,15.55
+28,Man,41,B,Instagram,FALSE,131.75
+44,Woman,46,B,Facebook,TRUE,258.76
+65,Man,5,A,Facebook,FALSE,158.53
+56,Man,8,B,Facebook,FALSE,132.94
+31,Non-Binary,78,C,Instagram,FALSE,158.54
+52,Woman,34,C,Facebook,TRUE,237.6
+39,Woman,46,C,TikTok,TRUE,218.46
+45,Man,59,B,TikTok,FALSE,140.16
+44,Woman,34,B,TikTok,FALSE,234.07
+79,Man,30,A,Instagram,TRUE,289.87
+22,Man,25,A,Google Search,TRUE,41.28
+42,Woman,47,A,Google Search,TRUE,208.71
+18,Woman,51,A,Facebook,FALSE,67.72
+49,Woman,19,C,Google Search,FALSE,286.02
+56,Man,29,A,Facebook,FALSE,156.58
+62,Woman,45,C,TikTok,FALSE,308.93
+18,Man,54,C,Instagram,TRUE,136.75
+46,Man,20,B,Instagram,TRUE,320.84
+64,Man,5,A,Instagram,FALSE,173.95
+34,Man,16,A,Facebook,FALSE,57.37
+37,Other,48,B,Facebook,FALSE,134.4
+39,Man,32,C,Google Search,TRUE,167.17
+45,Man,38,A,TikTok,TRUE,132.76
+50,Man,54,A,Google Search,TRUE,114.77
+60,Man,35,C,TikTok,FALSE,239.89
+39,Woman,12,B,Google Search,TRUE,246.42
+43,Man,21,B,Facebook,TRUE,118.62
+77,Man,17,B,TikTok,TRUE,289.13
+46,Man,32,A,Facebook,TRUE,93.48
+43,Woman,41,B,TikTok,TRUE,186.09
+20,Woman,42,A,Facebook,TRUE,90.03
+40,Man,55,A,Instagram,TRUE,133.4
+37,Woman,43,A,TikTok,FALSE,150.27
+40,Man,34,A,Google Search,TRUE,157.24
+31,Man,60,B,Instagram,FALSE,140.55
+30,Man,19,A,TikTok,FALSE,101.74
+29,Other,38,C,Instagram,TRUE,248.28
+37,Man,35,C,Instagram,TRUE,149.79
+61,Man,4,C,Google Search,TRUE,318.66
+56,Woman,13,A,Facebook,TRUE,244.74
+35,Woman,42,C,Google Search,TRUE,246.74
+18,Other,46,C,Facebook,TRUE,93.12
+27,Man,43,C,Facebook,TRUE,169.76
+33,Non-Binary,51,B,TikTok,TRUE,234.07
+42,Non-Binary,51,B,Facebook,FALSE,224.48
+30,Non-Binary,81,B,Facebook,TRUE,202.78
+70,Woman,48,B,Instagram,TRUE,547.56
+36,Non-Binary,41,B,Google Search,TRUE,293.25
+22,Man,36,C,Instagram,FALSE,43.9
+38,Woman,47,C,Instagram,TRUE,235.47
+25,Woman,82,A,Facebook,TRUE,104.01
+42,Man,44,C,Facebook,TRUE,183.29
+44,Man,33,B,Instagram,FALSE,192.23
+45,Woman,30,A,TikTok,TRUE,143.09
+18,Woman,90,C,Google Search,FALSE,88.07
+43,Man,20,B,Facebook,TRUE,102.27
+45,Man,26,A,TikTok,FALSE,63.4
+19,Man,31,A,Google Search,TRUE,72.88
+54,Woman,36,B,TikTok,TRUE,264.76
+52,Man,59,A,Facebook,TRUE,124.27
+74,Non-Binary,37,C,Instagram,TRUE,524.47
+42,Man,38,C,Google Search,TRUE,171.38
+41,Man,37,A,Facebook,TRUE,144.85
+41,Non-Binary,28,A,Facebook,TRUE,175.37
+41,Woman,49,B,Facebook,TRUE,173.12
+18,Woman,84,C,Google Search,FALSE,71.16
+18,Non-Binary,77,C,Facebook,TRUE,100.18
+39,Woman,44,A,Google Search,TRUE,173.7
+31,Woman,65,A,Instagram,TRUE,126.29
+41,Woman,44,C,TikTok,TRUE,189.38
+18,Man,50,B,Facebook,TRUE,85.6
+18,Woman,73,A,Facebook,FALSE,64.35
+23,Man,30,B,Google Search,FALSE,153.6
+55,Woman,37,C,Facebook,FALSE,245.49
+24,Woman,37,B,Facebook,FALSE,69.16
+28,Man,82,A,Google Search,FALSE,106.02
+41,Man,37,B,Facebook,TRUE,153.86
+35,Man,18,C,Instagram,FALSE,130.22
+42,Woman,27,C,Google Search,FALSE,268.36
+75,Man,24,C,Facebook,TRUE,393.27
+23,Man,18,C,Facebook,FALSE,0
+35,Man,25,B,Facebook,TRUE,140.61
+32,Woman,44,C,Facebook,TRUE,147.23
+63,Woman,14,B,Google Search,TRUE,478.52
+28,Man,59,B,TikTok,FALSE,86.37
+39,Non-Binary,43,A,TikTok,TRUE,110.66
+52,Woman,22,B,Google Search,TRUE,348.94
+24,Woman,70,A,Instagram,TRUE,52.55
+65,Man,39,B,Google Search,TRUE,374.23
+50,Woman,61,A,Facebook,TRUE,251.67
+24,Woman,65,B,Google Search,FALSE,150.42
+47,Woman,55,A,Google Search,TRUE,277.17
+37,Man,53,B,Facebook,TRUE,163.43
+45,Man,18,A,TikTok,TRUE,96.39
+39,Man,27,B,Instagram,TRUE,268.76
+56,Man,22,C,Instagram,TRUE,315.77
+20,Woman,65,A,Google Search,FALSE,74.19
+32,Man,34,C,Facebook,FALSE,142.29
+36,Man,54,B,Instagram,TRUE,193.65
+25,Man,29,C,TikTok,TRUE,34.24
+24,Man,26,A,Facebook,TRUE,20.4
+40,Man,52,B,Facebook,TRUE,210
+38,Non-Binary,64,C,Google Search,FALSE,224.48
+18,Man,37,A,Instagram,FALSE,35.69
+56,Man,29,C,TikTok,FALSE,145.85
+44,Woman,39,C,Google Search,TRUE,306.51
+76,Man,25,C,Instagram,FALSE,331.69
+50,Man,20,A,Google Search,TRUE,176.42
+33,Man,25,B,Instagram,TRUE,171.03
+80,Woman,38,A,Instagram,FALSE,328.93
+80,Man,17,C,Facebook,TRUE,315.45
+22,Other,54,A,TikTok,TRUE,60.31
+47,Woman,64,C,Instagram,TRUE,319.08
+37,Man,31,C,Google Search,TRUE,174.18
+43,Non-Binary,57,B,TikTok,FALSE,236.86
+43,Man,22,B,Facebook,TRUE,112.38
+21,Non-Binary,60,B,Facebook,TRUE,118.28
+44,Woman,64,A,TikTok,FALSE,167.12
+66,Man,7,A,Facebook,TRUE,214.67
+38,Woman,57,A,Google Search,FALSE,199.3
+38,Woman,34,A,TikTok,TRUE,132.47
+61,Man,37,C,Google Search,FALSE,253.86
+53,Man,36,B,Google Search,TRUE,250.48
+18,Man,24,C,Facebook,TRUE,73.23
+43,Man,9,A,Instagram,TRUE,199.15
+65,Woman,37,B,Instagram,FALSE,489.57
+61,Woman,15,A,Google Search,TRUE,273.85
+46,Man,46,A,Facebook,FALSE,107
+51,Other,0,B,Instagram,FALSE,233.51
+22,Woman,100,C,Facebook,FALSE,86.13
+45,Woman,40,C,TikTok,TRUE,214.7
+26,Woman,69,A,Instagram,TRUE,148.95
+33,Woman,35,B,TikTok,FALSE,137.76
+54,Non-Binary,59,B,TikTok,FALSE,255.86
+23,Woman,68,C,TikTok,FALSE,116.72
+44,Woman,37,B,TikTok,TRUE,156.98
+46,Woman,0,A,Instagram,TRUE,201.97
+41,Woman,34,B,Instagram,FALSE,220.2
+67,Woman,20,C,TikTok,TRUE,414.71
+25,Woman,45,A,Facebook,FALSE,82.39
+49,Non-Binary,49,C,Instagram,FALSE,284.54
+39,Woman,12,B,Instagram,TRUE,345.88
+36,Man,40,A,Instagram,FALSE,153.97
+47,Man,20,A,Facebook,TRUE,146.05
+25,Man,45,A,TikTok,FALSE,84.36
+20,Man,37,B,Google Search,TRUE,122.25
+33,Woman,57,C,Facebook,TRUE,242.52
+66,Woman,45,C,TikTok,TRUE,318.01
+41,Woman,59,A,Instagram,TRUE,318.24
+45,Man,13,B,Facebook,TRUE,212.46
+37,Man,39,B,Instagram,TRUE,195.37
+47,Man,36,C,TikTok,TRUE,151.71
+26,Woman,60,C,TikTok,TRUE,135.29
+57,Man,45,A,Facebook,TRUE,55.68
+49,Woman,28,A,Google Search,TRUE,279.87
+28,Man,38,C,Facebook,TRUE,35.21
+41,Man,29,A,Facebook,TRUE,70.45
+51,Woman,40,A,Instagram,FALSE,196.09
+48,Woman,29,A,Facebook,TRUE,251.46
+62,Woman,22,A,TikTok,FALSE,130.44
+31,Man,72,B,Facebook,TRUE,205.22
+57,Man,49,C,Facebook,TRUE,192.58
+56,Man,34,A,TikTok,TRUE,193.78
+38,Woman,43,A,Facebook,TRUE,155.43
+25,Man,43,B,Facebook,FALSE,57.64
+24,Man,32,C,Google Search,TRUE,157.33
+47,Woman,29,B,TikTok,TRUE,310.28
+39,Woman,65,C,TikTok,TRUE,183.1
+67,Man,30,B,TikTok,FALSE,220.13
+48,Man,1,B,TikTok,TRUE,215.22
+34,Man,46,B,TikTok,TRUE,107.66
+25,Non-Binary,96,A,Google Search,FALSE,84.65
+31,Woman,49,A,Facebook,TRUE,131.82
+45,Woman,45,B,TikTok,FALSE,204.78
+33,Woman,60,A,Google Search,FALSE,144.5
+48,Non-Binary,42,C,Instagram,FALSE,344.55
+35,Other,31,B,Instagram,TRUE,251.51
+38,Woman,37,A,Google Search,FALSE,84.77
+29,Man,48,B,Facebook,TRUE,141.67
+69,Man,1,B,Google Search,FALSE,410.68
+45,Woman,61,C,Instagram,TRUE,286.69
+43,Woman,52,C,TikTok,FALSE,203.63
+18,Woman,76,C,Google Search,TRUE,136.04
+50,Woman,42,A,Facebook,FALSE,176.35
+25,Man,57,A,Facebook,TRUE,69.13
+27,Man,80,A,Facebook,FALSE,87.33
+54,Woman,41,A,Instagram,FALSE,298.38
+33,Woman,46,C,Google Search,TRUE,264.82
+18,Woman,56,A,Instagram,TRUE,93.94
+67,Woman,52,A,Google Search,FALSE,381.75
+18,Man,47,B,Instagram,TRUE,104.02
+49,Woman,44,B,Instagram,FALSE,330.93
+55,Woman,24,A,Facebook,TRUE,232.38
+31,Man,27,B,Instagram,FALSE,119.42
+47,Woman,32,A,Google Search,FALSE,250.18
+47,Woman,46,A,TikTok,FALSE,186.2
+56,Woman,5,A,TikTok,TRUE,189.95
+47,Woman,30,A,Google Search,TRUE,263.36
+36,Man,41,C,Facebook,TRUE,100.24
+54,Woman,22,A,TikTok,TRUE,159.33
+52,Man,37,C,Facebook,TRUE,162.94
+26,Woman,57,A,TikTok,TRUE,46.36
+19,Man,34,A,Instagram,TRUE,52.4
+42,Man,46,A,Instagram,TRUE,114.73
+36,Woman,53,A,TikTok,FALSE,112.83
+25,Woman,61,C,Instagram,TRUE,151.89
+41,Man,55,A,TikTok,FALSE,76.32
+20,Woman,42,C,Instagram,FALSE,136.7
+42,Woman,0,B,TikTok,TRUE,277.88
+31,Woman,82,C,Facebook,FALSE,70.27
+54,Woman,39,C,Facebook,TRUE,245.3
+76,Man,15,B,Facebook,TRUE,288.61
+26,Man,42,B,TikTok,TRUE,36.31
+56,Man,38,C,Facebook,FALSE,228.51
+52,Woman,53,A,Google Search,FALSE,291.33
+39,Woman,25,B,Google Search,TRUE,330.44
+33,Woman,39,B,TikTok,TRUE,146.46
+64,Man,48,A,TikTok,FALSE,168.91
+18,Man,33,A,Google Search,TRUE,34.03
+30,Other,39,A,Facebook,TRUE,107.58
+18,Woman,80,C,Facebook,TRUE,88.71
+61,Man,13,A,Instagram,FALSE,254.72
+37,Woman,74,C,Instagram,TRUE,227.36
+32,Woman,46,A,Facebook,TRUE,168.53
+80,Man,1,C,Google Search,FALSE,387.55
+39,Man,47,A,TikTok,TRUE,34.86
+33,Man,13,A,Google Search,FALSE,52.21
+44,Other,36,B,Google Search,FALSE,265.97
+18,Man,43,A,Facebook,TRUE,0
+47,Woman,56,C,Facebook,FALSE,216.65
+39,Woman,31,C,Instagram,TRUE,231.02
+47,Man,24,B,TikTok,TRUE,209.58
+25,Man,51,A,Instagram,TRUE,94.76
+25,Woman,60,A,TikTok,FALSE,130.33
+30,Man,33,B,Google Search,FALSE,129.82
+28,Man,23,A,Instagram,TRUE,111.84
+59,Woman,23,A,TikTok,FALSE,110.76
+64,Man,33,A,TikTok,FALSE,176.39
+38,Woman,79,A,Instagram,TRUE,146.45
+35,Man,41,A,Google Search,TRUE,109.66
+35,Man,15,B,TikTok,TRUE,151.01
+41,Man,14,A,TikTok,FALSE,64.73
+41,Man,30,C,Instagram,TRUE,316.59
+44,Woman,43,C,Google Search,FALSE,248.86
+29,Woman,49,C,Facebook,FALSE,149.95
+27,Woman,56,B,Facebook,FALSE,72.86
+58,Man,57,B,Facebook,FALSE,121.77
+32,Man,24,B,TikTok,FALSE,180.91
+45,Woman,29,C,Facebook,TRUE,264.72
+39,Man,48,C,TikTok,TRUE,103.98
+26,Woman,65,B,Instagram,FALSE,224.52
+49,Woman,43,C,Instagram,TRUE,290.58
+43,Woman,80,B,Facebook,TRUE,160.87
+61,Man,16,B,Facebook,FALSE,184.25
+42,Woman,35,A,TikTok,TRUE,183.06
+35,Woman,73,A,TikTok,TRUE,58.48
+44,Woman,21,A,Facebook,TRUE,187.1
+22,Man,38,C,Google Search,FALSE,72.78
+27,Other,61,B,Google Search,FALSE,188.35
+48,Woman,40,C,TikTok,TRUE,232.49
+35,Woman,60,B,Google Search,TRUE,254.71
+39,Woman,58,B,TikTok,TRUE,101.38
+38,Non-Binary,60,A,Instagram,TRUE,267.13
+30,Man,53,C,Google Search,TRUE,147.56
+18,Woman,55,C,TikTok,TRUE,115.51
+45,Woman,39,A,Instagram,TRUE,147.5
+51,Man,36,B,Facebook,TRUE,211.89
+21,Man,60,C,TikTok,TRUE,76.36
+62,Man,71,C,Facebook,TRUE,284.5
+46,Woman,50,A,TikTok,FALSE,27.1
+60,Woman,20,B,Facebook,FALSE,337.94
+26,Woman,60,A,Google Search,FALSE,114.78
+43,Non-Binary,28,A,Facebook,TRUE,81.43
+38,Woman,59,B,Facebook,TRUE,185.89
+52,Man,33,A,Google Search,FALSE,166.57
+31,Woman,61,A,Instagram,TRUE,166.73
+40,Woman,63,C,Facebook,FALSE,162.89
+18,Man,55,A,Instagram,FALSE,90.34
+28,Man,37,C,Facebook,TRUE,50.74
+42,Non-Binary,65,A,Facebook,TRUE,257.02
+29,Man,41,A,Facebook,TRUE,88.86
+39,Man,17,A,Facebook,FALSE,109.98
+33,Man,45,C,Instagram,TRUE,203.18
+49,Man,19,C,Instagram,FALSE,171.27
+58,Man,36,A,TikTok,FALSE,163.55
+28,Other,73,C,Google Search,FALSE,111.94
+35,Woman,37,B,TikTok,TRUE,213.95
+62,Woman,20,B,Facebook,TRUE,355.41
+18,Man,34,A,Instagram,TRUE,51.57
+35,Woman,31,B,Google Search,TRUE,259.87
+71,Other,8,C,Facebook,FALSE,303.42
+73,Woman,0,A,TikTok,TRUE,253.61
+42,Woman,48,A,Google Search,TRUE,259.51
+27,Man,49,C,Instagram,FALSE,170.75
+42,Woman,45,B,Facebook,FALSE,193.37
+30,Woman,61,A,Google Search,TRUE,145.22
+62,Woman,38,C,Facebook,FALSE,299.59
+28,Non-Binary,50,B,Facebook,TRUE,168.5
+46,Woman,51,B,Instagram,TRUE,357.2
+49,Man,37,A,Google Search,TRUE,130.21
+29,Woman,53,B,Google Search,TRUE,171.12
+53,Man,44,A,Google Search,TRUE,260.95
+29,Non-Binary,74,B,TikTok,TRUE,129.77
+49,Man,14,C,Google Search,TRUE,212.76
+56,Man,35,B,TikTok,TRUE,241.14
+25,Woman,20,C,Instagram,TRUE,167.48
+57,Other,13,C,Facebook,FALSE,179.36
+33,Man,24,A,TikTok,FALSE,8.7
+44,Woman,57,A,Facebook,FALSE,76.16
+43,Man,51,A,Facebook,TRUE,146.49
+34,Man,39,A,TikTok,TRUE,72.31
+44,Man,20,A,Instagram,FALSE,137.42
+22,Non-Binary,79,A,Facebook,TRUE,86.12
+38,Man,37,B,Google Search,FALSE,122.26
+52,Woman,14,C,Instagram,TRUE,355.11
+18,Man,65,A,Instagram,TRUE,70.67
+18,Man,64,B,Facebook,TRUE,62.14
+23,Woman,65,B,Facebook,TRUE,154.17
+18,Man,69,C,Facebook,TRUE,23.76
+46,Man,55,B,TikTok,TRUE,127.51
+25,Woman,90,B,Instagram,FALSE,150.18
+18,Man,66,A,Google Search,TRUE,68.59
+30,Woman,78,B,Facebook,FALSE,62.25
+34,Non-Binary,51,C,Google Search,FALSE,236.56
+53,Man,50,C,Instagram,TRUE,305.61
+23,Man,32,B,Instagram,TRUE,66.35
+57,Man,52,A,Instagram,TRUE,191.68
+46,Man,26,C,Facebook,TRUE,154.56
+45,Woman,23,B,Facebook,TRUE,216.39
+27,Man,31,A,Google Search,FALSE,102.84
+69,Man,15,B,Facebook,FALSE,279.05
+38,Man,10,A,Instagram,TRUE,93.17
+18,Man,61,A,Instagram,TRUE,62.35
+37,Woman,68,C,Google Search,TRUE,202.84
+18,Woman,40,C,Instagram,FALSE,79.22
+35,Man,66,A,TikTok,TRUE,58.15
+34,Man,63,B,Instagram,FALSE,115.19
+50,Man,24,B,Google Search,TRUE,306.67
+55,Man,33,A,Facebook,FALSE,183.9
+29,Man,29,A,Instagram,TRUE,86.58
+52,Man,20,A,Facebook,TRUE,183.46
+61,Woman,33,B,Google Search,TRUE,519.81
+28,Non-Binary,75,A,Instagram,FALSE,120.49
+30,Man,32,B,Facebook,FALSE,119.78
+50,Man,26,B,Google Search,TRUE,305.13
+43,Woman,53,B,Instagram,TRUE,277.82
+48,Woman,44,A,Google Search,FALSE,235.43
+61,Woman,26,A,Google Search,TRUE,365.47
+46,Non-Binary,37,C,Google Search,TRUE,415.58
+56,Non-Binary,22,A,Instagram,TRUE,233.27
+49,Man,16,A,Facebook,TRUE,104.11
+47,Man,40,A,TikTok,FALSE,57.43
+46,Man,37,A,Instagram,FALSE,139.2
+59,Woman,16,B,Google Search,TRUE,417.75
+25,Woman,80,C,Facebook,TRUE,98.35
+23,Man,6,B,TikTok,FALSE,78.55
+49,Man,24,C,Facebook,FALSE,243.33
+38,Man,40,B,Google Search,TRUE,239.1
+41,Woman,12,B,Google Search,TRUE,261.23
+51,Man,48,A,Google Search,TRUE,171.9
+51,Woman,29,A,Instagram,FALSE,227.97
+36,Woman,67,A,Google Search,TRUE,185.03
+35,Man,32,B,TikTok,TRUE,207.97
+41,Man,12,C,TikTok,TRUE,119
+56,Man,36,A,Facebook,TRUE,199.6
+46,Woman,37,B,Google Search,FALSE,352.72
+61,Man,21,A,TikTok,FALSE,84.93
+40,Man,31,A,Instagram,TRUE,100.61
+57,Woman,30,A,Facebook,TRUE,219.37
+53,Man,18,A,Google Search,TRUE,286.44
+49,Woman,32,B,Google Search,FALSE,331.94
+46,Non-Binary,39,B,Facebook,FALSE,267.7
+36,Man,54,B,Google Search,TRUE,127.8
+38,Woman,28,B,Google Search,TRUE,296.23
+43,Non-Binary,58,A,Instagram,TRUE,209.83
+41,Woman,45,A,Facebook,TRUE,123.97
+54,Woman,46,B,TikTok,TRUE,202.46
+38,Woman,48,B,Facebook,TRUE,203.76
+39,Man,7,B,Instagram,FALSE,137.03
+33,Woman,28,C,Facebook,FALSE,121.74
+38,Man,22,A,Google Search,TRUE,141.26
+39,Non-Binary,51,A,Facebook,TRUE,148.3
+18,Woman,66,A,TikTok,TRUE,10.79
+20,Woman,58,C,Facebook,FALSE,153.27
+39,Man,31,A,Google Search,FALSE,152.3
+36,Woman,53,B,Facebook,FALSE,123.32
+22,Non-Binary,47,B,Google Search,FALSE,136.17
+18,Man,42,C,Instagram,TRUE,53.38
+35,Man,21,C,TikTok,TRUE,99.77
+50,Woman,59,B,Google Search,TRUE,383.43
+67,Woman,0,B,TikTok,TRUE,360.69
+39,Woman,17,B,Google Search,FALSE,257.92
+62,Woman,3,A,Instagram,FALSE,248.59
+41,Woman,44,C,Facebook,FALSE,213.89
+42,Man,34,C,TikTok,TRUE,92.02
+45,Woman,35,A,Google Search,TRUE,187.97
+27,Woman,49,B,TikTok,FALSE,115.41
+39,Man,46,C,TikTok,TRUE,118.5
+54,Man,7,A,Facebook,TRUE,132.5
+29,Man,42,A,Instagram,FALSE,80.64
+35,Non-Binary,53,A,TikTok,TRUE,129.41
+23,Woman,50,C,Instagram,TRUE,222.62
+45,Woman,46,C,TikTok,TRUE,219.21
+46,Man,44,A,Instagram,TRUE,141.73
+50,Woman,30,C,TikTok,FALSE,143.9
+22,Woman,51,A,Facebook,TRUE,32.42
+42,Woman,74,A,TikTok,TRUE,187.83
+26,Man,42,A,Instagram,FALSE,57.67
+40,Man,0,B,TikTok,FALSE,94.1
+60,Man,31,B,Facebook,FALSE,192.29
+32,Woman,66,C,Facebook,TRUE,112
+51,Non-Binary,38,A,Google Search,FALSE,278.32
+29,Non-Binary,81,B,TikTok,TRUE,256
+33,Woman,44,A,TikTok,TRUE,12.21
+47,Man,33,A,Google Search,FALSE,208.27
+30,Woman,40,A,Google Search,FALSE,125.39
+18,Woman,61,B,Google Search,TRUE,143.72
+59,Man,10,A,Instagram,TRUE,173.66
+45,Man,8,A,Instagram,FALSE,226.68
+31,Woman,53,B,Instagram,FALSE,215.83
+18,Man,25,C,TikTok,FALSE,17.72
+69,Man,15,C,Instagram,FALSE,356.64
+80,Man,27,A,Instagram,TRUE,291.91
+43,Other,30,C,Facebook,FALSE,164.84
+53,Man,0,A,Facebook,TRUE,72.14
+58,Non-Binary,30,A,Instagram,TRUE,325.1
+29,Man,38,B,Instagram,TRUE,162.21
+35,Woman,39,B,Instagram,FALSE,266.44
+18,Man,78,B,Google Search,TRUE,59.51
+29,Man,33,C,Facebook,FALSE,123.64
+49,Man,54,A,Google Search,TRUE,126.57
+36,Woman,43,C,Google Search,TRUE,265.18
+37,Man,39,C,Google Search,TRUE,180.81
+38,Woman,46,C,Facebook,TRUE,258.12
+18,Non-Binary,62,A,TikTok,TRUE,25.74
+53,Man,14,A,Instagram,FALSE,326.28
+18,Man,38,C,Instagram,FALSE,100.74
+37,Woman,37,A,Google Search,TRUE,245.75
+33,Man,45,A,Google Search,TRUE,95.31
+37,Woman,44,C,Facebook,FALSE,151.68
+62,Woman,25,B,Instagram,FALSE,405.88
+31,Man,41,B,Google Search,FALSE,232.14
+28,Non-Binary,60,C,Instagram,FALSE,155.8
+18,Other,37,C,Facebook,FALSE,0
+28,Woman,55,B,Google Search,TRUE,193.86
+23,Woman,50,C,TikTok,FALSE,52.06
+46,Woman,40,C,Facebook,FALSE,283.46
+27,Man,32,A,Facebook,FALSE,104.85
+45,Man,27,B,Instagram,TRUE,231.91
+38,Woman,45,B,Instagram,FALSE,261.6
+18,Woman,100,B,Facebook,TRUE,0
+28,Woman,30,B,Google Search,TRUE,191.14
+53,Man,30,A,Instagram,FALSE,193.25
+54,Man,26,A,Instagram,TRUE,170.57
+70,Non-Binary,14,B,Google Search,FALSE,576.69
+40,Man,25,B,Facebook,FALSE,132.25
+18,Woman,65,C,Instagram,TRUE,112.23
+28,Man,49,C,TikTok,FALSE,15.51
+46,Woman,38,B,Google Search,FALSE,293.88
+69,Woman,2,C,Google Search,TRUE,539.32
+42,Woman,57,C,Google Search,FALSE,309.86
+57,Woman,38,B,Instagram,FALSE,407.07
+52,Man,18,C,Instagram,TRUE,237.99
+22,Woman,72,B,Instagram,TRUE,181.32
+37,Man,41,A,TikTok,FALSE,136.99
+60,Woman,24,A,Instagram,TRUE,289.3
+53,Non-Binary,43,A,Instagram,TRUE,284.51
+47,Non-Binary,38,C,Google Search,TRUE,339.8
+47,Man,12,A,TikTok,FALSE,112.97
+33,Woman,51,A,Instagram,TRUE,125.55
+20,Woman,97,C,Facebook,TRUE,90.06
+59,Man,26,C,Facebook,TRUE,230.28
+19,Man,42,A,Google Search,TRUE,10.88
+26,Man,53,A,Facebook,TRUE,43.21
+49,Woman,31,A,TikTok,FALSE,236.85
+21,Man,29,C,TikTok,TRUE,19.82
+32,Woman,40,B,Instagram,TRUE,286.03
+22,Man,63,B,Google Search,TRUE,100.95
+49,Woman,55,B,Instagram,FALSE,330.89
+47,Man,24,A,Facebook,TRUE,63.13
+46,Other,56,C,Facebook,FALSE,238.74
+47,Woman,31,B,Facebook,FALSE,229.78
+48,Woman,48,B,TikTok,FALSE,290.91
+50,Woman,2,C,Google Search,TRUE,438.62
+18,Woman,67,C,Google Search,TRUE,113.45
+38,Man,65,B,Facebook,TRUE,64.95
+42,Man,5,C,Instagram,TRUE,242.11
+51,Woman,25,A,TikTok,TRUE,222.96
+22,Woman,89,C,Facebook,FALSE,186.16
+33,Man,41,B,Google Search,FALSE,260.35
+24,Woman,82,A,Facebook,TRUE,110.65
+56,Man,31,A,Google Search,FALSE,220.66
+59,Man,53,A,Facebook,FALSE,249.05
+52,Woman,36,A,Instagram,FALSE,204.53
+22,Non-Binary,64,A,Facebook,TRUE,100.31
+47,Woman,9,C,Facebook,TRUE,218.37
+57,Woman,15,A,Facebook,FALSE,213.3
+43,Man,26,C,TikTok,FALSE,45.93
+32,Woman,68,B,Facebook,TRUE,207.16
+24,Man,43,A,TikTok,TRUE,83.16
+30,Man,61,C,Facebook,TRUE,138.89
+51,Woman,67,A,Facebook,TRUE,285.3
+34,Man,50,A,TikTok,FALSE,103.76
+43,Man,37,A,Facebook,TRUE,134.53
+59,Man,1,B,Facebook,TRUE,271.07
+49,Man,45,A,Instagram,TRUE,187.85
+60,Woman,57,A,TikTok,FALSE,230.39
+18,Non-Binary,65,B,Instagram,TRUE,139.04
+36,Woman,46,A,Facebook,TRUE,132.88
+41,Woman,60,C,Facebook,FALSE,219.99
+49,Woman,37,C,Google Search,FALSE,242.73
+22,Man,24,C,TikTok,TRUE,43.98
+52,Man,11,C,Instagram,FALSE,255.28
+45,Man,50,A,Facebook,TRUE,190.97
+44,Woman,66,A,Facebook,FALSE,90.11
+48,Woman,35,B,Google Search,FALSE,394.27
+38,Man,49,A,Facebook,FALSE,129.48
+54,Man,3,C,Google Search,FALSE,314.28
+50,Non-Binary,37,C,Google Search,TRUE,423.92
+38,Woman,43,A,Google Search,TRUE,149.82
+56,Woman,37,A,TikTok,TRUE,217.12
+44,Woman,35,A,Facebook,TRUE,163.6
+50,Man,24,B,Facebook,TRUE,190
+31,Man,43,A,Google Search,TRUE,80.9
+64,Man,6,B,Instagram,TRUE,379.79
+40,Woman,31,A,TikTok,TRUE,129.16
+53,Other,43,A,TikTok,TRUE,158.39
+38,Man,22,C,TikTok,TRUE,72.69
+36,Woman,66,A,Google Search,TRUE,173.15
+52,Man,6,C,Facebook,TRUE,281.5
+18,Woman,61,C,TikTok,FALSE,0
+47,Woman,8,B,Google Search,TRUE,451.12
+46,Man,34,C,Facebook,TRUE,143.29
+18,Woman,69,C,TikTok,FALSE,81.58
+46,Woman,51,B,Facebook,TRUE,223.42
+18,Man,35,A,TikTok,FALSE,34.75
+50,Woman,1,B,Facebook,TRUE,237.12
+33,Man,35,A,Facebook,TRUE,55.78
+30,Woman,33,B,Google Search,TRUE,150.85
+40,Woman,42,C,TikTok,FALSE,240.12
+61,Woman,43,C,Facebook,TRUE,351.58
+30,Man,52,A,Facebook,TRUE,52.9
+48,Man,47,A,TikTok,TRUE,106.37
+45,Man,39,B,Facebook,TRUE,209.61
+22,Man,49,B,TikTok,FALSE,0
+18,Man,75,A,Instagram,FALSE,78.1
+18,Woman,69,C,Google Search,TRUE,134.26
+48,Man,39,A,Google Search,TRUE,225.1
+39,Man,49,C,TikTok,TRUE,92.76
+68,Man,12,A,Facebook,FALSE,176.82
+49,Woman,31,C,Facebook,FALSE,256.2
+53,Woman,15,B,Facebook,TRUE,348.2
+60,Man,23,A,Google Search,TRUE,210.68
+32,Woman,63,C,Instagram,FALSE,245.69
+48,Man,23,A,Instagram,FALSE,200.53
+53,Woman,42,B,Facebook,TRUE,310.23
+61,Woman,30,A,Facebook,TRUE,163.72
+51,Non-Binary,46,A,Instagram,FALSE,183.26
+46,Woman,32,B,Facebook,TRUE,222.59
+27,Woman,52,A,Facebook,TRUE,112.27
+51,Woman,31,A,Instagram,TRUE,274.07
+48,Non-Binary,43,B,Google Search,FALSE,373.3
+50,Woman,45,B,Facebook,TRUE,326.84
+46,Man,27,B,Google Search,TRUE,287.89
+37,Woman,23,C,TikTok,TRUE,211.83
+39,Woman,38,B,TikTok,FALSE,211.11
+50,Man,11,A,Facebook,FALSE,107.93
+43,Man,23,C,Google Search,TRUE,232.88
+28,Man,48,A,Instagram,FALSE,65.9
+36,Woman,54,B,Facebook,TRUE,157.57
+20,Non-Binary,91,C,Google Search,FALSE,169.69
+25,Non-Binary,60,B,TikTok,TRUE,95.77
+38,Man,28,C,Instagram,FALSE,185.08
+18,Other,55,B,Google Search,TRUE,123.42
+18,Man,38,B,Google Search,FALSE,49.37
+57,Woman,41,A,Instagram,TRUE,309.63
+31,Woman,59,A,Facebook,FALSE,101.2
+18,Woman,68,A,TikTok,TRUE,57.39
+38,Man,52,C,Google Search,FALSE,149.02
+60,Man,46,B,Facebook,TRUE,239.51
+50,Man,23,A,Instagram,TRUE,191.16
+47,Man,49,A,Instagram,FALSE,170.31
+58,Woman,35,A,TikTok,FALSE,153.44
+28,Woman,81,C,Google Search,TRUE,165.6
+51,Man,53,A,TikTok,TRUE,166.85
+31,Woman,67,A,Instagram,TRUE,133.59
+40,Man,61,B,Instagram,FALSE,194.76
+73,Man,13,B,Google Search,TRUE,392.51
+55,Woman,15,B,Facebook,TRUE,276.41
+52,Man,26,B,TikTok,TRUE,206.96
+23,Woman,39,B,Facebook,TRUE,103.56
+28,Man,47,B,TikTok,TRUE,100.61
+74,Man,11,B,Instagram,FALSE,399.54
+24,Woman,60,C,Google Search,FALSE,167.71
+43,Woman,30,B,Instagram,TRUE,303.64
+53,Woman,39,A,Facebook,TRUE,182.51
+55,Woman,44,B,Facebook,TRUE,353.13
+56,Man,23,A,TikTok,TRUE,199.15
+38,Woman,48,C,Instagram,FALSE,245.09
+28,Non-Binary,53,C,Google Search,FALSE,114.08
+35,Man,37,B,Google Search,TRUE,263.46
+26,Woman,46,C,Facebook,TRUE,84.63
+49,Man,15,C,TikTok,TRUE,170.38
+57,Woman,34,C,Google Search,TRUE,499.42
+72,Non-Binary,4,C,Facebook,TRUE,406.8
+45,Man,13,A,Google Search,FALSE,183.43
+27,Woman,61,A,Facebook,TRUE,36.01
+55,Woman,42,C,Google Search,FALSE,386.35
+54,Woman,47,A,Facebook,FALSE,181.01
+36,Woman,33,B,TikTok,TRUE,84.44
+18,Woman,90,C,Instagram,FALSE,110.04
+51,Woman,34,B,Facebook,FALSE,205.69
+57,Woman,45,A,Instagram,TRUE,275.47
+36,Woman,27,B,Instagram,TRUE,296.02
+48,Woman,50,A,Facebook,TRUE,227.34
+36,Man,44,B,Facebook,TRUE,139.68
+50,Woman,45,C,Facebook,TRUE,254.18
+38,Man,64,B,Instagram,TRUE,174.45
+35,Man,47,A,Facebook,TRUE,64.86
+42,Man,45,A,Instagram,FALSE,97.32
+36,Man,40,A,Google Search,FALSE,85.63
+31,Woman,56,A,Facebook,TRUE,43.43
+35,Man,45,A,Google Search,FALSE,102.8
+40,Man,44,A,Google Search,TRUE,148.31
+43,Man,20,A,TikTok,TRUE,127.26
+63,Man,26,B,Instagram,TRUE,338.4
+20,Other,46,C,TikTok,TRUE,114.51
+37,Woman,29,A,TikTok,TRUE,55.95
+49,Woman,38,A,Google Search,FALSE,250.88
+66,Woman,3,C,Instagram,FALSE,395.82
+46,Man,26,B,Instagram,TRUE,215.99
+40,Woman,50,C,Google Search,TRUE,289.96
+35,Woman,34,B,Google Search,TRUE,258.55
+46,Woman,22,C,TikTok,TRUE,214.39
+55,Man,48,A,Facebook,FALSE,143.33
+37,Woman,54,B,Google Search,TRUE,270.83
+42,Man,29,C,Instagram,TRUE,162.37
+43,Woman,63,A,Facebook,TRUE,182.38
+51,Other,20,A,Google Search,TRUE,255.11
+57,Woman,40,B,Facebook,TRUE,337.58
+44,Woman,38,B,TikTok,TRUE,243.23
+39,Woman,56,C,TikTok,FALSE,173.2
+61,Woman,36,B,Google Search,FALSE,401.17
+42,Man,46,C,Google Search,TRUE,234.12
+64,Woman,30,B,Instagram,FALSE,497.54
+39,Man,46,A,Instagram,TRUE,140.16
+49,Man,15,A,TikTok,TRUE,79.92
+18,Woman,81,C,TikTok,FALSE,26.17
+38,Woman,21,B,TikTok,FALSE,139.87
+40,Man,7,A,Google Search,TRUE,180.58
+29,Woman,44,B,Facebook,TRUE,140.58
+24,Man,47,C,Facebook,FALSE,56.84
+54,Man,29,A,Instagram,TRUE,224.37
+54,Woman,51,C,Google Search,FALSE,348.27
+21,Man,64,C,Facebook,TRUE,99.62
+46,Woman,33,A,TikTok,FALSE,108.08
+23,Man,56,A,Facebook,FALSE,33.39
+24,Man,54,B,Facebook,TRUE,165.9
+48,Man,49,B,Facebook,TRUE,142
+30,Woman,55,B,Instagram,FALSE,230.05
+55,Woman,41,C,Instagram,TRUE,367.14
+41,Woman,39,B,TikTok,TRUE,225.38
+48,Woman,42,A,TikTok,FALSE,216.92
+32,Woman,42,A,Facebook,FALSE,115.8
+23,Man,20,C,Facebook,TRUE,69.17
+54,Man,44,A,Instagram,FALSE,139.99
+44,Non-Binary,56,C,Instagram,TRUE,296.89
+36,Woman,45,B,TikTok,TRUE,185.76
+41,Man,19,C,Google Search,TRUE,206.37
+60,Woman,8,B,Google Search,TRUE,425.53
+30,Man,36,A,Instagram,TRUE,123.21
+29,Man,50,B,Facebook,FALSE,102.92
+31,Man,52,C,Google Search,FALSE,141.09
+18,Man,49,A,Google Search,TRUE,113.43
+52,Non-Binary,32,C,Instagram,FALSE,322.06
+43,Woman,66,B,Instagram,TRUE,344.24
+43,Woman,42,B,Instagram,TRUE,342.83
+39,Woman,49,B,Google Search,TRUE,341.42
+32,Man,32,A,TikTok,FALSE,103.78
+28,Man,49,C,Instagram,FALSE,97.41
+53,Woman,46,B,TikTok,TRUE,279.64
+19,Non-Binary,77,C,Google Search,FALSE,131.86
+47,Other,41,C,Facebook,TRUE,249.45
+28,Woman,76,C,Facebook,FALSE,117.64
+44,Woman,52,B,Facebook,TRUE,214.17
+29,Man,31,A,TikTok,TRUE,105.67
+32,Man,30,B,Google Search,TRUE,199.57
+67,Woman,14,A,Facebook,FALSE,241.36
+50,Man,22,C,Google Search,TRUE,231.45
+18,Woman,92,A,Instagram,TRUE,102.12
+42,Woman,36,A,Google Search,TRUE,191.66
+33,Man,41,C,Google Search,FALSE,201.73
+23,Woman,69,A,Facebook,FALSE,129.12
+43,Man,29,C,Google Search,TRUE,258.38
+42,Man,54,C,Facebook,TRUE,168.4
+35,Man,19,B,Google Search,TRUE,196.31
+70,Man,35,B,TikTok,TRUE,233.64
+18,Woman,77,A,Facebook,FALSE,30.11
+53,Woman,70,C,TikTok,TRUE,244.81
+36,Woman,48,C,Facebook,TRUE,254.25
+50,Woman,42,C,Facebook,TRUE,313.66
+33,Woman,75,A,Google Search,TRUE,230.63
+31,Woman,32,C,Instagram,TRUE,208.39
+18,Non-Binary,68,C,TikTok,TRUE,75.66
+37,Man,37,A,Instagram,FALSE,109.21
+77,Woman,10,B,TikTok,TRUE,380.84
+55,Woman,47,A,Facebook,TRUE,259.67
+65,Woman,21,B,Instagram,FALSE,423.89
+54,Woman,26,C,Google Search,FALSE,362.08
+57,Woman,38,B,TikTok,FALSE,282.1
+54,Man,24,C,Google Search,TRUE,297.56
+47,Man,36,B,TikTok,TRUE,182.28
+31,Woman,31,B,Google Search,TRUE,209.8
+32,Woman,55,B,TikTok,TRUE,159.67
+18,Woman,82,A,Instagram,TRUE,40.04
+40,Other,27,B,Google Search,TRUE,254.74
+53,Man,0,A,Facebook,FALSE,201.98
+55,Man,35,A,Facebook,FALSE,126.3
+41,Other,10,A,Google Search,TRUE,148.42
+32,Woman,49,C,Instagram,TRUE,203.11
+80,Woman,34,B,Instagram,TRUE,558.07
+51,Woman,24,B,Facebook,TRUE,327.51
+61,Man,3,A,Instagram,FALSE,208.08
+35,Man,42,A,Instagram,TRUE,76.83
+39,Non-Binary,56,A,Facebook,TRUE,164.56
+47,Woman,38,C,Facebook,FALSE,211.9
+65,Woman,31,A,Facebook,TRUE,268.72
+35,Woman,55,B,Instagram,TRUE,261.76
+53,Non-Binary,60,B,Facebook,TRUE,245.59
+18,Man,65,C,Facebook,TRUE,0
+32,Man,55,A,TikTok,TRUE,83.05
+21,Non-Binary,58,B,TikTok,FALSE,115.84
+57,Woman,8,A,Instagram,FALSE,179.5
+38,Man,35,B,Facebook,TRUE,115.2
+34,Woman,34,A,Google Search,TRUE,156.87
+61,Woman,45,A,TikTok,TRUE,254.4
+57,Man,16,A,Google Search,FALSE,274.01
+27,Man,41,B,Facebook,FALSE,0.91
+46,Woman,71,B,Instagram,TRUE,325.77
+22,Man,49,A,Instagram,FALSE,126.54
+33,Man,24,B,Facebook,TRUE,142.09
+64,Woman,42,B,Google Search,TRUE,515.1
+62,Woman,0,A,Google Search,FALSE,349.16
+57,Non-Binary,53,A,Instagram,TRUE,306.45
+31,Man,67,B,Instagram,FALSE,159.34
+18,Man,11,B,TikTok,TRUE,3.93
+22,Man,40,A,Facebook,TRUE,67.72
+54,Woman,34,C,TikTok,TRUE,311.3
+36,Non-Binary,54,A,Instagram,TRUE,245.64
+18,Man,58,B,Instagram,TRUE,72.04
+37,Man,39,A,TikTok,TRUE,61.81
+61,Woman,24,C,Facebook,FALSE,302.11
+50,Man,29,B,Instagram,FALSE,255.53
+28,Man,52,B,Facebook,TRUE,113.77
+18,Man,42,A,Facebook,TRUE,60.8
+28,Woman,45,A,TikTok,TRUE,100.84
+41,Man,46,B,Google Search,TRUE,230.92
+53,Man,34,C,Instagram,TRUE,283.16
+18,Man,36,A,Instagram,TRUE,81.88
+55,Man,46,B,Google Search,FALSE,308.09
+40,Woman,33,B,Instagram,TRUE,289.48
+49,Man,26,A,Instagram,FALSE,176.23
+18,Woman,69,B,Google Search,FALSE,103.17
+30,Man,45,A,Facebook,TRUE,75.69
+33,Man,25,B,TikTok,TRUE,123.22
+56,Man,17,C,Google Search,TRUE,310.56
+55,Woman,56,B,TikTok,TRUE,306.96
+47,Woman,26,C,Facebook,FALSE,255.26
+64,Man,14,B,TikTok,TRUE,219.88
+32,Woman,56,C,Facebook,TRUE,128.5
+55,Man,25,C,Facebook,FALSE,185.02
+39,Woman,39,B,Instagram,TRUE,297.89
+30,Woman,43,C,Instagram,TRUE,158.74
+54,Woman,19,A,Facebook,TRUE,255.08
+61,Man,18,B,Instagram,FALSE,253.61
+53,Man,42,A,Instagram,TRUE,210.28
+32,Man,66,B,Instagram,FALSE,85.31
+33,Woman,68,A,TikTok,TRUE,65.26
+61,Man,12,B,Instagram,TRUE,392.84
+45,Woman,59,B,Google Search,FALSE,309.36
+52,Man,32,B,Instagram,FALSE,231.58
+35,Woman,48,B,TikTok,FALSE,122.08
+59,Woman,12,C,TikTok,TRUE,284.08
+28,Man,42,A,Facebook,TRUE,55.05
+49,Woman,35,A,Instagram,TRUE,263.4
+28,Man,59,A,Google Search,TRUE,68.82
+18,Woman,75,A,Facebook,FALSE,30.98
+20,Man,66,A,Facebook,FALSE,0
+42,Non-Binary,39,A,TikTok,TRUE,80.19
+53,Man,5,A,TikTok,TRUE,95.71
+18,Woman,52,B,Instagram,TRUE,147.58
+21,Woman,57,C,Instagram,TRUE,167.15
+66,Man,10,A,Google Search,FALSE,232.21
+33,Man,40,C,Facebook,FALSE,101.46
+48,Man,64,C,Instagram,FALSE,273.56
+32,Man,6,A,Instagram,TRUE,90.82
+36,Man,40,B,Facebook,FALSE,167.15
+41,Woman,49,C,Instagram,FALSE,252.67
+40,Woman,46,B,Facebook,FALSE,221.59
+37,Woman,41,C,Instagram,TRUE,258.69
+33,Woman,43,A,TikTok,TRUE,176.07
+18,Man,66,B,TikTok,TRUE,81.81
+68,Man,21,B,Google Search,TRUE,413.45
+67,Non-Binary,36,C,Facebook,TRUE,399.71
+23,Man,29,A,Instagram,TRUE,68.66
+37,Woman,51,A,Instagram,FALSE,126.41
+61,Woman,4,A,Google Search,TRUE,300.42
+55,Man,28,A,Instagram,TRUE,168.49
+59,Woman,23,A,Facebook,TRUE,211.94
+24,Man,63,B,Google Search,FALSE,134.52
+79,Man,15,A,Facebook,TRUE,228.48
+23,Woman,77,A,Google Search,FALSE,124.81
+51,Woman,60,A,Facebook,FALSE,187.99
+42,Woman,56,C,Instagram,TRUE,212.26
+34,Non-Binary,61,C,Google Search,TRUE,247.63
+34,Man,37,C,Instagram,TRUE,155.23
+25,Woman,36,A,Instagram,TRUE,143.12
+64,Man,21,C,Facebook,FALSE,239.29
+41,Man,40,C,TikTok,TRUE,101.09
+44,Other,36,A,Google Search,TRUE,150.52
+43,Man,4,A,Google Search,TRUE,148.24
+34,Woman,46,B,Google Search,TRUE,314.99
+23,Man,47,C,TikTok,FALSE,69.17
+44,Non-Binary,43,B,Google Search,TRUE,356.65
+18,Man,51,A,Google Search,FALSE,150.06
+19,Man,79,B,TikTok,TRUE,25.52
+24,Non-Binary,31,B,Instagram,TRUE,188.08
+24,Man,30,A,Facebook,TRUE,58.39
+42,Man,48,B,Facebook,TRUE,134.55
+64,Man,25,A,Google Search,FALSE,200.52
+18,Man,43,A,Facebook,TRUE,91.66
+47,Woman,22,C,Facebook,TRUE,260.45
+53,Woman,37,A,Google Search,TRUE,327.28
+25,Woman,57,A,Facebook,TRUE,91.61
+39,Man,12,A,Google Search,TRUE,216.39
+52,Other,18,B,Google Search,TRUE,340.43
+36,Man,44,A,Facebook,TRUE,104.37
+37,Man,22,A,Google Search,FALSE,151.08
+45,Man,40,C,Facebook,TRUE,133.98
+39,Woman,57,C,Facebook,TRUE,167.58
+32,Man,39,B,TikTok,TRUE,181.79
+38,Man,38,C,Instagram,TRUE,226.98
+68,Man,21,A,TikTok,TRUE,241.18
+53,Woman,44,B,Google Search,FALSE,417.12
+26,Woman,36,B,TikTok,TRUE,127.86
+21,Man,32,B,Facebook,TRUE,84.79
+35,Man,26,C,Instagram,FALSE,136.14
+60,Man,37,C,Facebook,FALSE,189.03
+44,Man,74,A,Facebook,TRUE,138.3
+29,Woman,67,A,Instagram,TRUE,109.93
+53,Woman,47,A,Facebook,FALSE,186.41
+38,Man,6,C,Facebook,FALSE,217.66
+23,Woman,44,A,Google Search,FALSE,55.47
+47,Man,23,C,Instagram,TRUE,245.28
+63,Woman,28,A,TikTok,FALSE,193.05
+47,Woman,33,A,Google Search,TRUE,293.92
+43,Man,47,C,Facebook,TRUE,135
+30,Woman,57,B,Instagram,TRUE,170.4
+49,Other,3,B,Instagram,FALSE,250.84
+24,Woman,56,C,Facebook,TRUE,145.92
+18,Woman,49,B,TikTok,TRUE,151.29
+39,Woman,45,A,Google Search,FALSE,165.6
+39,Woman,67,C,Facebook,TRUE,181.57
+75,Woman,5,C,Instagram,TRUE,509.64
+22,Woman,78,A,TikTok,TRUE,62.13
+43,Man,20,B,TikTok,TRUE,102.58
+52,Woman,27,B,Instagram,TRUE,397.57
+56,Woman,37,B,TikTok,FALSE,250.49
+40,Man,35,C,TikTok,FALSE,62.21
+29,Woman,93,A,Google Search,FALSE,176.14
+39,Man,11,A,Instagram,TRUE,138.14
+69,Man,19,B,TikTok,TRUE,242.88
+47,Woman,63,B,Google Search,TRUE,431.25
+18,Woman,64,C,Facebook,FALSE,91.76
+61,Man,22,B,TikTok,TRUE,172.83
+48,Man,44,C,Instagram,FALSE,242.6
+39,Woman,42,C,Google Search,FALSE,273.38
+40,Woman,53,C,Instagram,TRUE,306.98
+38,Woman,74,C,Instagram,FALSE,144.07
+44,Man,38,B,TikTok,FALSE,111.67
+32,Man,43,C,Google Search,FALSE,108.99
+44,Woman,25,B,Instagram,FALSE,298.11
+26,Woman,54,B,TikTok,TRUE,135.88
+43,Non-Binary,36,C,Google Search,FALSE,269.19
+57,Man,14,B,Google Search,FALSE,286.96
+48,Woman,46,C,Google Search,TRUE,363.27
+56,Man,40,B,Facebook,TRUE,229.12
+24,Man,28,A,Facebook,TRUE,82.31
+41,Man,23,C,Instagram,FALSE,209.5
+49,Non-Binary,13,C,TikTok,TRUE,243.3
+24,Woman,58,B,Instagram,FALSE,147
+63,Man,39,B,Google Search,FALSE,312.85
+24,Non-Binary,65,A,Google Search,FALSE,95.39
+42,Man,39,A,Facebook,FALSE,132.32
+42,Non-Binary,37,B,TikTok,TRUE,225.99
+42,Man,13,B,TikTok,TRUE,143.08
+37,Woman,51,B,Facebook,TRUE,190.14
+47,Man,10,C,Instagram,FALSE,284.01
+25,Man,29,A,Instagram,TRUE,15.76
+21,Woman,67,C,Instagram,TRUE,120.03
+30,Woman,60,A,Facebook,FALSE,68.11
+39,Woman,48,A,Facebook,FALSE,156.96
+59,Other,38,A,Facebook,TRUE,188.55
+64,Man,17,B,Instagram,FALSE,267.01
+45,Woman,46,C,Facebook,FALSE,231.91
+46,Woman,29,A,TikTok,FALSE,115
+36,Man,20,B,Google Search,TRUE,200.53
+41,Woman,48,B,Facebook,TRUE,290.94
+19,Woman,48,A,Google Search,TRUE,60.79
+44,Man,44,C,Facebook,FALSE,111.66
+32,Woman,26,B,Instagram,FALSE,199.23
+45,Woman,56,A,TikTok,TRUE,208.14
+35,Man,31,C,Instagram,TRUE,171.54
+30,Man,61,A,Instagram,TRUE,30.6
+37,Man,29,A,TikTok,TRUE,42.5
+34,Woman,51,A,Instagram,TRUE,235.72
+56,Man,9,C,Instagram,TRUE,225.08
+43,Man,29,C,Instagram,TRUE,138.64
+46,Woman,70,A,Instagram,TRUE,172.48
+21,Man,78,C,Google Search,FALSE,69.04
+62,Man,4,A,TikTok,TRUE,149.02
+42,Woman,45,A,Instagram,TRUE,196.64
+27,Man,54,C,Google Search,TRUE,132.19
+45,Woman,67,C,Instagram,TRUE,329.33
+53,Woman,37,B,Facebook,TRUE,284.44
+19,Woman,87,A,Facebook,TRUE,74.83
+65,Man,28,C,TikTok,TRUE,255.53
+38,Woman,40,B,Facebook,TRUE,183.82
+57,Woman,36,B,Instagram,FALSE,371.65
+41,Man,19,C,Google Search,TRUE,250.33
+35,Woman,54,B,Facebook,FALSE,103.57
+18,Woman,69,C,Facebook,TRUE,94.17
+23,Woman,62,B,Instagram,FALSE,176.09
+39,Man,59,B,Facebook,TRUE,194.66
+52,Woman,25,A,Instagram,FALSE,231.35
+18,Woman,95,B,Google Search,FALSE,98.49
+61,Man,33,C,Facebook,FALSE,213.01
+61,Other,26,A,TikTok,TRUE,172.39
+23,Non-Binary,51,C,Instagram,FALSE,130.25
+47,Woman,12,B,Facebook,FALSE,313.71
+24,Woman,42,B,Facebook,TRUE,115.74
+38,Woman,50,A,TikTok,TRUE,70.7
+54,Other,20,A,Facebook,FALSE,91.76
+53,Woman,18,B,Facebook,TRUE,254.77
+27,Man,66,C,Facebook,TRUE,27.64
+34,Woman,37,B,Facebook,TRUE,172.42
+25,Man,32,A,TikTok,TRUE,45.48
+45,Man,22,A,Facebook,TRUE,171.49
+18,Woman,78,A,Instagram,TRUE,76.44
+18,Man,44,A,Instagram,TRUE,64.6
+62,Non-Binary,49,C,Facebook,TRUE,360.56
+74,Woman,23,B,Google Search,FALSE,588.78
+33,Man,57,C,Facebook,TRUE,141.08
+51,Woman,31,A,Google Search,TRUE,316.98
+40,Man,19,A,Google Search,FALSE,101.79
+62,Man,0,B,Google Search,TRUE,459.77
+48,Man,22,B,TikTok,TRUE,192.14
+43,Man,11,B,Google Search,TRUE,260.73
+18,Woman,69,C,Instagram,TRUE,108.24
+56,Man,19,B,Facebook,TRUE,225.67
+35,Woman,46,A,Instagram,FALSE,118.24
+19,Non-Binary,52,A,TikTok,TRUE,110.07
+37,Man,33,A,Google Search,TRUE,88.36
+38,Other,14,B,TikTok,TRUE,100.36
+56,Man,43,B,Facebook,TRUE,269.67
+22,Woman,49,C,Instagram,TRUE,203.14
+32,Woman,41,C,Google Search,TRUE,246.98
+62,Man,24,B,Facebook,FALSE,298.76
+60,Woman,25,A,TikTok,TRUE,210.09
+57,Woman,29,A,Google Search,TRUE,304.55
+65,Woman,43,A,Instagram,TRUE,296.53
+43,Man,6,B,Instagram,TRUE,198.38
+31,Man,41,B,Facebook,TRUE,83.21
+48,Woman,32,A,Instagram,TRUE,341.93
+56,Woman,40,A,Facebook,TRUE,240.32
+76,Woman,21,A,Facebook,FALSE,251.6
+18,Woman,34,C,Google Search,TRUE,113.57
+44,Non-Binary,25,C,Facebook,TRUE,270.48
+50,Woman,31,A,Facebook,TRUE,211.66
+39,Woman,74,B,Facebook,TRUE,249.94
+18,Man,37,B,Facebook,TRUE,0
+51,Man,28,C,Facebook,TRUE,138.87
+28,Man,56,B,TikTok,TRUE,136.47
+48,Woman,81,A,TikTok,TRUE,116.09
+54,Woman,69,C,Instagram,FALSE,267
+59,Woman,54,A,Google Search,FALSE,331.53
+18,Other,57,B,Facebook,TRUE,109.44
+56,Woman,18,A,TikTok,TRUE,182.84
+29,Man,40,A,TikTok,FALSE,48.29
+21,Woman,78,C,Google Search,FALSE,58.56
+60,Woman,48,B,Google Search,TRUE,489.47
+57,Woman,30,C,TikTok,TRUE,275.35
+36,Man,26,C,Facebook,TRUE,124.7
+51,Man,21,A,Facebook,TRUE,142.84
+27,Man,29,C,Facebook,TRUE,93.82
+38,Woman,92,A,Facebook,FALSE,190.2
+39,Woman,61,C,Google Search,TRUE,245.89
+36,Man,23,A,TikTok,TRUE,58.31
+51,Man,12,B,Google Search,TRUE,260.13
+63,Woman,44,C,Instagram,FALSE,376.25
+33,Man,34,C,Facebook,TRUE,103.12
+40,Woman,49,A,Google Search,TRUE,272.52
+65,Woman,0,B,Google Search,TRUE,459.41
+35,Woman,46,C,TikTok,TRUE,141.48
+18,Man,63,A,TikTok,FALSE,0
+48,Woman,60,C,Google Search,TRUE,390.58
+27,Man,44,A,TikTok,FALSE,61.26
+25,Man,18,A,TikTok,TRUE,33.83
+61,Woman,28,A,Google Search,TRUE,339.83
+77,Man,16,C,Google Search,TRUE,380.85
+24,Man,36,C,TikTok,FALSE,73.13
+55,Woman,23,B,Facebook,FALSE,242.35
+39,Woman,37,B,Google Search,FALSE,327.2
+42,Man,64,B,Google Search,TRUE,221.95
+58,Woman,54,B,TikTok,TRUE,291.1
+43,Woman,39,A,Instagram,FALSE,212.21
+27,Woman,26,A,TikTok,FALSE,29.19
+33,Man,28,C,TikTok,TRUE,63.33
+50,Woman,29,C,Facebook,TRUE,338.64
+18,Woman,49,A,TikTok,TRUE,89.69
+56,Woman,45,B,Facebook,TRUE,274.96
+18,Man,45,A,Facebook,TRUE,31.85
+40,Woman,53,B,Google Search,FALSE,313.48
+37,Man,37,B,Facebook,FALSE,112
+59,Man,0,B,Facebook,TRUE,245.77
+43,Man,39,B,Instagram,FALSE,199.04
+42,Woman,42,C,Instagram,FALSE,279.02
+50,Non-Binary,26,A,Google Search,TRUE,359.48
+28,Man,31,A,TikTok,TRUE,63.67
+37,Woman,50,A,TikTok,TRUE,209.55
+58,Woman,0,C,Facebook,TRUE,207.9
+50,Woman,18,C,Instagram,TRUE,339.23
+21,Woman,61,C,Instagram,TRUE,104.79
+50,Non-Binary,33,A,TikTok,FALSE,52.38
+19,Woman,54,B,TikTok,FALSE,82.94
+31,Man,56,C,Google Search,TRUE,175.63
+58,Woman,30,B,TikTok,TRUE,310.2
+18,Woman,72,A,Google Search,FALSE,114.49
+18,Man,25,B,Instagram,TRUE,94.75
+60,Man,36,A,Google Search,FALSE,187.61
+28,Woman,53,A,TikTok,FALSE,101.87
+59,Woman,23,A,TikTok,TRUE,154.11
+37,Man,30,C,TikTok,TRUE,93.23
+46,Man,41,B,Instagram,TRUE,198.84
+52,Man,3,C,Instagram,FALSE,225.66
+30,Woman,20,A,Facebook,FALSE,121.98
+35,Man,13,C,Facebook,FALSE,13.15
+34,Woman,69,A,Google Search,FALSE,134.64
+80,Woman,17,C,Google Search,TRUE,568.34
+42,Non-Binary,63,A,Facebook,TRUE,67.93
+47,Non-Binary,51,C,Instagram,TRUE,367.42
+35,Woman,85,B,Facebook,TRUE,212.22
+36,Man,49,B,Google Search,TRUE,224.16
+61,Man,22,C,Facebook,FALSE,223.68
+35,Woman,50,A,Google Search,TRUE,187.15
+40,Non-Binary,52,A,Google Search,TRUE,206.56
+46,Man,53,B,Facebook,TRUE,256.5
+34,Man,67,B,Facebook,TRUE,95.78
+69,Man,40,B,Google Search,FALSE,340.72
+19,Woman,64,C,TikTok,TRUE,130.18
+70,Man,0,B,Instagram,TRUE,414.61
+35,Man,16,B,Facebook,FALSE,139.21
+60,Woman,15,B,Instagram,FALSE,422.81
+18,Man,46,A,Google Search,TRUE,8.9
+54,Woman,22,A,Facebook,FALSE,208.16
+53,Non-Binary,19,A,Instagram,TRUE,287.33
+21,Woman,59,B,Facebook,FALSE,86.07
+28,Woman,42,B,Google Search,FALSE,177.68
+43,Man,28,A,Facebook,TRUE,146.94
+57,Woman,68,B,Facebook,FALSE,258.97
+29,Man,21,B,Google Search,FALSE,153.19
+37,Woman,32,B,TikTok,FALSE,115.84
+64,Woman,55,B,Instagram,TRUE,384.52
+23,Man,39,C,TikTok,FALSE,80.9
+54,Woman,26,C,TikTok,TRUE,276.24
+47,Woman,36,C,Google Search,TRUE,334.48
+23,Man,18,A,Facebook,TRUE,89.95
+30,Woman,87,A,Instagram,TRUE,155.77
+52,Man,19,A,Google Search,TRUE,200.63
+44,Woman,44,B,TikTok,FALSE,185.53
+61,Man,15,A,Facebook,TRUE,139.97
+31,Man,54,C,Instagram,FALSE,167.15
+18,Man,50,B,TikTok,TRUE,0
+56,Woman,53,A,Instagram,FALSE,229.06
+31,Woman,98,C,TikTok,TRUE,72.34
+42,Woman,28,B,Facebook,TRUE,231.91
+66,Other,22,B,Facebook,TRUE,352.82
+36,Other,35,B,Google Search,TRUE,254.13
+63,Man,19,B,TikTok,TRUE,200.4
+24,Non-Binary,61,A,Facebook,TRUE,105.23
+54,Woman,60,B,Instagram,TRUE,427.54
+44,Man,61,C,Facebook,FALSE,136.29
+29,Woman,66,C,Facebook,TRUE,177.64
+21,Woman,68,A,Facebook,TRUE,59.88
+41,Man,23,A,TikTok,FALSE,56.95
+44,Woman,52,B,TikTok,TRUE,235.58
+44,Woman,40,A,Instagram,TRUE,163.31
+48,Woman,27,A,Facebook,TRUE,154.3
+33,Woman,37,B,TikTok,TRUE,111.86
+32,Man,52,C,Instagram,TRUE,18.49
+44,Woman,39,A,Facebook,TRUE,170.59
+32,Woman,36,C,Google Search,TRUE,170.95
+58,Other,17,C,Instagram,TRUE,308.83
+43,Man,54,C,Instagram,TRUE,202.79
+31,Woman,25,C,Instagram,FALSE,204.61
+18,Woman,75,A,Facebook,FALSE,88.12
+30,Woman,73,C,TikTok,TRUE,140.84
+71,Woman,38,C,Instagram,TRUE,475.02
+32,Man,51,C,TikTok,TRUE,87.94
+27,Man,20,C,Instagram,TRUE,120.05
+50,Man,27,A,Instagram,TRUE,150.61
+47,Woman,19,C,Instagram,TRUE,325.1
+51,Man,19,A,Instagram,FALSE,153.61
+36,Non-Binary,56,A,Facebook,TRUE,193.36
+57,Non-Binary,40,B,Google Search,FALSE,405.62
+22,Man,65,B,Facebook,FALSE,6.86
+39,Woman,49,A,TikTok,TRUE,217.35
+29,Man,42,C,Facebook,TRUE,53.39
+50,Woman,36,A,Instagram,FALSE,228.9
+42,Woman,44,B,Facebook,FALSE,191.33
+57,Man,9,A,TikTok,TRUE,200.87
+71,Man,0,A,Facebook,TRUE,242.69
+42,Man,11,B,Instagram,FALSE,163.44
+32,Man,54,B,Google Search,TRUE,124.48
+28,Woman,85,B,Google Search,FALSE,140.61
+36,Woman,40,A,Google Search,TRUE,229.3
+39,Man,30,A,Instagram,TRUE,64.55
+70,Woman,18,A,Instagram,FALSE,363.07
+23,Woman,72,C,Facebook,TRUE,98.83
+24,Woman,45,B,Instagram,TRUE,139.43
+34,Man,28,A,TikTok,TRUE,85.83
+49,Man,25,C,Google Search,TRUE,183.41
+52,Woman,47,A,Instagram,FALSE,197.71
+26,Man,65,A,Instagram,TRUE,89.51
+42,Woman,45,A,Facebook,TRUE,141.46
+39,Man,44,A,TikTok,TRUE,106.45
+58,Man,6,C,Google Search,TRUE,345.45
+56,Man,14,B,Instagram,FALSE,314.08
+35,Non-Binary,33,C,Instagram,TRUE,235.99
+41,Other,21,B,TikTok,TRUE,207.11
+50,Woman,16,A,Instagram,FALSE,228.73
+18,Woman,80,B,TikTok,TRUE,105.61
+35,Woman,44,B,Instagram,FALSE,241.94
+49,Woman,45,B,Instagram,FALSE,303.27
+32,Woman,60,C,Facebook,TRUE,202.69
+39,Woman,28,B,Google Search,FALSE,229.1
+40,Non-Binary,54,C,Google Search,TRUE,281.92
+29,Man,61,C,Instagram,FALSE,131.34
+25,Woman,56,C,TikTok,FALSE,149.1
+37,Woman,48,A,Instagram,FALSE,162.99
+35,Woman,50,A,Facebook,TRUE,117
+53,Woman,30,B,Instagram,TRUE,332.77
+63,Man,18,A,Instagram,TRUE,242.72
+40,Man,41,A,Facebook,TRUE,121.37
+46,Woman,45,A,Google Search,FALSE,192.25
+39,Woman,37,A,Instagram,FALSE,97.28
+49,Woman,32,B,Google Search,TRUE,360.47
+43,Man,77,B,Facebook,TRUE,83.11
+44,Woman,15,B,Instagram,FALSE,340.85
+57,Man,39,A,Facebook,TRUE,86.26
+25,Man,62,A,Instagram,TRUE,64.6
+62,Woman,4,B,Google Search,FALSE,507.04
+45,Man,27,C,Facebook,FALSE,192.74
+43,Non-Binary,28,A,Facebook,FALSE,144.14
+32,Man,26,B,Instagram,TRUE,147.35
+38,Man,41,A,Google Search,TRUE,163.65
+46,Man,41,A,TikTok,TRUE,184.74
+18,Woman,60,C,TikTok,TRUE,107.54
+31,Man,42,C,Instagram,TRUE,139.8
+49,Woman,38,A,TikTok,TRUE,118.98
+36,Man,44,A,TikTok,TRUE,120.59
+28,Man,10,A,Facebook,FALSE,117.66
+30,Man,73,A,TikTok,TRUE,66.94
+44,Man,29,C,TikTok,TRUE,103.19
+18,Non-Binary,64,C,Instagram,TRUE,64.73
+53,Man,57,A,Facebook,FALSE,52.11
+18,Man,40,A,Facebook,FALSE,7.59
+32,Man,47,C,Instagram,TRUE,122.25
+28,Man,39,B,Facebook,FALSE,80.13
+21,Woman,61,A,TikTok,TRUE,31.21
+24,Woman,48,A,Instagram,TRUE,74.74
+44,Man,43,A,TikTok,FALSE,58.83
+38,Man,60,C,Google Search,FALSE,221.78
+35,Non-Binary,63,C,TikTok,FALSE,168.61
+18,Man,34,A,Instagram,FALSE,0
+20,Man,32,B,Facebook,TRUE,113.75
+38,Woman,63,C,Google Search,TRUE,277.74
+27,Man,40,A,Facebook,TRUE,85.49
+28,Woman,58,B,Facebook,FALSE,145.56
+56,Man,26,B,TikTok,FALSE,215.37
+43,Woman,43,A,TikTok,TRUE,132.17
+24,Woman,64,A,Google Search,TRUE,110.67
+33,Woman,68,A,Instagram,FALSE,179.44
+36,Non-Binary,30,A,Instagram,FALSE,229.56
+30,Woman,39,B,Facebook,FALSE,148.68
+26,Man,43,B,Instagram,TRUE,123.43
+39,Woman,42,C,Google Search,FALSE,279.36
+51,Woman,66,B,Facebook,FALSE,314.89
+43,Woman,37,C,Facebook,TRUE,271.35
+37,Woman,37,B,Google Search,FALSE,259.54
+46,Woman,29,B,Instagram,TRUE,277.53
+52,Woman,19,B,TikTok,TRUE,383.41
+38,Man,56,B,Instagram,FALSE,203.42
+47,Man,32,C,Instagram,TRUE,235.2
+23,Woman,71,A,Instagram,FALSE,128.88
+36,Woman,39,B,TikTok,TRUE,207.45
+34,Man,36,C,Facebook,TRUE,189.86
+43,Man,39,A,Google Search,TRUE,120.77
+45,Man,41,C,Facebook,FALSE,134.53
+38,Man,41,C,Google Search,FALSE,134.29
+29,Woman,53,A,TikTok,TRUE,0
+26,Man,46,A,Google Search,FALSE,73.39
+44,Woman,36,A,Google Search,FALSE,191.91
+60,Man,34,B,Google Search,TRUE,401.58
+28,Man,59,C,TikTok,TRUE,142.82
+34,Woman,21,A,Google Search,FALSE,159.01
+45,Man,0,B,Instagram,TRUE,226.73
+32,Man,44,B,Facebook,FALSE,183.94
+42,Woman,69,A,TikTok,FALSE,160.71
+39,Man,38,A,Google Search,TRUE,202.9
+28,Woman,65,C,TikTok,TRUE,127.82
+52,Man,35,A,Facebook,TRUE,131.78
+53,Woman,22,A,Facebook,TRUE,193.23
+55,Non-Binary,41,C,Facebook,TRUE,338.1
+59,Woman,44,B,Google Search,TRUE,543.45
+32,Non-Binary,44,C,Facebook,TRUE,180.17
+33,Woman,82,A,Facebook,FALSE,62.96
+44,Man,36,A,Facebook,TRUE,179.89
+49,Woman,26,A,Facebook,TRUE,175.27
+35,Woman,57,B,TikTok,TRUE,149.53
+34,Woman,69,A,Google Search,TRUE,113.03
+31,Man,41,B,Instagram,FALSE,164.91
+62,Man,23,C,Facebook,FALSE,160.97
+18,Man,49,C,TikTok,TRUE,70.03
+37,Non-Binary,58,C,TikTok,TRUE,161.82
+41,Man,23,C,Google Search,TRUE,197.48
+24,Man,44,B,Instagram,TRUE,94.06
+46,Man,21,A,Facebook,TRUE,129.13
+18,Woman,65,C,TikTok,TRUE,84.78
+54,Woman,17,B,Google Search,FALSE,434.57
+18,Woman,64,C,Instagram,TRUE,160.34
+18,Man,65,C,TikTok,TRUE,0
+29,Man,49,B,Google Search,TRUE,158.24
+42,Woman,43,A,TikTok,TRUE,176.19
+30,Woman,95,C,Facebook,FALSE,104
+32,Woman,58,C,Facebook,TRUE,132.54
+45,Man,4,A,Facebook,FALSE,72.97
+24,Woman,68,C,Facebook,FALSE,113.54
+39,Woman,66,B,Facebook,TRUE,174.83
+47,Man,52,A,Google Search,TRUE,113.03
+65,Woman,33,C,Instagram,TRUE,475.99
+47,Man,45,A,Google Search,TRUE,146.53
+66,Woman,37,B,Facebook,TRUE,294.53
+47,Woman,60,B,Instagram,TRUE,345.45
+40,Woman,19,C,Facebook,FALSE,132.73
+18,Woman,53,B,Facebook,TRUE,101.23
+22,Woman,50,A,Facebook,TRUE,129.33
+35,Man,35,B,Facebook,TRUE,96.63
+51,Woman,34,C,Google Search,FALSE,359.88
+35,Woman,45,A,Instagram,TRUE,232.17
+48,Man,31,A,Instagram,TRUE,226.1
+24,Non-Binary,53,B,Facebook,TRUE,189.9
+36,Man,68,B,Facebook,FALSE,139.65
+43,Woman,49,B,Instagram,TRUE,286.52
+35,Man,36,A,Facebook,TRUE,72.58
+42,Non-Binary,40,B,Google Search,FALSE,283.01
+30,Woman,57,A,Google Search,FALSE,140.15
+46,Man,27,A,Google Search,TRUE,198.5
+39,Woman,49,B,TikTok,TRUE,191.93
+39,Other,43,B,Instagram,FALSE,238.42
+18,Man,43,B,Google Search,TRUE,88.62
+30,Man,60,B,Instagram,FALSE,109.51
+18,Man,86,B,Instagram,TRUE,129.08
+18,Woman,44,A,Facebook,TRUE,72.06
+33,Woman,59,B,TikTok,TRUE,163.17
+38,Woman,40,B,Google Search,FALSE,314.48
+44,Non-Binary,60,A,Facebook,FALSE,157.62
+56,Man,15,B,TikTok,TRUE,157.19
+47,Non-Binary,49,A,Instagram,TRUE,307.33
+55,Man,14,C,Google Search,TRUE,271.07
+32,Non-Binary,53,C,Instagram,TRUE,145.55
+35,Woman,26,B,Facebook,TRUE,195.15
+56,Woman,28,A,Google Search,TRUE,260.92
+40,Woman,78,A,Facebook,TRUE,177.92
+18,Non-Binary,75,A,Facebook,FALSE,58.21
+27,Woman,50,A,Instagram,TRUE,115.45
+55,Man,64,A,Facebook,TRUE,130.8
+31,Non-Binary,72,A,Google Search,TRUE,185.67
+45,Non-Binary,45,B,TikTok,TRUE,221.17
+40,Woman,32,A,Instagram,TRUE,225.08
+33,Man,19,B,Instagram,TRUE,141.62
+35,Man,49,C,TikTok,TRUE,74.61
+46,Man,26,B,TikTok,FALSE,130.32
+43,Woman,78,C,TikTok,FALSE,175.53
+59,Man,24,A,Instagram,TRUE,119.76
+37,Man,35,C,Google Search,TRUE,148.01
+26,Woman,50,A,TikTok,TRUE,114.11
+42,Woman,26,C,Google Search,FALSE,207.59
+51,Man,29,B,Facebook,FALSE,191.52
+74,Man,0,A,Instagram,TRUE,250.4
+33,Man,36,A,TikTok,TRUE,136.33
+35,Man,15,B,Facebook,FALSE,125.51
+53,Woman,26,A,Google Search,TRUE,353.25
+59,Man,48,C,Instagram,TRUE,270.18
+30,Woman,53,C,Google Search,TRUE,251.1
+50,Man,15,C,TikTok,FALSE,112.55
+32,Woman,32,B,Instagram,FALSE,244.41
+26,Man,27,A,Facebook,FALSE,31.73
+49,Man,43,A,Facebook,TRUE,135.93
+42,Woman,74,A,TikTok,FALSE,136.87
+46,Man,28,B,Facebook,TRUE,185.51
+31,Man,38,A,TikTok,TRUE,79.46
+67,Man,11,C,TikTok,TRUE,221.07
+50,Woman,68,C,Instagram,FALSE,324.4
+34,Woman,25,C,Facebook,TRUE,137.17
+51,Man,42,B,Instagram,TRUE,352.46
+22,Woman,44,B,Google Search,FALSE,126.6
+38,Woman,65,A,Google Search,FALSE,140.85
+61,Woman,38,B,Instagram,TRUE,390.24
+37,Woman,59,A,TikTok,TRUE,182.69
+54,Man,10,A,Facebook,TRUE,112.73
+37,Woman,38,A,Instagram,FALSE,66.34
+18,Man,15,A,Google Search,FALSE,75.69
+27,Woman,45,A,Facebook,FALSE,32.26
+43,Non-Binary,28,B,TikTok,TRUE,229.69
+62,Man,19,C,Instagram,TRUE,280.43
+31,Man,39,A,Facebook,FALSE,36.3
+44,Man,22,B,Instagram,TRUE,216.36
+26,Woman,49,C,Google Search,TRUE,171.33
+25,Woman,33,A,Instagram,TRUE,85.8
+28,Man,55,B,Instagram,FALSE,27.14
+61,Man,26,C,Google Search,FALSE,338.52
+54,Woman,44,A,TikTok,TRUE,204.29
+49,Woman,54,B,Instagram,TRUE,344.6
+57,Man,20,A,Instagram,TRUE,250.87
+34,Man,67,A,Facebook,TRUE,70.08
+51,Man,15,A,Instagram,TRUE,123.15
+43,Man,35,C,TikTok,TRUE,137.54
+24,Man,63,B,Google Search,TRUE,145.08
+28,Man,51,B,Instagram,TRUE,164.61
+41,Man,24,C,TikTok,FALSE,150.54
+43,Man,21,C,Google Search,TRUE,203.32
+35,Woman,67,C,Google Search,TRUE,239.63
+25,Man,40,C,TikTok,FALSE,105.54
+18,Man,42,A,TikTok,TRUE,3.13
+46,Man,19,A,TikTok,TRUE,159.49
+36,Man,43,B,TikTok,TRUE,136.27
+48,Man,54,A,Facebook,TRUE,159.49
+18,Man,72,C,Google Search,TRUE,97.82
+21,Woman,78,C,Facebook,TRUE,50.97
+38,Man,14,A,Google Search,TRUE,127.35
+19,Woman,86,B,Facebook,TRUE,102
+18,Man,62,B,Google Search,TRUE,141.1
+52,Man,53,C,Facebook,TRUE,236.75
+54,Man,11,C,Facebook,TRUE,133.63
+25,Man,29,B,Google Search,TRUE,137.11
+36,Man,35,C,Google Search,TRUE,210.34
+23,Man,42,B,Facebook,TRUE,99.55
+45,Man,41,A,Facebook,TRUE,152.99
+40,Woman,42,A,TikTok,FALSE,57.87
+27,Woman,54,C,Google Search,TRUE,242.97
+28,Woman,41,B,Instagram,TRUE,220.49
+24,Other,61,A,Instagram,TRUE,137.44
+47,Man,53,C,Google Search,TRUE,278.7
+49,Woman,37,C,Instagram,TRUE,323.18
+46,Man,27,A,Facebook,FALSE,4.29
+27,Man,52,B,Facebook,TRUE,100.2
+18,Man,41,A,Instagram,TRUE,0
+48,Woman,35,C,TikTok,TRUE,215.8
+37,Man,20,C,Instagram,TRUE,221.1
+39,Woman,40,B,TikTok,TRUE,200.89
+55,Non-Binary,60,C,Google Search,TRUE,424.04
+27,Woman,51,A,Instagram,TRUE,147.46
+57,Woman,45,A,TikTok,TRUE,190.72
+34,Non-Binary,34,B,TikTok,FALSE,148.68
+29,Woman,73,B,Facebook,TRUE,97.67
+37,Man,27,B,Google Search,TRUE,207.44
+46,Man,3,A,Google Search,TRUE,120.54
+37,Woman,48,A,Instagram,TRUE,176.26
+26,Other,34,B,Instagram,FALSE,195.35
+36,Woman,53,B,Instagram,TRUE,198.23
+18,Man,49,B,Instagram,TRUE,20.85
+32,Man,77,C,Google Search,FALSE,187.27
+47,Woman,49,B,Facebook,FALSE,244.31
+37,Man,57,B,Instagram,TRUE,229.82
+50,Woman,58,B,TikTok,TRUE,217.5
+47,Woman,42,A,Google Search,TRUE,231.46
+50,Woman,37,C,Google Search,FALSE,315.62
+50,Man,4,A,Instagram,FALSE,133.87
+18,Man,60,C,Instagram,TRUE,163.79
+40,Woman,62,C,Google Search,TRUE,268.11
+64,Other,9,B,Google Search,TRUE,408.72
+33,Woman,37,C,Facebook,TRUE,262.33
+47,Woman,55,B,Facebook,TRUE,248.5
+42,Non-Binary,61,C,TikTok,TRUE,142.84
+48,Man,22,C,Facebook,TRUE,172.31
+36,Other,32,A,Facebook,FALSE,80.85
+30,Man,35,B,TikTok,TRUE,60.52
+41,Man,57,C,Facebook,FALSE,174.87
+43,Man,34,A,Google Search,TRUE,134.85
+37,Woman,57,B,Facebook,FALSE,133.69
+40,Man,39,A,Facebook,FALSE,76.27
+46,Woman,65,B,Facebook,FALSE,278.7
+28,Man,18,B,Google Search,TRUE,173.55
+57,Man,31,A,Facebook,TRUE,134.89
+73,Woman,22,A,Facebook,FALSE,275.93
+62,Non-Binary,44,B,Google Search,TRUE,539.84
+33,Woman,58,B,Facebook,TRUE,133.24
+18,Woman,46,A,Facebook,TRUE,99.2
+41,Woman,30,B,Instagram,FALSE,273.4
+53,Woman,29,B,Google Search,TRUE,389.41
+52,Man,21,A,Facebook,TRUE,63.84
+22,Man,62,A,TikTok,FALSE,0
+23,Woman,76,C,Facebook,TRUE,81.97
+42,Non-Binary,43,C,Google Search,TRUE,381.29
+49,Non-Binary,28,A,TikTok,TRUE,163.24
+53,Man,49,A,Instagram,FALSE,211.56
+52,Woman,61,C,Instagram,TRUE,381.96
+25,Woman,60,B,Google Search,TRUE,154.8
+20,Non-Binary,58,A,Instagram,TRUE,102.42
+18,Woman,55,B,Facebook,TRUE,100.25
+48,Woman,45,A,TikTok,TRUE,170.02
+52,Non-Binary,47,B,Facebook,TRUE,306.37
+45,Man,73,B,Instagram,FALSE,230.72
+24,Non-Binary,67,C,Facebook,FALSE,82.3
+64,Woman,34,A,Facebook,FALSE,232.95
+34,Woman,34,A,Facebook,TRUE,98.86
+67,Woman,30,C,Instagram,TRUE,473.36
+48,Man,29,B,Instagram,TRUE,234.85
+58,Man,45,A,TikTok,FALSE,218.97
+45,Woman,36,A,Instagram,TRUE,220.02
+39,Man,13,C,Google Search,TRUE,180.78
+25,Non-Binary,58,C,TikTok,TRUE,148.41
+32,Man,28,A,TikTok,TRUE,79.48
+39,Woman,56,A,Facebook,TRUE,232.33
+44,Man,35,C,Instagram,FALSE,117.99
+40,Man,39,C,TikTok,TRUE,90.79
+37,Woman,71,A,Instagram,TRUE,219.97
+43,Non-Binary,58,C,TikTok,FALSE,181.81
+32,Man,33,C,Instagram,TRUE,219.23
+32,Woman,53,A,Instagram,TRUE,232.17
+18,Man,46,A,TikTok,TRUE,92.52
+53,Woman,58,B,Facebook,FALSE,262.44
+41,Man,58,C,Facebook,TRUE,94.24
+39,Woman,32,C,Facebook,TRUE,216.06
+29,Woman,35,C,TikTok,FALSE,71.63
+36,Man,60,A,Google Search,FALSE,94.82
+24,Woman,58,A,TikTok,TRUE,87.56
+24,Man,21,C,Facebook,TRUE,124.43
+18,Woman,69,A,TikTok,TRUE,64.5
+55,Woman,21,C,Instagram,TRUE,403.03
+42,Woman,33,C,Instagram,TRUE,320.73
+23,Other,54,A,Facebook,TRUE,144.12
+57,Man,2,A,Facebook,TRUE,163.42
+49,Man,35,A,Facebook,TRUE,123.17
+51,Woman,25,C,Google Search,TRUE,413.54
+37,Man,44,A,TikTok,TRUE,89.44
+34,Man,62,B,Instagram,TRUE,139.39
+39,Man,29,B,Facebook,TRUE,170.48
+46,Woman,57,A,Instagram,FALSE,202.63
+52,Man,14,A,TikTok,TRUE,106.64
+64,Woman,13,C,Instagram,FALSE,406.42
+32,Woman,54,B,TikTok,TRUE,185.99
+25,Man,40,A,TikTok,TRUE,204.37
+42,Man,15,A,TikTok,TRUE,69.17
+80,Man,0,A,Instagram,TRUE,279.03
+34,Non-Binary,81,A,Instagram,FALSE,91.15
+57,Non-Binary,28,C,Google Search,FALSE,369.11
+36,Man,8,C,Google Search,TRUE,151.07
+33,Man,46,B,Facebook,TRUE,119.38
+29,Man,30,A,Instagram,TRUE,81.78
+37,Man,14,C,Facebook,TRUE,142.41
+65,Man,19,C,Instagram,TRUE,284.87
+45,Woman,9,C,TikTok,TRUE,286.51
+47,Woman,4,A,Facebook,TRUE,130.24
+53,Woman,16,A,Instagram,FALSE,254.58
+71,Woman,38,C,Facebook,TRUE,410.25
+52,Man,13,C,TikTok,FALSE,147.75
+19,Man,45,B,Instagram,TRUE,174.11
+24,Non-Binary,67,C,Facebook,FALSE,114.86
+18,Man,39,C,Google Search,TRUE,62.04
+18,Man,52,A,Facebook,FALSE,1.65
+59,Woman,2,B,Instagram,TRUE,386.77
+33,Man,42,B,Facebook,TRUE,100.97
+46,Non-Binary,36,C,Google Search,FALSE,358.43
+58,Man,34,C,Instagram,TRUE,238.42
+32,Man,31,A,Facebook,TRUE,100.16
+38,Woman,45,A,Instagram,TRUE,224.33
+45,Man,46,B,TikTok,TRUE,178.85
+43,Woman,26,A,Facebook,TRUE,185.08
+28,Woman,48,B,TikTok,TRUE,176.83
+51,Woman,29,A,TikTok,TRUE,194.93
+48,Non-Binary,17,A,Facebook,TRUE,215.12
+36,Woman,61,A,TikTok,FALSE,119.72
+22,Man,24,B,Facebook,FALSE,110.06
+50,Woman,54,A,TikTok,TRUE,164.18
+61,Man,3,B,Instagram,TRUE,262.89
+61,Woman,59,A,Facebook,TRUE,268.05
+53,Non-Binary,53,A,Google Search,TRUE,322.45
+33,Woman,61,A,Google Search,TRUE,167.24
+32,Man,52,A,Facebook,TRUE,63.61
+31,Man,59,C,TikTok,FALSE,96.09
+34,Man,32,C,Instagram,TRUE,186.76
+51,Man,11,A,Google Search,FALSE,248.7
+44,Woman,31,C,Facebook,TRUE,146.54
+18,Man,0,A,TikTok,TRUE,19.03
+18,Man,37,B,Google Search,FALSE,74.65
+40,Man,28,B,TikTok,FALSE,173.43
+42,Woman,41,C,Facebook,TRUE,169.72
+18,Woman,68,A,TikTok,TRUE,19.92
+28,Woman,52,B,Instagram,FALSE,164.54
+40,Woman,35,C,Facebook,TRUE,219.72
+62,Man,27,B,Facebook,FALSE,240.92
+18,Man,67,B,Instagram,FALSE,115.46
+21,Man,66,C,Instagram,TRUE,4.26
+24,Man,53,C,Google Search,TRUE,101.1
+43,Woman,64,C,Facebook,TRUE,255.95
+45,Man,25,B,TikTok,FALSE,208.59
+35,Other,59,C,Google Search,FALSE,229.24
+18,Woman,60,B,Facebook,FALSE,48.83
+31,Man,40,B,Instagram,FALSE,109.14
+32,Non-Binary,50,B,Google Search,TRUE,188.47
+37,Woman,33,C,Facebook,TRUE,127.14
+64,Man,21,B,Instagram,TRUE,265.5
+30,Woman,69,A,Instagram,FALSE,103.26
+41,Man,24,B,Instagram,TRUE,201.92
+29,Man,56,A,Instagram,FALSE,159.41
+21,Woman,54,C,Google Search,TRUE,124.64
+50,Woman,21,C,Facebook,TRUE,235.73
+24,Man,44,A,TikTok,TRUE,80.84
+80,Woman,0,B,Facebook,TRUE,453.77
+41,Woman,40,B,Instagram,FALSE,242.16
+41,Woman,22,B,Facebook,FALSE,191.25
+39,Man,23,A,Facebook,TRUE,116.69
+68,Woman,34,B,Instagram,TRUE,464.51
+50,Woman,37,C,Facebook,TRUE,258.29
+36,Woman,47,A,Google Search,TRUE,120.15
+23,Woman,67,B,Google Search,TRUE,171.11
+24,Woman,71,C,Google Search,TRUE,200.33
+28,Woman,64,B,Instagram,FALSE,214.02
+58,Woman,4,B,Instagram,TRUE,444.13
+37,Man,45,A,Instagram,TRUE,85.7
+29,Man,38,A,Google Search,TRUE,130.99
+52,Man,40,B,Google Search,FALSE,373.13
+60,Woman,29,C,Facebook,TRUE,255.91
+30,Woman,48,B,Google Search,TRUE,310.05
+33,Woman,48,B,Instagram,FALSE,185.14
+45,Man,68,C,Google Search,FALSE,236.64
+40,Other,46,A,Google Search,TRUE,154.93
+46,Man,60,A,Instagram,TRUE,138.84
+66,Woman,15,A,Instagram,FALSE,322.01
+39,Woman,26,C,Google Search,TRUE,212.51
+36,Woman,38,C,Facebook,FALSE,167.97
+47,Non-Binary,44,A,TikTok,TRUE,155.03
+39,Non-Binary,49,B,TikTok,FALSE,122.4
+49,Man,43,A,Facebook,TRUE,157.33
+37,Man,24,A,Instagram,TRUE,119.8
+47,Man,24,A,TikTok,TRUE,111.52
+18,Woman,52,B,Instagram,TRUE,92.06
+40,Non-Binary,71,C,Instagram,TRUE,287.37
+32,Man,38,A,Facebook,TRUE,137.36
+22,Woman,50,A,Google Search,FALSE,95.29
+34,Woman,70,C,Facebook,TRUE,165.09
+46,Woman,39,A,Facebook,FALSE,168.01
+41,Woman,67,A,Instagram,TRUE,187.93
+50,Man,11,B,TikTok,TRUE,182.66
+54,Woman,57,B,TikTok,TRUE,304.13
+52,Woman,37,A,Google Search,TRUE,353.03
+35,Man,27,A,Facebook,TRUE,77.53
+20,Woman,43,C,Facebook,FALSE,82.66
+36,Man,77,C,Facebook,TRUE,198.36
+58,Woman,17,A,Facebook,FALSE,195
+38,Other,30,C,Instagram,FALSE,241.89
+18,Man,39,B,Google Search,TRUE,85.1
+47,Woman,56,A,TikTok,TRUE,210.99
+44,Non-Binary,51,A,Google Search,FALSE,159.46
+34,Man,28,C,TikTok,TRUE,101.36
+43,Man,33,B,TikTok,FALSE,88.5
+61,Man,40,C,Google Search,TRUE,318.63
+59,Non-Binary,28,C,Instagram,TRUE,420.29
+33,Man,53,C,Google Search,TRUE,123.34
+40,Woman,34,C,Facebook,TRUE,231.2
+18,Non-Binary,81,A,Instagram,FALSE,98.62
+29,Woman,61,C,Google Search,FALSE,202.2
+70,Woman,41,C,TikTok,FALSE,269.31
+62,Other,46,C,Google Search,TRUE,382.59
+37,Other,39,C,Instagram,FALSE,168.48
+30,Woman,50,B,Instagram,TRUE,226.1
+20,Woman,77,B,Instagram,TRUE,71.56
+72,Woman,32,B,Facebook,TRUE,410.38
+42,Man,18,A,TikTok,TRUE,154.53
+31,Man,51,C,TikTok,TRUE,91.37
+56,Woman,28,A,TikTok,TRUE,222.78
+24,Woman,47,C,Google Search,FALSE,120.24
+51,Man,42,C,Google Search,FALSE,250.64
+62,Woman,0,C,Google Search,TRUE,388.34
+37,Woman,41,A,Instagram,FALSE,149.09
+62,Man,30,A,Instagram,FALSE,198.34
+50,Woman,53,B,Instagram,TRUE,405.75
+30,Man,30,C,Instagram,FALSE,137.94
+49,Man,25,A,Instagram,FALSE,175.43
+29,Man,51,A,Facebook,FALSE,80.06
+32,Other,62,C,Instagram,TRUE,213.43
+52,Man,19,A,Google Search,TRUE,257.72
+33,Man,39,C,Facebook,TRUE,117.39
+40,Woman,53,B,TikTok,TRUE,222.7
+55,Man,9,B,Facebook,TRUE,235.37
+22,Man,52,A,Facebook,TRUE,36.65
+64,Man,4,C,Facebook,TRUE,235.89
+71,Woman,20,B,Facebook,TRUE,360.66
+49,Man,46,C,TikTok,FALSE,242.44
+46,Man,20,B,TikTok,FALSE,150.68
+33,Man,48,A,Google Search,FALSE,72.76
+47,Woman,48,B,TikTok,TRUE,266.3
+32,Woman,45,A,Google Search,FALSE,109.12
+44,Woman,54,C,Instagram,TRUE,313.74
+30,Man,35,A,Instagram,FALSE,119.04
+52,Non-Binary,50,C,Facebook,TRUE,300.32
+50,Man,39,C,Google Search,FALSE,216.39
+59,Man,14,B,Instagram,FALSE,215.93
+70,Man,7,A,Instagram,TRUE,237.46
+30,Woman,59,C,Google Search,TRUE,257.36
+54,Woman,20,B,Facebook,FALSE,330.92
+19,Man,34,A,Instagram,TRUE,98.16
+33,Woman,69,C,Instagram,TRUE,247.94
+54,Woman,52,A,Google Search,FALSE,265.31
+29,Woman,50,C,Instagram,TRUE,249.13
+45,Man,45,A,Facebook,TRUE,83.73
+26,Woman,60,A,Instagram,TRUE,160.94
+34,Woman,55,C,Google Search,TRUE,187.53
+39,Man,35,C,Facebook,FALSE,223.84
+31,Man,63,C,Google Search,TRUE,131.37
+18,Man,26,A,Facebook,FALSE,10.21
+44,Man,54,C,Facebook,FALSE,174.43
+47,Woman,51,A,TikTok,FALSE,207.86
+42,Woman,50,A,TikTok,TRUE,91.14
+33,Woman,62,A,Facebook,TRUE,156.11
+54,Man,11,A,Google Search,TRUE,241.03
+56,Man,24,B,Facebook,FALSE,196.1
+18,Man,43,A,Google Search,FALSE,62.11
+57,Woman,39,A,Instagram,TRUE,314.02
+18,Man,74,A,Facebook,TRUE,0
+35,Man,10,B,Facebook,TRUE,59.23
+23,Woman,78,B,Instagram,TRUE,164.82
+31,Man,45,A,Facebook,TRUE,75.47
+60,Woman,35,B,Google Search,TRUE,498.81
+48,Woman,28,B,Google Search,FALSE,294.31
+47,Man,18,A,TikTok,FALSE,23.54
+18,Man,35,A,Instagram,TRUE,43.88
+43,Non-Binary,84,B,Google Search,TRUE,357.65
+49,Woman,64,C,TikTok,TRUE,247.41
+53,Woman,34,C,Google Search,FALSE,313.03
+25,Man,70,C,TikTok,FALSE,49.31
+54,Non-Binary,14,C,Google Search,TRUE,403
+19,Woman,79,B,Instagram,TRUE,207.3
+66,Man,13,B,Facebook,TRUE,308.24
+28,Man,74,B,Google Search,TRUE,202.66
+51,Other,47,C,TikTok,FALSE,156.79
+45,Woman,16,C,Instagram,TRUE,329.65
+24,Woman,76,B,TikTok,FALSE,60.27
+57,Woman,8,A,TikTok,TRUE,205.33
+41,Woman,75,C,Facebook,TRUE,222.73
+52,Woman,9,C,Instagram,TRUE,405.64
+43,Man,16,A,Instagram,TRUE,216.85
+53,Man,30,B,TikTok,TRUE,183.16
+40,Woman,36,C,Instagram,TRUE,319.57
+57,Non-Binary,40,A,Google Search,FALSE,317.26
+35,Woman,32,C,Google Search,TRUE,283.06
+48,Woman,18,C,TikTok,TRUE,197.33
+46,Man,42,A,Instagram,TRUE,184.94
+53,Man,21,B,TikTok,TRUE,136.32
+31,Man,37,C,Instagram,FALSE,69.73
+43,Man,47,A,Google Search,TRUE,207.5
+31,Woman,37,C,Google Search,TRUE,239.99
+54,Woman,31,B,Facebook,TRUE,309.09
+30,Woman,36,B,Google Search,TRUE,261.7
+66,Man,41,C,Instagram,TRUE,338.35
+52,Woman,44,C,Instagram,TRUE,350.15
+40,Man,37,B,Instagram,TRUE,261.41
+58,Non-Binary,46,C,Instagram,FALSE,393.77
+39,Man,56,B,TikTok,TRUE,182.39
+48,Man,23,A,Facebook,TRUE,176.99
+48,Woman,34,A,Facebook,TRUE,137.76
+46,Woman,45,C,TikTok,FALSE,211.27
+31,Woman,67,B,Instagram,TRUE,240.12
+21,Woman,67,C,Google Search,TRUE,147.75
+18,Man,52,C,Instagram,TRUE,14.56
+33,Man,37,A,TikTok,TRUE,25.95
+50,Woman,30,C,TikTok,TRUE,302.82
+36,Man,30,A,Facebook,TRUE,132.28
+22,Man,38,B,TikTok,FALSE,44.43
+72,Woman,8,C,Google Search,FALSE,408.52
+51,Man,26,A,Instagram,FALSE,97.7
+69,Man,0,C,Instagram,TRUE,273.95
+58,Man,29,C,Facebook,TRUE,186.78
+31,Other,31,C,Instagram,FALSE,176.7
+34,Man,38,B,Instagram,TRUE,201.58
+18,Woman,65,B,Instagram,TRUE,126.91
+51,Woman,82,B,Google Search,FALSE,279.66
+64,Woman,32,C,Instagram,TRUE,476.68
+26,Man,59,A,Google Search,FALSE,19.71
+22,Man,69,A,Facebook,TRUE,6.15
+53,Man,35,A,Google Search,FALSE,242.18
+18,Man,44,B,Instagram,FALSE,46.15
+69,Woman,14,B,Instagram,TRUE,478.83
+49,Man,16,A,Google Search,FALSE,215.11
+18,Woman,57,A,Google Search,TRUE,140.32
+45,Other,45,A,Instagram,TRUE,193.7
+42,Woman,16,A,Facebook,FALSE,191.28
+18,Man,80,C,Facebook,TRUE,110.62
+39,Man,40,A,Google Search,TRUE,167.1
+31,Woman,46,C,Google Search,FALSE,213.42
+27,Woman,42,A,TikTok,TRUE,113.73
+44,Non-Binary,56,C,Google Search,TRUE,412.51
+53,Man,2,C,TikTok,FALSE,179.55
+66,Man,26,B,Google Search,TRUE,456.08
+18,Man,41,A,Google Search,TRUE,16.57
+51,Woman,47,B,TikTok,FALSE,184.88
+26,Man,48,A,TikTok,TRUE,153.01
+57,Man,23,B,Google Search,TRUE,305.09
+45,Man,27,C,TikTok,TRUE,140.14
+62,Woman,20,B,TikTok,FALSE,301.37
+18,Man,58,B,Google Search,TRUE,96.33
+47,Man,14,C,Google Search,TRUE,252.39
+44,Other,34,B,TikTok,TRUE,276.66
+56,Man,15,A,Google Search,TRUE,191.14
+37,Woman,30,B,Facebook,FALSE,154.57
+57,Woman,21,C,Facebook,FALSE,241.7
+33,Man,29,C,Google Search,TRUE,214.53
+34,Man,59,A,Instagram,FALSE,188.76
+40,Man,21,C,Google Search,TRUE,221.61
+24,Man,57,B,Instagram,FALSE,53.86
+33,Man,65,A,Facebook,TRUE,46.77
+57,Woman,5,B,Instagram,FALSE,405.14
+65,Man,0,B,Facebook,TRUE,254.33
+57,Woman,43,B,Facebook,TRUE,276.62
+34,Woman,62,C,Facebook,FALSE,187.76
+45,Man,69,A,Facebook,TRUE,57.83
+41,Woman,34,C,Facebook,TRUE,244.23
+21,Man,48,A,Google Search,TRUE,23.29
+44,Man,13,A,Google Search,TRUE,260.76
+28,Woman,59,A,Facebook,FALSE,125.57
+24,Woman,56,B,Instagram,TRUE,187.31
+51,Man,48,C,Facebook,TRUE,174.09
+29,Woman,72,C,Google Search,TRUE,233.72
+38,Woman,52,C,TikTok,TRUE,155.96
+25,Man,60,A,Google Search,TRUE,90.95
+41,Man,30,B,Instagram,TRUE,130.1
+47,Man,44,B,Instagram,TRUE,241.68
+48,Man,18,C,TikTok,FALSE,213.88
+24,Woman,74,B,Instagram,FALSE,199.62
+59,Woman,19,A,Instagram,TRUE,278.6
+62,Woman,8,A,TikTok,TRUE,269.54
+46,Man,35,C,Google Search,TRUE,299.62
+42,Woman,47,A,TikTok,FALSE,173.51
+41,Man,49,A,Facebook,TRUE,185.87
+44,Woman,58,A,Facebook,TRUE,208.76
+46,Woman,60,C,TikTok,TRUE,152.87
+42,Non-Binary,50,B,Facebook,TRUE,335.57
+50,Woman,53,B,Facebook,FALSE,259.32
+35,Man,24,C,TikTok,TRUE,108.88
+57,Woman,39,A,TikTok,FALSE,180.95
+39,Woman,46,B,Google Search,TRUE,287.07
+18,Woman,65,B,TikTok,TRUE,40.75
+39,Man,28,A,Google Search,FALSE,15.29
+47,Non-Binary,22,B,Facebook,TRUE,228.47
+58,Man,32,C,TikTok,FALSE,217.82
+41,Non-Binary,61,B,Facebook,FALSE,170.83
+18,Man,54,C,TikTok,TRUE,74.84
+40,Non-Binary,65,B,TikTok,TRUE,217.06
+22,Woman,100,A,Google Search,TRUE,143.87
+25,Man,82,A,Google Search,FALSE,82.89
+25,Woman,62,B,Instagram,TRUE,158.02
+28,Man,34,A,TikTok,TRUE,48.65
+57,Woman,30,B,TikTok,TRUE,277.58
+28,Man,27,B,Instagram,FALSE,63.97
+33,Woman,56,A,TikTok,TRUE,61.96
+43,Man,40,B,Google Search,TRUE,197.04
+53,Other,13,A,TikTok,TRUE,193.94
+30,Woman,57,A,Facebook,TRUE,164.79
+28,Man,57,B,Instagram,FALSE,114.14
+32,Woman,54,B,TikTok,TRUE,138.13
+22,Non-Binary,59,A,Google Search,TRUE,139.68
+54,Man,41,B,Facebook,TRUE,237.61
+18,Woman,46,C,Facebook,FALSE,137.2
+32,Man,46,C,TikTok,TRUE,74.45
+18,Woman,67,A,Google Search,TRUE,50.3
+18,Man,51,A,Instagram,FALSE,28.43
+40,Man,3,C,TikTok,TRUE,122.75
+63,Man,30,A,Facebook,FALSE,179.41
+65,Woman,26,A,Instagram,TRUE,343.31
+32,Man,47,A,Facebook,TRUE,33.35
+30,Non-Binary,48,B,Google Search,TRUE,240.3
+32,Man,11,C,Facebook,TRUE,81.79
+51,Woman,47,C,Instagram,FALSE,286.92
+18,Man,41,C,TikTok,FALSE,62.86
+44,Non-Binary,21,C,Facebook,FALSE,195.67
+34,Man,68,C,Google Search,TRUE,117.6
+29,Woman,66,C,TikTok,TRUE,79.23
+18,Woman,68,C,Google Search,TRUE,133.83
+37,Man,55,C,Instagram,TRUE,106.25
+18,Other,30,C,Google Search,FALSE,107.88
+40,Woman,54,A,Facebook,TRUE,61.96
+27,Man,45,C,Facebook,TRUE,135.29
+41,Woman,45,B,Facebook,FALSE,180.54
+47,Woman,48,A,TikTok,TRUE,153
+32,Man,46,B,Instagram,FALSE,179.39
+25,Woman,65,C,TikTok,FALSE,76.58
+31,Woman,47,A,Instagram,TRUE,227.78
+30,Woman,55,C,Instagram,TRUE,174.39
+18,Woman,47,B,Google Search,FALSE,64.89
+28,Woman,59,B,Facebook,TRUE,169.83
+37,Woman,49,C,Google Search,TRUE,219.45
+37,Woman,39,A,TikTok,FALSE,105.79
+45,Man,25,C,Facebook,FALSE,51.47
+59,Woman,33,B,Instagram,FALSE,394.59
+45,Man,36,A,Google Search,FALSE,90.03
+62,Man,22,A,Instagram,TRUE,169.24
+30,Woman,52,A,Facebook,FALSE,53.42
+60,Woman,39,B,Instagram,FALSE,448.22
+49,Man,29,B,Google Search,FALSE,253.92
+22,Woman,73,A,Google Search,TRUE,146.07
+46,Non-Binary,26,A,Instagram,TRUE,259.87
+21,Man,43,A,Instagram,TRUE,50.71
+54,Man,63,C,TikTok,TRUE,243.62
+32,Man,41,C,Google Search,FALSE,153.17
+36,Man,48,B,TikTok,TRUE,47.08
+30,Man,79,A,TikTok,FALSE,88.89
+27,Woman,60,A,Facebook,TRUE,140.65
+66,Woman,30,B,Instagram,FALSE,399.68
+55,Woman,33,A,Instagram,TRUE,228.2
+50,Woman,55,C,Instagram,TRUE,290.76
+41,Man,9,A,Google Search,TRUE,166.71
+51,Man,23,B,Instagram,FALSE,234.58
+50,Woman,30,A,Google Search,TRUE,208.6
+64,Woman,40,A,Google Search,TRUE,304.14
+53,Man,19,B,Google Search,TRUE,228.7
+37,Man,68,A,Instagram,FALSE,178.56
+37,Man,26,B,Google Search,TRUE,192.64
+33,Woman,55,B,TikTok,TRUE,139.98
+35,Woman,53,A,Google Search,FALSE,171.66
+36,Woman,37,B,Instagram,FALSE,237.4
+58,Man,22,B,Facebook,FALSE,221.91
+18,Man,69,B,Facebook,TRUE,17.89
+29,Man,50,B,Instagram,TRUE,146.38
+38,Man,48,A,Facebook,FALSE,140.73
+21,Man,54,B,Instagram,TRUE,78.05
+64,Man,13,A,Facebook,TRUE,165.48
+36,Non-Binary,56,B,Google Search,TRUE,265.03
+23,Man,32,A,TikTok,TRUE,53.18
+27,Man,46,C,TikTok,TRUE,87.48
+53,Non-Binary,32,B,Instagram,TRUE,405.32
+68,Man,58,A,TikTok,FALSE,130.02
+38,Woman,56,A,Google Search,TRUE,245.32
+42,Man,56,B,TikTok,FALSE,134.46
+26,Woman,48,B,TikTok,TRUE,147.48
+60,Man,24,C,Instagram,TRUE,352.19
+51,Man,34,A,Instagram,FALSE,134.33
+18,Man,56,B,Instagram,TRUE,108.68
+30,Woman,59,A,Instagram,TRUE,121.55
+36,Man,59,A,Instagram,TRUE,88.11
+23,Man,52,A,Google Search,FALSE,52.07
+36,Non-Binary,28,B,Google Search,FALSE,277.9
+23,Man,68,C,Facebook,TRUE,90.18
+45,Non-Binary,41,A,Instagram,TRUE,329.7
+45,Man,20,A,TikTok,TRUE,132.84
+52,Woman,42,C,Google Search,FALSE,345.57
+46,Woman,50,A,Facebook,TRUE,149.18
+64,Woman,29,A,Facebook,FALSE,208.36
+34,Woman,46,A,Google Search,TRUE,107.17
+18,Woman,82,C,Facebook,TRUE,96.12
+40,Man,60,B,Facebook,TRUE,186.7
+50,Non-Binary,45,C,Google Search,FALSE,389.81
+34,Woman,62,A,Instagram,FALSE,127.2
+61,Woman,28,B,Instagram,FALSE,405.23
+56,Woman,4,B,Instagram,TRUE,377.68
+48,Non-Binary,30,B,Instagram,TRUE,409.84
+41,Man,11,A,Google Search,TRUE,101.18
+32,Woman,70,A,Facebook,TRUE,121.45
+37,Woman,50,B,Google Search,TRUE,253.35
+47,Woman,46,A,Facebook,TRUE,157.75
+55,Non-Binary,19,A,Facebook,FALSE,229.47
+36,Man,48,B,Google Search,TRUE,174.32
+29,Woman,84,B,TikTok,TRUE,115.58
+77,Woman,8,C,Google Search,FALSE,498.21
+48,Woman,48,A,Facebook,TRUE,177.77
+26,Man,35,A,TikTok,TRUE,83.21
+54,Man,28,C,Google Search,FALSE,283.5
+41,Woman,32,A,TikTok,FALSE,166.73
+52,Man,22,B,Instagram,FALSE,258.77
+41,Man,55,B,Instagram,TRUE,242.43
+39,Woman,47,A,Facebook,FALSE,166.54
+41,Man,35,C,TikTok,FALSE,72.21
+46,Woman,9,B,Google Search,FALSE,303.37
+31,Man,32,B,TikTok,FALSE,52.85
+30,Woman,43,A,Facebook,FALSE,93.21
+37,Woman,38,A,Google Search,TRUE,187.48
+43,Man,44,A,Google Search,FALSE,126.28
+35,Man,57,A,Facebook,FALSE,40.17
+45,Man,8,A,Facebook,FALSE,47.15
+23,Man,51,C,Facebook,TRUE,33.24
+19,Woman,34,B,Instagram,FALSE,116.38
+68,Woman,6,B,Instagram,FALSE,519.9
+46,Man,42,A,Google Search,TRUE,205.32
+34,Woman,51,A,TikTok,FALSE,148.55
+36,Woman,32,A,Google Search,TRUE,120.31
+52,Man,0,A,Google Search,FALSE,171.02
+37,Man,47,C,TikTok,FALSE,127.49
+43,Man,43,C,TikTok,FALSE,141.86
+36,Man,68,A,Facebook,FALSE,57.38
+32,Woman,73,A,TikTok,TRUE,56.24
+49,Man,26,A,Google Search,TRUE,218.65
+42,Woman,43,C,Instagram,FALSE,295.19
+60,Woman,27,B,Google Search,TRUE,395.99
+23,Non-Binary,60,C,Facebook,FALSE,112.51
+38,Man,8,C,Instagram,FALSE,118.43
+37,Man,45,A,Instagram,TRUE,177.57
+24,Man,59,B,Facebook,TRUE,117.79
+55,Man,14,C,TikTok,FALSE,144.67
+38,Woman,40,A,Google Search,TRUE,241.76
+19,Man,48,B,Facebook,TRUE,126.45
+31,Woman,33,A,Facebook,FALSE,101.94
+23,Woman,50,B,Instagram,TRUE,205.66
+56,Man,12,B,Instagram,TRUE,293.21
+78,Woman,3,B,TikTok,TRUE,421.61
+30,Woman,63,C,Google Search,FALSE,152.12
+39,Woman,57,A,Instagram,FALSE,155.35
+44,Non-Binary,47,B,Instagram,TRUE,336.08
+80,Other,5,A,TikTok,TRUE,224.67
+18,Man,47,B,Facebook,TRUE,119.96
+32,Man,74,C,Google Search,FALSE,126.51
+22,Woman,59,A,Google Search,FALSE,130.14
+37,Man,32,B,TikTok,TRUE,161.78
+36,Woman,47,B,Google Search,TRUE,241.58
+29,Man,35,B,Google Search,FALSE,126.25
+68,Woman,26,A,Google Search,TRUE,342.9
+44,Man,48,C,Facebook,FALSE,179.78
+76,Non-Binary,20,C,Facebook,TRUE,413.69
+52,Man,19,B,TikTok,FALSE,143.35
+21,Woman,67,C,TikTok,TRUE,77.09
+29,Man,33,B,TikTok,TRUE,165.45
+44,Man,20,A,TikTok,TRUE,88.72
+31,Woman,64,A,Instagram,FALSE,170.01
+45,Man,45,A,Google Search,TRUE,148.34
+51,Man,27,A,Instagram,TRUE,171.71
+46,Woman,28,C,Google Search,FALSE,250.58
+38,Woman,63,B,Instagram,FALSE,313.57
+30,Woman,66,C,Facebook,TRUE,100.6
+21,Man,74,A,Google Search,FALSE,117.07
+45,Woman,46,A,Instagram,TRUE,217.22
+54,Man,45,A,TikTok,TRUE,121.16
+39,Non-Binary,29,B,Facebook,TRUE,228.77
+51,Woman,52,B,Facebook,TRUE,294.72
+73,Woman,1,B,Instagram,FALSE,477.67
+69,Woman,14,B,Facebook,FALSE,360.61
+33,Woman,60,A,Facebook,TRUE,155.1
+48,Man,34,B,Facebook,FALSE,149.56
+29,Woman,40,A,Facebook,FALSE,130.71
+50,Woman,35,A,TikTok,TRUE,254.62
+39,Woman,49,B,TikTok,FALSE,139.24
+44,Man,24,C,Instagram,FALSE,213.96
+27,Woman,60,B,Google Search,FALSE,135.93
+58,Woman,20,A,TikTok,FALSE,177.57
+39,Man,42,A,Google Search,FALSE,151
+33,Man,52,C,Google Search,FALSE,115.81
+39,Man,49,C,Google Search,TRUE,125.95
+41,Woman,33,B,TikTok,FALSE,169.19
+65,Woman,29,A,Google Search,FALSE,244.71
+23,Woman,53,C,TikTok,TRUE,33.49
+77,Woman,3,A,TikTok,TRUE,258.38
+28,Woman,45,C,Instagram,TRUE,139.2
+43,Woman,41,B,Google Search,FALSE,284.33
+18,Woman,71,C,Facebook,TRUE,98.93
+30,Man,24,A,Instagram,FALSE,121.37
+51,Man,35,A,TikTok,TRUE,152.68
+48,Man,6,A,TikTok,FALSE,75.24
+46,Woman,45,A,Facebook,TRUE,235.93
+33,Woman,49,A,TikTok,FALSE,129.69
+18,Woman,48,C,Instagram,TRUE,96.23
+24,Man,51,A,Google Search,FALSE,85.64
+37,Woman,38,A,TikTok,TRUE,140.02
+49,Non-Binary,53,C,Google Search,FALSE,376.59
+53,Woman,17,B,Facebook,FALSE,308.96
+35,Man,3,C,Instagram,TRUE,169.17
+38,Man,34,C,Instagram,TRUE,172.44
+38,Man,40,A,Facebook,TRUE,106.32
+41,Man,42,A,Instagram,TRUE,125.82
+63,Man,37,A,Facebook,FALSE,74.21
+29,Man,83,C,Instagram,TRUE,138.9
+37,Woman,78,C,Instagram,FALSE,184.91
+41,Man,41,B,Instagram,TRUE,274.76
+20,Man,46,C,TikTok,TRUE,122.61
+26,Non-Binary,93,C,Instagram,FALSE,198.16
+43,Man,43,B,Google Search,TRUE,230.16
+46,Man,22,B,Google Search,FALSE,207.89
+57,Man,35,B,Instagram,TRUE,299.59
+33,Non-Binary,59,C,Google Search,FALSE,204.6
+62,Woman,25,C,Facebook,TRUE,309.22
+27,Woman,45,C,Google Search,TRUE,204.39
+18,Non-Binary,52,B,TikTok,FALSE,148.08
+18,Man,54,B,Google Search,FALSE,69.15
+57,Woman,23,A,Facebook,TRUE,152.59
+45,Man,11,A,Google Search,TRUE,158.02
+38,Woman,27,A,Instagram,TRUE,175.68
+36,Other,37,A,Instagram,TRUE,119.54
+64,Woman,48,C,Facebook,TRUE,385.28
+58,Man,7,C,Facebook,TRUE,237.86
+25,Man,49,A,Facebook,FALSE,0
+19,Man,38,C,TikTok,FALSE,100.69
+56,Woman,5,A,TikTok,TRUE,149.3
+48,Woman,28,C,Instagram,TRUE,299.51
+32,Woman,45,A,TikTok,TRUE,165.37
+46,Woman,41,B,TikTok,TRUE,229.99
+18,Woman,68,A,Facebook,TRUE,30.1
+30,Woman,64,B,TikTok,FALSE,57.51
+47,Woman,34,B,Instagram,TRUE,343.34
+39,Man,58,B,TikTok,TRUE,99.36
+21,Woman,68,A,Facebook,TRUE,88.37
+55,Woman,22,C,Facebook,TRUE,270.51
+57,Woman,32,C,Google Search,TRUE,406.49
+26,Non-Binary,60,A,Facebook,TRUE,100.17
+37,Non-Binary,71,A,TikTok,FALSE,65.31
+51,Man,17,C,Instagram,TRUE,255.86
+53,Man,32,B,Google Search,FALSE,276.89
+32,Woman,49,C,Instagram,TRUE,177.97
+27,Non-Binary,67,C,TikTok,TRUE,126.75
+45,Man,52,A,Google Search,TRUE,181
+18,Woman,77,B,TikTok,FALSE,61.84
+26,Man,71,A,Instagram,TRUE,21.62
+52,Woman,18,B,Facebook,TRUE,356.24
+18,Man,27,B,Facebook,FALSE,28.86
+22,Woman,66,A,Facebook,TRUE,119.37
+36,Man,40,A,TikTok,FALSE,150.23
+35,Man,59,C,Facebook,TRUE,93.67
+18,Man,35,C,Instagram,TRUE,93.96
+48,Man,32,C,Instagram,TRUE,278.75
+25,Man,53,A,Instagram,TRUE,137.61
+38,Woman,42,A,Facebook,TRUE,123.09
+37,Man,14,A,Facebook,FALSE,124.02
+50,Man,21,A,Facebook,FALSE,80.83
+39,Woman,54,A,Google Search,FALSE,106.77
+38,Woman,63,C,Google Search,TRUE,253.16
+65,Man,5,A,Facebook,TRUE,129.63
+46,Woman,51,A,Facebook,TRUE,141.63
+49,Woman,43,C,Instagram,FALSE,293.88
+47,Man,44,A,Facebook,FALSE,114.78
+49,Woman,38,A,Facebook,FALSE,231.41
+60,Non-Binary,72,A,TikTok,TRUE,146.93
+39,Man,38,B,Facebook,TRUE,141.26
+44,Man,51,C,Facebook,TRUE,152.43
+70,Woman,6,A,Google Search,TRUE,442.87
+32,Man,51,B,Facebook,TRUE,125.16
+59,Man,20,C,TikTok,TRUE,245.48
+31,Woman,57,A,TikTok,TRUE,150.11
+66,Man,14,C,TikTok,FALSE,249.12
+30,Non-Binary,48,C,TikTok,TRUE,208.56
+28,Man,46,C,Instagram,TRUE,93.74
+56,Man,11,A,TikTok,TRUE,103.36
+54,Woman,24,B,Facebook,FALSE,273.33
+48,Man,33,A,Google Search,TRUE,125.17
+44,Man,36,C,Instagram,FALSE,195.58
+44,Man,11,B,TikTok,TRUE,162.8
+71,Man,0,A,Facebook,TRUE,257.12
+19,Woman,42,B,Google Search,TRUE,74.98
+25,Man,63,B,TikTok,TRUE,149.58
+21,Woman,41,A,Instagram,FALSE,100.56
+54,Woman,45,C,Google Search,TRUE,437.13
+36,Woman,53,C,Facebook,TRUE,244.95
+38,Man,61,C,Google Search,TRUE,225.01
+67,Woman,22,A,Instagram,FALSE,308.26
+31,Man,19,A,TikTok,TRUE,81.82
+70,Man,24,B,Facebook,FALSE,240.73
+19,Non-Binary,95,A,TikTok,TRUE,62.04
+60,Woman,29,C,Facebook,TRUE,353.33
+45,Man,39,A,Facebook,TRUE,131.07
+34,Woman,41,B,Facebook,TRUE,188.79
+37,Woman,22,C,Instagram,FALSE,185.52
+60,Man,0,C,TikTok,TRUE,209.09
+66,Man,32,A,TikTok,TRUE,91.76
+18,Woman,86,A,Facebook,FALSE,8.84
+80,Other,3,C,Instagram,TRUE,454.3
+79,Non-Binary,11,C,Instagram,TRUE,561.87
+32,Woman,47,B,Instagram,TRUE,181.74
+39,Man,44,A,TikTok,TRUE,161.55
+30,Other,78,B,Google Search,TRUE,246.22
+39,Woman,73,C,TikTok,TRUE,141.25
+51,Man,54,C,Instagram,TRUE,261.46
+42,Woman,43,C,TikTok,TRUE,270.55
+43,Man,57,B,Facebook,TRUE,179.69
+62,Man,8,A,Facebook,FALSE,176.46
+18,Man,42,C,Facebook,FALSE,92.58
+33,Woman,43,A,TikTok,FALSE,161.42
+42,Man,35,A,Facebook,TRUE,108.43
+28,Woman,78,C,Facebook,TRUE,175.55
+56,Woman,25,A,Google Search,TRUE,276.46
+33,Man,55,C,Google Search,TRUE,199.34
+34,Man,53,B,Google Search,TRUE,151.05
+58,Woman,19,C,TikTok,TRUE,250.68
+53,Man,1,B,Facebook,TRUE,284.63
+38,Woman,52,B,Facebook,TRUE,244.27
+35,Man,15,A,Google Search,TRUE,67.4
+18,Man,45,A,Google Search,TRUE,37.86
+30,Woman,37,A,Google Search,TRUE,145.66
+79,Non-Binary,3,A,TikTok,TRUE,264.74
+39,Woman,49,A,Facebook,FALSE,110.09
+54,Non-Binary,31,A,Instagram,TRUE,253.17
+37,Man,42,B,Facebook,FALSE,114
+49,Man,66,B,Facebook,FALSE,167.08
+39,Man,56,C,Google Search,FALSE,210.97
+60,Non-Binary,16,A,Instagram,FALSE,264.84
+32,Man,57,C,Facebook,FALSE,23.9
+18,Woman,64,B,Facebook,FALSE,97.44
+53,Woman,35,A,TikTok,FALSE,144.27
+36,Man,45,A,Google Search,TRUE,159.65
+62,Woman,23,A,Google Search,TRUE,284
+42,Non-Binary,43,B,Instagram,TRUE,312.85
+62,Non-Binary,21,B,Instagram,TRUE,530.87
+45,Non-Binary,48,C,Facebook,TRUE,246.67
+35,Woman,35,A,TikTok,TRUE,54.4
+51,Woman,49,A,TikTok,FALSE,211.31
+33,Man,51,A,Instagram,TRUE,109.2
+65,Woman,26,C,TikTok,TRUE,305.52
+42,Man,42,C,TikTok,TRUE,90.47
+18,Man,49,B,Google Search,TRUE,50.33
+33,Man,50,A,Facebook,TRUE,42.03
+18,Non-Binary,92,B,Instagram,FALSE,151.27
+18,Man,26,B,Facebook,FALSE,85.31
+41,Man,31,C,TikTok,TRUE,134.58
+50,Woman,45,A,Google Search,TRUE,187.72
+29,Man,28,A,Facebook,TRUE,51.65
+20,Woman,55,A,TikTok,FALSE,91.45
+31,Woman,51,A,Instagram,TRUE,161.98
+18,Man,67,C,TikTok,TRUE,92.55
+51,Woman,38,A,Facebook,FALSE,205.49
+49,Man,4,A,Instagram,TRUE,128.29
+18,Non-Binary,80,A,Google Search,TRUE,0
+31,Woman,54,B,Facebook,FALSE,77.72
+56,Man,22,B,TikTok,FALSE,193.13
+37,Man,39,C,Facebook,FALSE,146.55
+40,Man,37,A,Instagram,FALSE,155.97
+46,Woman,52,B,TikTok,TRUE,222.99
+49,Woman,11,C,TikTok,TRUE,182.86
+58,Woman,27,A,Facebook,FALSE,177.84
+52,Woman,3,B,Instagram,TRUE,517.57
+19,Woman,63,B,Instagram,TRUE,49.51
+35,Other,44,B,TikTok,FALSE,150.08
+45,Woman,42,A,Google Search,TRUE,240.08
+38,Man,43,B,Facebook,FALSE,136.64
+18,Man,41,C,Facebook,FALSE,93.37
+29,Woman,58,A,Facebook,TRUE,124.11
+55,Woman,32,A,Instagram,TRUE,260.29
+42,Woman,68,A,Instagram,FALSE,184.76
+18,Man,47,B,Instagram,FALSE,110.08
+43,Woman,30,A,Facebook,TRUE,99.78
+38,Woman,25,B,Google Search,FALSE,282.28
+50,Man,32,B,Google Search,TRUE,213.86
+72,Woman,20,A,Google Search,TRUE,415.56
+18,Woman,74,A,Facebook,FALSE,33.06
+32,Woman,54,A,Google Search,TRUE,189.96
+38,Man,10,C,Instagram,FALSE,159.06
+18,Man,48,C,TikTok,TRUE,98.71
+40,Man,58,A,Google Search,FALSE,227.39
+31,Man,41,C,Instagram,FALSE,73.44
+74,Man,14,A,TikTok,FALSE,159.34
+18,Woman,81,A,TikTok,FALSE,164.42
+62,Man,14,C,Facebook,FALSE,192.13
+55,Woman,53,C,Facebook,TRUE,268.03
+51,Non-Binary,45,A,Google Search,TRUE,277.1
+42,Woman,36,A,Google Search,TRUE,276.4
+29,Man,35,B,Facebook,FALSE,58.74
+57,Non-Binary,38,A,Google Search,FALSE,264.32
+27,Woman,52,A,Instagram,FALSE,85.08
+50,Woman,33,C,Instagram,TRUE,355.18
+46,Woman,35,B,Facebook,TRUE,211.31
+56,Man,39,A,Google Search,TRUE,255.39
+31,Man,36,A,Instagram,TRUE,81.06
+31,Woman,51,A,Instagram,FALSE,90.69
+45,Woman,19,A,TikTok,TRUE,106.82
+45,Woman,35,B,Facebook,TRUE,208.91
+61,Woman,31,B,Google Search,TRUE,399.11
+47,Man,46,B,Google Search,FALSE,257.2
+42,Man,46,C,Instagram,FALSE,178.83
+53,Woman,50,A,TikTok,TRUE,211.94
+32,Woman,40,C,TikTok,FALSE,117.69
+56,Woman,29,B,Facebook,FALSE,259.41
+25,Woman,95,B,Instagram,TRUE,199.45
+45,Man,25,B,Instagram,FALSE,234.2
+18,Man,44,B,TikTok,FALSE,33.56
+44,Man,41,C,Facebook,TRUE,92.11
+18,Man,59,C,Facebook,FALSE,0
+37,Man,27,B,TikTok,TRUE,121.38
+18,Man,31,A,Facebook,TRUE,119.7
+30,Woman,45,B,TikTok,TRUE,154.97
+28,Man,44,C,Instagram,TRUE,53.78
+48,Man,11,C,Facebook,TRUE,149.83
+31,Woman,54,A,Google Search,FALSE,89.52
+28,Woman,70,B,Instagram,TRUE,216.68
+58,Man,34,B,Google Search,TRUE,283.7
+65,Woman,26,A,Google Search,FALSE,361.64
+56,Man,0,A,Instagram,FALSE,192.6
+18,Man,68,A,TikTok,TRUE,212.51
+59,Woman,44,A,Facebook,TRUE,201.6
+22,Man,40,A,Instagram,FALSE,56.16
+39,Man,56,B,Facebook,TRUE,187.51
+51,Man,35,A,Instagram,TRUE,193.71
+37,Man,41,B,TikTok,TRUE,100.96
+38,Woman,47,A,TikTok,TRUE,151.54
+42,Woman,62,A,TikTok,FALSE,119.41
+46,Man,29,B,TikTok,TRUE,153.19
+46,Non-Binary,52,A,Google Search,FALSE,184.32
+18,Woman,57,B,Google Search,TRUE,101.22
+37,Woman,59,C,TikTok,TRUE,246.5
+44,Man,33,C,Instagram,TRUE,175.29
+49,Woman,34,A,Instagram,TRUE,237.74
+35,Man,13,B,Instagram,FALSE,113.37
+29,Woman,32,B,Instagram,TRUE,175.65
+19,Man,45,B,Instagram,FALSE,146.34
+29,Woman,40,C,Facebook,FALSE,166.94
+38,Woman,61,B,Google Search,TRUE,300.87
+30,Woman,60,B,TikTok,TRUE,144.39
+49,Man,21,C,Facebook,TRUE,124.84
+46,Man,26,C,TikTok,TRUE,170.65
+18,Woman,68,C,Google Search,TRUE,181.91
+45,Woman,36,B,Instagram,TRUE,334.28
+48,Non-Binary,50,C,Instagram,TRUE,331.03
+36,Woman,50,C,Google Search,TRUE,221.57
+40,Woman,53,A,Google Search,TRUE,220.69
+34,Woman,51,A,Instagram,TRUE,168.69
+36,Woman,68,C,Instagram,FALSE,175.46
+25,Man,68,A,Google Search,TRUE,176.92
+46,Man,34,B,Instagram,TRUE,209.74
+22,Man,40,C,Facebook,FALSE,43.9
+31,Man,45,C,Google Search,TRUE,108.64
+26,Woman,35,A,Facebook,TRUE,62.26
+27,Woman,66,C,TikTok,TRUE,130.37
+34,Man,34,A,TikTok,TRUE,81.09
+33,Non-Binary,55,A,TikTok,FALSE,36.24
+30,Non-Binary,69,B,Google Search,TRUE,299.33
+36,Woman,61,A,TikTok,FALSE,111.98
+18,Man,52,B,Google Search,FALSE,61.68
+42,Man,33,A,Google Search,TRUE,150.47
+49,Woman,12,A,Instagram,TRUE,273.62
+21,Man,69,A,Google Search,TRUE,54.02
+19,Woman,73,C,TikTok,TRUE,94.11
+73,Man,50,B,Google Search,TRUE,436.25
+44,Man,29,A,Facebook,TRUE,142.3
+41,Man,48,C,Facebook,TRUE,163.15
+37,Man,34,C,Google Search,TRUE,199.76
+47,Man,20,B,TikTok,TRUE,216.45
+41,Woman,41,B,Facebook,TRUE,247.9
+32,Woman,64,A,Google Search,FALSE,153.54
+34,Man,30,B,Instagram,TRUE,208.25
+35,Woman,62,A,Instagram,TRUE,174.06
+35,Woman,59,A,TikTok,FALSE,76.73
+29,Non-Binary,79,C,Facebook,FALSE,156.08
+56,Man,1,A,TikTok,TRUE,166.78
+41,Woman,68,A,Instagram,TRUE,177.38
+28,Woman,22,C,Instagram,TRUE,196.66
+49,Man,37,B,TikTok,FALSE,83.99
+45,Woman,45,C,Google Search,FALSE,328.77
+38,Woman,53,A,Facebook,TRUE,162.85
+46,Man,18,A,Facebook,TRUE,132.07
+26,Man,62,C,Facebook,TRUE,72.8
+37,Woman,52,C,Facebook,TRUE,125.57
+25,Woman,51,B,TikTok,FALSE,141.85
+22,Woman,46,C,Facebook,TRUE,75.59
+35,Man,42,B,Facebook,TRUE,201.65
+43,Woman,42,B,Instagram,FALSE,280.74
+26,Man,64,C,Facebook,TRUE,75.01
+37,Non-Binary,39,A,Facebook,TRUE,149.76
+18,Man,63,A,Facebook,TRUE,0
+33,Woman,58,B,Instagram,FALSE,174.66
+58,Woman,15,A,Facebook,TRUE,251.83
+23,Woman,61,A,Instagram,TRUE,143.78
+22,Other,52,B,Instagram,FALSE,127.15
+37,Woman,74,A,Facebook,TRUE,167.27
+48,Man,35,A,TikTok,TRUE,125.47
+59,Woman,23,B,Instagram,FALSE,392
+80,Woman,28,A,TikTok,TRUE,270.04
+52,Woman,34,A,Instagram,TRUE,233.16
+50,Man,5,B,TikTok,TRUE,192.64
+70,Man,27,A,Facebook,TRUE,201.39
+35,Man,45,A,Facebook,TRUE,25.98
+37,Man,58,A,Facebook,FALSE,34.92
+44,Man,30,A,TikTok,FALSE,110.64
+19,Man,52,C,Instagram,TRUE,83.94
+18,Man,36,B,Google Search,FALSE,153.08
+67,Man,23,C,TikTok,FALSE,197.19
+31,Woman,49,A,TikTok,FALSE,52.26
+33,Man,25,A,TikTok,FALSE,109.26
+25,Man,45,A,Facebook,TRUE,128.12
+42,Woman,34,A,Instagram,FALSE,260.52
+49,Man,10,C,Facebook,FALSE,198.62
+37,Man,26,B,Facebook,FALSE,91.65
+40,Woman,35,B,TikTok,FALSE,144.77
+54,Man,47,A,Facebook,FALSE,85.05
+40,Woman,52,C,Google Search,FALSE,285
+32,Other,50,C,Google Search,TRUE,185.74
+39,Man,38,B,TikTok,TRUE,206.78
+27,Man,36,C,Instagram,FALSE,70.5
+42,Woman,20,C,Facebook,TRUE,236.26
+27,Woman,84,B,Instagram,TRUE,223.88
+61,Man,48,C,Facebook,TRUE,261.04
+18,Man,55,B,Google Search,TRUE,96.06
+46,Non-Binary,40,B,Google Search,FALSE,287.04
+33,Woman,52,C,Facebook,TRUE,127.58
+70,Non-Binary,40,C,Google Search,TRUE,591.71
+36,Man,24,B,Instagram,TRUE,153.27
+47,Man,36,C,Instagram,FALSE,249.67
+46,Woman,47,C,TikTok,FALSE,141.15
+44,Non-Binary,6,A,Google Search,TRUE,233.86
+48,Man,23,A,TikTok,FALSE,136.85
+70,Man,11,A,Instagram,TRUE,269.51
+54,Woman,24,A,Facebook,FALSE,195.94
+43,Woman,22,B,Facebook,FALSE,200.51
+67,Man,25,A,TikTok,FALSE,127.37
+49,Woman,28,C,Facebook,TRUE,265.58
+50,Non-Binary,64,A,Facebook,TRUE,171.86
+59,Woman,46,A,Google Search,TRUE,331.1
+42,Man,70,B,Instagram,FALSE,150.64
+51,Woman,41,A,Instagram,FALSE,260.83
+36,Man,33,B,TikTok,TRUE,151.86
+42,Man,31,A,Instagram,TRUE,160.47
+41,Man,41,C,Facebook,TRUE,127.63
+30,Non-Binary,77,B,Facebook,TRUE,227.4
+71,Woman,26,C,TikTok,TRUE,385.95
+32,Woman,37,C,Facebook,TRUE,187.65
+35,Woman,46,C,Google Search,TRUE,248.61
+60,Other,34,C,Instagram,FALSE,405.01
+40,Man,55,A,Instagram,FALSE,102.78
+58,Woman,2,C,Facebook,FALSE,259.75
+31,Man,28,C,TikTok,TRUE,22.05
+40,Woman,42,C,Facebook,TRUE,238.44
+36,Woman,47,A,Google Search,FALSE,183.94
+25,Non-Binary,63,A,Google Search,TRUE,120
+35,Man,54,A,Facebook,TRUE,107.12
+30,Woman,88,A,TikTok,TRUE,124.12
+53,Woman,33,B,Google Search,FALSE,398.96
+36,Woman,35,A,Google Search,FALSE,144.92
+39,Woman,51,A,Google Search,FALSE,160.82
+28,Man,38,A,Google Search,TRUE,112.06
+43,Man,35,B,Instagram,TRUE,164.14
+18,Woman,62,C,Google Search,FALSE,59.03
+18,Man,39,C,Facebook,TRUE,79.52
+68,Man,7,C,TikTok,TRUE,189.61
+51,Man,3,C,Facebook,TRUE,168.05
+50,Woman,31,A,Facebook,FALSE,235.79
+18,Woman,67,C,Instagram,TRUE,118.56
+50,Woman,38,A,Facebook,TRUE,208.81
+48,Man,39,A,Instagram,FALSE,226.06
+39,Woman,61,B,Facebook,TRUE,224.15
+52,Man,48,B,TikTok,FALSE,142.68
+57,Man,44,C,Instagram,TRUE,306.9
+38,Man,43,A,Instagram,TRUE,94.26
+69,Man,19,B,Facebook,TRUE,263.29
+55,Man,18,B,Facebook,TRUE,221.13
+58,Non-Binary,26,A,Facebook,FALSE,213.05
+35,Woman,51,C,Facebook,TRUE,205.5
+38,Man,26,B,Facebook,TRUE,115.99
+26,Woman,55,C,TikTok,TRUE,127.32
+46,Woman,29,A,TikTok,TRUE,269.16
+44,Man,36,B,Facebook,FALSE,121.64
+41,Man,39,B,TikTok,TRUE,174.89
+30,Man,27,B,Instagram,TRUE,126.15
+37,Woman,20,C,TikTok,TRUE,200.12
+70,Man,0,A,Facebook,FALSE,236.98
+26,Woman,90,A,Google Search,TRUE,104.39
+34,Man,27,C,TikTok,FALSE,54.97
+19,Woman,71,C,Google Search,TRUE,105.2
+21,Woman,73,C,Instagram,TRUE,131.76
+36,Man,32,B,Google Search,TRUE,228.03
+34,Woman,45,A,Google Search,TRUE,145.15
+31,Woman,46,B,Instagram,TRUE,217.29
+28,Man,20,A,TikTok,TRUE,100.22
+37,Woman,36,C,Instagram,TRUE,214.11
+57,Woman,16,A,Facebook,FALSE,169.81
+35,Man,32,A,TikTok,FALSE,76.81
+21,Woman,56,B,Google Search,FALSE,88.4
+24,Man,46,A,TikTok,TRUE,80.97
+18,Man,47,A,Facebook,FALSE,48.77
+18,Man,56,C,Instagram,TRUE,67.7
+29,Woman,52,A,Instagram,TRUE,172.08
+25,Woman,61,B,Google Search,TRUE,248.07
+23,Woman,65,A,TikTok,TRUE,11.35
+70,Man,8,A,Facebook,TRUE,185.21
+66,Woman,44,A,Instagram,FALSE,287.33
+78,Woman,20,B,Google Search,TRUE,663.64
+52,Man,29,B,Facebook,TRUE,244.43
+38,Man,44,C,TikTok,TRUE,125.05
+24,Man,27,B,Google Search,TRUE,103.25
+23,Woman,65,A,Instagram,TRUE,69.41
+33,Woman,65,A,Facebook,FALSE,186.86
+59,Man,8,B,Facebook,FALSE,218.91
+50,Man,15,A,Google Search,TRUE,189.83
+53,Woman,23,A,Facebook,FALSE,103.79
+37,Man,57,C,Google Search,FALSE,161.97
+18,Woman,61,B,Facebook,TRUE,148.24
+45,Woman,70,B,Instagram,TRUE,321.78
+37,Man,21,B,TikTok,FALSE,95.2
+35,Man,22,B,Facebook,TRUE,129.43
+73,Woman,1,A,Facebook,TRUE,305.18
+53,Man,18,A,Google Search,TRUE,152.04
+37,Man,30,C,Facebook,TRUE,46.59
+18,Woman,77,A,TikTok,TRUE,56.23
+36,Other,39,B,TikTok,FALSE,151.52
+55,Non-Binary,37,B,Instagram,TRUE,424.12
+46,Man,35,C,Facebook,TRUE,199.28
+44,Man,28,B,Instagram,TRUE,254.72
+56,Man,22,A,TikTok,TRUE,118.7
+37,Woman,81,A,TikTok,FALSE,124.69
+35,Other,38,C,Instagram,TRUE,221.34
+36,Woman,79,A,Instagram,FALSE,153.43
+51,Man,31,A,Google Search,FALSE,185.53
+36,Non-Binary,37,B,TikTok,TRUE,230.24
+51,Non-Binary,6,C,TikTok,TRUE,296.1
+22,Woman,59,C,Facebook,TRUE,132.21
+21,Man,53,C,Facebook,TRUE,100.87
+42,Woman,59,A,Facebook,TRUE,213.15
+51,Woman,44,A,Facebook,FALSE,218.33
+34,Man,33,C,Facebook,FALSE,75.12
+31,Man,21,C,Instagram,TRUE,98.4
+18,Man,58,B,Facebook,TRUE,72.54
+46,Man,46,C,TikTok,TRUE,155.01
+26,Man,14,C,Facebook,TRUE,96.49
+46,Woman,32,A,Instagram,TRUE,226.07
+61,Man,13,B,TikTok,TRUE,173.81
+33,Woman,56,B,Facebook,TRUE,258.87
+50,Man,30,A,Facebook,TRUE,194.39
+38,Man,42,C,Facebook,TRUE,255.52
+46,Man,57,C,Facebook,TRUE,217.27
+23,Woman,65,C,TikTok,TRUE,111.74
+46,Man,60,B,Facebook,TRUE,166.75
+60,Man,15,C,Instagram,TRUE,259.65
+67,Other,31,C,Facebook,TRUE,293.77
+22,Woman,80,B,Google Search,TRUE,130.43
+48,Woman,66,C,Facebook,TRUE,258.22
+32,Woman,62,B,Google Search,FALSE,239.81
+48,Woman,46,C,Instagram,TRUE,234.34
+37,Man,16,B,Google Search,FALSE,174.58
+36,Man,43,A,Instagram,TRUE,170.48
+50,Non-Binary,71,C,Facebook,TRUE,326.07
+51,Other,25,A,Facebook,TRUE,151.34
+44,Woman,20,C,Instagram,FALSE,287.98
+47,Man,45,A,TikTok,TRUE,123.3
+46,Woman,36,C,TikTok,TRUE,251.11
+44,Woman,13,A,Facebook,FALSE,215.15
+41,Man,23,C,Facebook,TRUE,152.02
+54,Man,0,B,Google Search,TRUE,370.82
+51,Man,21,B,Instagram,TRUE,309.66
+52,Woman,33,A,Google Search,TRUE,271.04
+57,Non-Binary,31,C,Instagram,TRUE,452.7
+48,Woman,56,C,Facebook,TRUE,185.15
+38,Man,47,A,Facebook,TRUE,160.2
+24,Man,70,B,Instagram,TRUE,119.18
+33,Man,66,A,TikTok,FALSE,47.79
+27,Woman,53,A,Google Search,FALSE,148.46
+36,Woman,59,C,Instagram,TRUE,244.51
+32,Woman,63,A,Google Search,FALSE,156.88
+37,Woman,49,B,Instagram,TRUE,235.05
+25,Woman,47,C,Instagram,FALSE,134.77
+31,Man,57,A,Facebook,TRUE,107.68
+45,Woman,27,C,Instagram,TRUE,353.29
+43,Man,39,C,Instagram,TRUE,149.83
+34,Woman,52,C,Facebook,TRUE,195.57
+55,Woman,39,A,TikTok,TRUE,124.02
+18,Man,41,A,Google Search,TRUE,83.22
+47,Man,40,A,Instagram,TRUE,199.34
+64,Man,28,A,Facebook,TRUE,174.96
+34,Man,41,C,Facebook,TRUE,123.64
+46,Woman,32,B,TikTok,TRUE,237.07
+32,Woman,55,A,Google Search,TRUE,151.42
+40,Man,28,A,Facebook,FALSE,141.01
+52,Non-Binary,19,A,Facebook,FALSE,145.29
+26,Woman,44,B,Facebook,FALSE,148.01
+32,Non-Binary,43,C,Facebook,TRUE,171.72
+48,Man,12,C,TikTok,FALSE,98.3
+46,Man,27,A,TikTok,TRUE,186
+52,Woman,40,A,Instagram,TRUE,222.96
+59,Man,8,C,Instagram,TRUE,234.84
+52,Woman,55,A,Facebook,FALSE,150.67
+24,Man,13,B,Instagram,FALSE,116.81
+42,Man,21,A,Instagram,FALSE,86.9
+34,Man,52,B,Facebook,TRUE,151.23
+40,Woman,64,B,Facebook,FALSE,183.08
+54,Woman,40,B,Google Search,FALSE,355.22
+44,Man,30,C,Google Search,TRUE,243.59
+42,Man,54,C,Google Search,TRUE,182.7
+38,Woman,33,A,TikTok,TRUE,101.6
+46,Man,28,B,Facebook,TRUE,150.17
+22,Man,25,C,Facebook,TRUE,83.76
+34,Man,45,A,Instagram,TRUE,190.43
+64,Non-Binary,23,B,Facebook,FALSE,373.54
+49,Woman,49,A,Facebook,TRUE,268.75
+26,Man,58,C,Google Search,TRUE,119.75
+22,Woman,79,A,Google Search,TRUE,164.01
+26,Man,46,C,Facebook,FALSE,47.15
+49,Woman,37,A,Facebook,TRUE,120.17
+46,Man,38,A,Google Search,TRUE,174.43
+31,Woman,71,C,TikTok,TRUE,167.01
+34,Woman,64,C,Facebook,TRUE,148.84
+55,Man,21,A,Google Search,FALSE,157.07
+35,Man,15,A,Facebook,TRUE,90.97
+39,Woman,49,B,Facebook,TRUE,184.64
+45,Woman,62,C,TikTok,TRUE,185.93
+37,Other,59,A,Google Search,FALSE,168.08
+29,Man,35,B,Instagram,TRUE,106.84
+34,Man,19,A,TikTok,TRUE,127.52
+24,Man,76,C,Google Search,TRUE,165.54
+47,Man,47,B,Instagram,FALSE,157.34
+60,Man,11,B,Facebook,FALSE,218.25
+44,Woman,41,C,Google Search,TRUE,300.98
+52,Woman,33,A,Instagram,TRUE,331.04
+30,Woman,58,C,Google Search,TRUE,240.88
+38,Man,51,B,Facebook,FALSE,136.06
+38,Woman,37,A,Google Search,TRUE,169.6
+19,Man,49,B,Google Search,FALSE,76.82
+41,Woman,36,C,TikTok,FALSE,165.43
+47,Woman,55,C,Facebook,TRUE,283.19
+50,Woman,64,C,Google Search,TRUE,360.95
+60,Woman,20,A,Facebook,FALSE,199.72
+18,Woman,58,C,Facebook,FALSE,149.61
+49,Non-Binary,50,A,Instagram,FALSE,231.57
+51,Other,55,B,TikTok,TRUE,132.8
+37,Man,46,A,Facebook,TRUE,99.42
+49,Man,33,B,Facebook,FALSE,276.63
+19,Man,32,B,TikTok,TRUE,86.2
+43,Woman,2,A,Instagram,FALSE,202.46
+18,Man,28,C,Instagram,TRUE,125.6
+45,Man,3,C,Instagram,TRUE,195.33
+64,Man,26,B,Google Search,TRUE,380.52
+63,Man,21,A,Facebook,TRUE,145.59
+18,Other,54,A,Facebook,FALSE,70.05
+48,Man,42,A,TikTok,TRUE,142.28
+35,Man,37,A,Instagram,TRUE,190.91
+40,Woman,67,B,Google Search,FALSE,282.64
+18,Man,40,A,Google Search,TRUE,39.51
+46,Man,32,C,Facebook,TRUE,235.46
+32,Man,39,A,Instagram,FALSE,120.44
+46,Man,9,A,Google Search,TRUE,142.75
+37,Man,57,B,Facebook,FALSE,167.99
+25,Woman,34,C,Facebook,TRUE,74.49
+45,Man,64,C,TikTok,TRUE,102.66
+49,Man,23,A,TikTok,TRUE,65.77
+41,Woman,45,B,Instagram,TRUE,229.83
+49,Man,33,B,Google Search,FALSE,254.01
+33,Woman,43,B,Facebook,TRUE,133.01
+59,Man,47,C,Instagram,FALSE,279.52
+35,Man,34,A,Google Search,TRUE,181.46
+31,Man,50,B,TikTok,TRUE,86.45
+56,Woman,27,B,Google Search,TRUE,399.95
+57,Woman,11,A,Instagram,TRUE,297.96
+50,Man,5,B,Instagram,TRUE,231.38
+43,Man,6,A,Facebook,FALSE,160.12
+64,Woman,42,C,Facebook,TRUE,281.61
+25,Woman,53,A,Instagram,FALSE,116.91
+57,Man,28,C,TikTok,TRUE,207.77
+66,Man,14,A,Facebook,TRUE,154.52
+41,Woman,46,B,Facebook,FALSE,192.03
+49,Non-Binary,61,C,Facebook,FALSE,278.69
+49,Man,42,B,Google Search,FALSE,216.47
+58,Other,47,A,Facebook,TRUE,157.85
+27,Woman,67,B,Instagram,FALSE,151.7
+53,Woman,49,B,Google Search,FALSE,328.83
+18,Woman,47,B,Google Search,FALSE,109.99
+71,Woman,7,C,Facebook,TRUE,386.16
+31,Man,28,C,Google Search,FALSE,113.38
+35,Other,24,A,Google Search,TRUE,110.51
+44,Woman,34,C,Facebook,TRUE,243.75
+21,Man,47,A,TikTok,TRUE,35.19
+36,Other,38,A,Facebook,TRUE,111.91
+41,Man,52,B,TikTok,FALSE,137.52
+35,Woman,58,A,Instagram,FALSE,146.38
+70,Non-Binary,11,A,Facebook,TRUE,297.39
+18,Man,43,A,TikTok,TRUE,0
+38,Man,54,C,Google Search,TRUE,119.42
+58,Man,0,A,Facebook,TRUE,133.32
+27,Man,39,A,Google Search,TRUE,69.97
+38,Man,31,A,Facebook,TRUE,91.99
+69,Man,8,C,Google Search,TRUE,393.08
+18,Woman,65,B,Facebook,FALSE,72.34
+28,Man,19,C,Instagram,FALSE,109.03
+22,Man,29,B,Facebook,TRUE,119.42
+49,Man,46,B,Instagram,FALSE,259.78
+27,Non-Binary,81,C,Google Search,TRUE,208.44
+47,Non-Binary,24,C,Google Search,FALSE,323.87
+30,Woman,44,C,Instagram,TRUE,237.54
+38,Woman,56,A,Facebook,FALSE,123.42
+53,Woman,45,A,Google Search,TRUE,379.49
+42,Man,12,C,Instagram,TRUE,259.29
+18,Non-Binary,81,C,Google Search,TRUE,117.9
+32,Woman,79,C,TikTok,FALSE,109.56
+51,Man,24,A,Instagram,FALSE,207.71
+68,Man,5,A,Facebook,TRUE,173.17
+23,Man,52,A,TikTok,TRUE,0
+37,Woman,71,B,Instagram,FALSE,216.09
+39,Woman,58,A,Facebook,TRUE,231.11
+29,Man,31,C,Facebook,TRUE,160.55
+19,Man,42,A,Facebook,TRUE,13.32
+68,Man,8,A,Facebook,TRUE,165.36
+62,Woman,18,A,Instagram,TRUE,305.54
+19,Man,49,C,Facebook,TRUE,96.63
+18,Woman,69,B,TikTok,TRUE,80.82
+36,Man,30,A,TikTok,TRUE,112.92
+46,Woman,31,B,Facebook,FALSE,231.86
+38,Man,26,A,Instagram,TRUE,151.47
+57,Man,10,C,Google Search,TRUE,321.08
+36,Man,32,C,Google Search,FALSE,187.81
+23,Woman,56,C,TikTok,FALSE,118.05
+63,Woman,41,A,TikTok,TRUE,210.75
+36,Man,45,B,TikTok,TRUE,66.87
+36,Woman,89,C,Facebook,FALSE,196.94
+36,Woman,45,B,Google Search,TRUE,300.67
+41,Man,30,A,TikTok,TRUE,60.63
+18,Woman,49,C,Google Search,TRUE,125.33
+50,Man,32,A,Facebook,TRUE,136.12
+51,Man,32,B,Instagram,TRUE,269.71
+49,Woman,28,A,Facebook,FALSE,176.03
+34,Non-Binary,37,A,Google Search,FALSE,186.29
+41,Woman,67,C,Instagram,FALSE,219.51
+18,Woman,100,C,TikTok,TRUE,117.52
+45,Woman,40,A,Facebook,FALSE,140.56
+28,Man,44,C,Facebook,FALSE,95.85
+60,Woman,33,C,Google Search,FALSE,360.21
+26,Non-Binary,66,B,Facebook,TRUE,99
+18,Woman,74,A,Instagram,FALSE,81.01
+43,Woman,38,A,TikTok,TRUE,96.56
+18,Man,15,B,Google Search,TRUE,45.93
+26,Man,61,A,Instagram,TRUE,31.73
+52,Other,34,C,Google Search,TRUE,321.7
+68,Woman,26,B,TikTok,TRUE,351.05
+36,Man,22,A,TikTok,TRUE,91.42
+55,Man,26,C,Facebook,TRUE,198.95
+19,Man,49,A,TikTok,TRUE,0
+66,Woman,28,A,Google Search,FALSE,323.2
+40,Woman,49,A,Facebook,TRUE,202.2
+28,Woman,44,A,Google Search,FALSE,156.64
+46,Other,43,A,Facebook,TRUE,121.46
+28,Man,45,A,Google Search,TRUE,75.1
+41,Man,32,A,TikTok,FALSE,132.91
+42,Man,29,C,TikTok,TRUE,87.82
+58,Woman,51,C,Google Search,TRUE,494.73
+32,Man,34,B,Facebook,TRUE,74.68
+34,Woman,54,A,TikTok,TRUE,92.55
+42,Woman,52,A,Instagram,FALSE,136.87
+53,Man,40,A,Instagram,TRUE,123.51
+68,Woman,34,B,TikTok,FALSE,311.83
+64,Man,13,C,TikTok,TRUE,225.74
+54,Woman,29,C,Instagram,TRUE,325.43
+18,Man,65,C,Google Search,TRUE,161.12
+54,Man,24,C,Facebook,TRUE,274.97
+51,Non-Binary,53,B,Google Search,TRUE,414.27
+30,Woman,26,C,Google Search,TRUE,223.92
+32,Woman,60,C,Google Search,FALSE,245.07
+19,Man,48,A,Facebook,TRUE,0
+40,Woman,50,B,Instagram,TRUE,321.47
+41,Man,25,A,Facebook,TRUE,75.89
+18,Woman,30,C,TikTok,TRUE,10.79
+18,Man,61,A,Facebook,TRUE,58.37
+43,Man,8,C,Google Search,TRUE,258.66
+25,Man,32,A,Instagram,FALSE,140.77
+36,Man,35,C,Instagram,TRUE,206.68
+55,Woman,33,C,Facebook,TRUE,358.09
+34,Man,37,C,Instagram,TRUE,44.1
+42,Woman,45,A,Instagram,FALSE,246.84
+49,Man,44,B,Facebook,TRUE,244.47
+23,Man,44,C,Google Search,TRUE,94.64
+59,Woman,38,A,Instagram,TRUE,324.91
+54,Man,0,B,Facebook,TRUE,212.42
+59,Man,25,B,Instagram,TRUE,311.08
+34,Woman,51,B,Instagram,TRUE,274.14
+18,Woman,72,C,Facebook,TRUE,63.09
+48,Woman,31,B,TikTok,TRUE,269
+49,Woman,55,A,TikTok,FALSE,105.76
+78,Woman,17,C,Instagram,FALSE,527.53
+66,Woman,21,C,TikTok,TRUE,382.56
+33,Man,32,A,TikTok,TRUE,80.95
+25,Non-Binary,78,A,Facebook,TRUE,98.71
+49,Woman,12,A,Instagram,TRUE,211.52
+70,Man,1,C,Google Search,TRUE,417.26
+22,Man,25,B,Instagram,TRUE,65.3
+28,Woman,78,B,Instagram,FALSE,177.52
+66,Woman,38,B,Facebook,FALSE,336.83
+68,Man,0,B,Facebook,TRUE,315.03
+43,Woman,39,B,TikTok,TRUE,203.41
+18,Man,63,A,Google Search,TRUE,64.37
+32,Woman,68,A,Facebook,TRUE,70.79
+58,Man,48,C,Google Search,FALSE,269.82
+72,Woman,19,A,Facebook,TRUE,248.57
+40,Woman,58,B,Instagram,TRUE,274.18
+31,Man,42,A,Instagram,FALSE,86.33
+45,Man,38,C,Facebook,TRUE,200.11
+42,Woman,33,C,Instagram,TRUE,302.99
+26,Woman,54,A,Facebook,TRUE,82.39
+49,Man,32,A,Instagram,TRUE,119.2
+61,Woman,59,A,Google Search,TRUE,326.01
+40,Man,35,A,TikTok,TRUE,124.71
+49,Man,42,B,Google Search,TRUE,290.59
+44,Man,39,A,TikTok,FALSE,138.48
+47,Man,13,A,Google Search,FALSE,168.18
+37,Woman,25,C,Facebook,TRUE,172.83
+58,Woman,46,A,TikTok,TRUE,208.01
+43,Man,50,C,Facebook,FALSE,88.46
+32,Man,14,A,Instagram,FALSE,36.9
+49,Woman,48,B,TikTok,TRUE,267.29
+54,Woman,55,B,Facebook,TRUE,349.06
+39,Man,14,A,Google Search,TRUE,107.69
+18,Woman,58,A,Facebook,TRUE,92.3
+65,Man,45,B,Google Search,FALSE,349.25
+29,Man,51,B,Google Search,FALSE,135
+35,Non-Binary,41,A,TikTok,FALSE,185.52
+64,Man,11,A,Google Search,FALSE,236.45
+18,Woman,50,C,Google Search,TRUE,59.11
+23,Woman,54,C,TikTok,TRUE,140.64
+29,Man,55,B,Google Search,TRUE,163.26
+20,Woman,50,C,Facebook,TRUE,154.17
+57,Man,19,A,Facebook,TRUE,160.91
+59,Man,38,B,Facebook,TRUE,201.45
+48,Woman,27,A,Instagram,FALSE,188.15
+33,Other,32,A,TikTok,TRUE,154.66
+34,Man,56,C,Facebook,TRUE,124.58
+31,Woman,52,C,TikTok,FALSE,95.06
+32,Woman,44,A,Facebook,TRUE,186.95
+47,Woman,48,C,Instagram,TRUE,291.68
+54,Other,39,A,Facebook,TRUE,173.22
+33,Woman,33,C,Facebook,TRUE,169.64
+45,Man,57,A,Google Search,TRUE,172.59
+18,Woman,50,B,Facebook,FALSE,73.82
+41,Woman,47,C,Facebook,TRUE,221.2
+27,Woman,64,A,Facebook,TRUE,124.65
+56,Woman,58,B,Instagram,TRUE,377
+58,Woman,38,C,Instagram,TRUE,396.32
+18,Woman,84,B,Instagram,TRUE,157.08
+54,Man,27,A,TikTok,FALSE,129.55
+32,Woman,55,A,Facebook,TRUE,98.84
+38,Woman,31,C,Instagram,TRUE,222.29
+53,Woman,71,C,Google Search,TRUE,453.76
+50,Woman,42,A,Google Search,TRUE,281.38
+28,Woman,81,C,TikTok,TRUE,116.66
+45,Woman,46,A,Facebook,TRUE,122.85
+33,Man,26,C,Instagram,TRUE,111
+59,Man,39,A,Facebook,TRUE,202
+18,Woman,78,C,Google Search,TRUE,156.71
+52,Woman,27,B,Facebook,FALSE,223.29
+61,Man,14,A,Facebook,TRUE,173.93
+18,Woman,84,A,TikTok,TRUE,70.73
+50,Man,18,C,Instagram,TRUE,294.23
+35,Woman,42,A,Facebook,FALSE,111.59
+42,Man,9,A,TikTok,FALSE,107.52
+36,Man,48,A,Google Search,FALSE,175.24
+50,Man,33,C,TikTok,TRUE,153.33
+54,Woman,24,B,Google Search,TRUE,462.56
+49,Man,22,C,Google Search,FALSE,317.47
+38,Man,39,C,TikTok,FALSE,110.24
+34,Woman,48,A,TikTok,FALSE,106.27
+38,Man,25,A,TikTok,FALSE,50.39
+37,Man,67,B,TikTok,FALSE,116.55
+43,Woman,46,C,Facebook,FALSE,200.54
+28,Man,57,C,TikTok,FALSE,81.23
+49,Woman,46,C,TikTok,TRUE,197.49
+25,Man,37,A,Instagram,TRUE,49.2
+18,Man,45,C,Google Search,TRUE,139.05
+44,Man,32,C,Facebook,TRUE,87.57
+46,Woman,38,A,Google Search,TRUE,232.68
+55,Woman,20,A,Instagram,TRUE,239.07
+51,Man,46,B,Google Search,TRUE,197.56
+43,Man,20,B,Facebook,FALSE,178.38
+50,Woman,24,C,Google Search,TRUE,385.75
+25,Man,67,C,TikTok,TRUE,111.94
+23,Man,58,C,Instagram,TRUE,139.97
+22,Woman,54,A,TikTok,TRUE,105.92
+41,Man,46,A,TikTok,TRUE,135.29
+50,Woman,56,B,Instagram,TRUE,411
+54,Woman,0,A,TikTok,TRUE,172.05
+62,Woman,25,C,Facebook,FALSE,246.39
+45,Man,23,A,Google Search,TRUE,209.99
+38,Woman,48,A,TikTok,FALSE,123.03
+30,Man,52,A,Instagram,TRUE,70.58
+44,Man,54,A,TikTok,FALSE,108.73
+39,Man,45,A,Facebook,TRUE,118.54
+35,Woman,50,C,TikTok,TRUE,159.19
+30,Man,40,C,Google Search,TRUE,224.91
+25,Man,65,B,Google Search,TRUE,150.01
+25,Woman,51,A,Instagram,FALSE,70.52
+62,Woman,9,C,Google Search,TRUE,482.3
+44,Man,7,C,Instagram,TRUE,195.61
+34,Man,38,A,TikTok,FALSE,28.83
+18,Man,40,B,Google Search,TRUE,54.98
+43,Woman,26,C,Instagram,TRUE,291.96
+33,Woman,38,C,TikTok,TRUE,91.66
+39,Man,42,A,Facebook,TRUE,82.06
+37,Man,6,C,TikTok,TRUE,129.79
+52,Woman,46,C,Instagram,TRUE,329.68
+39,Man,37,A,TikTok,TRUE,184.3
+37,Woman,23,B,Instagram,TRUE,292.54
+76,Woman,19,C,Facebook,TRUE,356.17
+56,Man,15,C,Instagram,FALSE,211.99
+42,Woman,47,C,Google Search,FALSE,291.92
+29,Woman,37,B,Instagram,TRUE,202.58
+58,Woman,34,A,Instagram,TRUE,307.77
+26,Woman,58,A,Instagram,FALSE,93.94
+39,Man,23,A,Facebook,TRUE,0
+53,Woman,0,C,Instagram,TRUE,324.43
+34,Woman,47,C,Facebook,FALSE,92.29
+34,Man,48,A,Google Search,TRUE,125.21
+47,Man,19,A,Facebook,TRUE,179.08
+42,Man,64,B,TikTok,TRUE,132.55
+36,Man,18,C,Google Search,TRUE,176.75
+37,Man,20,A,Facebook,TRUE,61.58
+44,Non-Binary,43,A,TikTok,FALSE,165.89
+47,Man,10,A,Instagram,FALSE,150.62
+59,Non-Binary,45,A,Facebook,TRUE,246.09
+34,Woman,37,A,Facebook,TRUE,110.75
+60,Man,24,C,Facebook,TRUE,191.49
+18,Woman,44,B,Google Search,TRUE,208.21
+30,Woman,39,C,Facebook,TRUE,182.83
+20,Woman,53,C,Google Search,TRUE,105.36
+45,Woman,72,B,Instagram,TRUE,296.51
+46,Man,24,A,Google Search,TRUE,231.49
+20,Non-Binary,52,A,Facebook,TRUE,107.95
+41,Woman,55,A,Facebook,FALSE,94.91
+26,Woman,81,A,Instagram,FALSE,80.43
+47,Man,18,A,Facebook,FALSE,84.56
+18,Woman,58,B,TikTok,TRUE,94.78
+53,Man,34,A,Google Search,FALSE,185.06
+39,Woman,30,A,TikTok,TRUE,103.47
+24,Woman,62,C,Facebook,TRUE,126.1
+39,Woman,18,B,Facebook,TRUE,168.24
+36,Woman,45,A,Google Search,TRUE,204.01
+35,Woman,36,A,TikTok,TRUE,140.69
+18,Woman,51,A,Facebook,FALSE,90.1
+31,Man,46,A,Facebook,TRUE,105.51
+37,Woman,43,C,TikTok,TRUE,183.67
+18,Non-Binary,68,A,Google Search,TRUE,120.09
+45,Non-Binary,30,B,Instagram,FALSE,273.61
+61,Man,25,A,Facebook,FALSE,155.13
+52,Man,27,A,Facebook,TRUE,216.55
+28,Man,35,A,Facebook,TRUE,88.4
+30,Woman,41,C,TikTok,TRUE,83.45
+33,Woman,62,A,Instagram,TRUE,142.15
+49,Man,32,A,TikTok,TRUE,174.08
+39,Man,22,A,TikTok,FALSE,66.44
+26,Non-Binary,84,A,Instagram,FALSE,167.77
+18,Woman,57,B,Instagram,FALSE,92.82
+48,Man,48,C,Instagram,TRUE,251.37
+24,Woman,61,A,Google Search,TRUE,123.75
+47,Man,18,A,Facebook,TRUE,111.55
+41,Man,11,C,TikTok,TRUE,104.97
+51,Woman,19,B,Facebook,TRUE,264.08
+56,Man,25,A,TikTok,TRUE,121.47
+19,Woman,66,A,Google Search,TRUE,59.23
+55,Woman,21,C,TikTok,TRUE,288.79
+50,Non-Binary,39,B,Instagram,TRUE,392.48
+35,Woman,70,A,Instagram,TRUE,218.67
+40,Woman,46,B,Facebook,FALSE,209.82
+47,Woman,41,C,Instagram,TRUE,269.1
+50,Woman,45,C,Facebook,TRUE,268.17
+18,Other,76,B,Instagram,TRUE,91.81
+62,Woman,2,C,Google Search,TRUE,479.28
+19,Woman,45,C,Google Search,TRUE,184.68
+18,Man,23,B,Facebook,TRUE,31.01
+54,Non-Binary,21,B,TikTok,TRUE,271.5
+18,Woman,76,C,Google Search,TRUE,82.77
+37,Man,43,C,Instagram,TRUE,214.35
+20,Man,52,C,Facebook,FALSE,84.9
+18,Woman,67,A,Instagram,TRUE,164.61
+33,Woman,42,A,Facebook,TRUE,162.69
+50,Man,28,A,Facebook,TRUE,161.53
+45,Man,36,A,TikTok,FALSE,105.51
+30,Non-Binary,76,B,Facebook,FALSE,223.67
+40,Woman,35,C,Instagram,TRUE,322.19
+39,Woman,65,C,Facebook,TRUE,196.59
+40,Woman,56,A,Instagram,FALSE,89
+33,Woman,62,C,Instagram,TRUE,161.33
+45,Woman,42,A,Facebook,FALSE,109.97
+24,Man,25,C,Facebook,TRUE,76.15
+46,Other,42,B,Facebook,TRUE,259.04
+35,Woman,40,C,Google Search,TRUE,255.23
+35,Man,36,C,TikTok,TRUE,55.1
+51,Man,58,B,Facebook,TRUE,215.11
+34,Woman,25,C,Instagram,FALSE,234.32
+25,Woman,64,B,Facebook,FALSE,112.9
+22,Man,92,B,Instagram,TRUE,123.07
+50,Man,59,C,Google Search,TRUE,280.4
+18,Woman,30,A,Instagram,FALSE,38.76
+34,Man,26,A,Google Search,TRUE,122.03
+43,Woman,12,A,TikTok,TRUE,96.14
+19,Man,53,C,Facebook,FALSE,61.32
+40,Other,36,B,Google Search,TRUE,265.46
+50,Woman,18,B,Instagram,TRUE,362.7
+18,Woman,77,A,Facebook,TRUE,109.59
+27,Man,12,C,Facebook,FALSE,172.6
+66,Woman,24,C,Google Search,FALSE,438.96
+30,Man,42,C,Facebook,TRUE,117.44
+26,Woman,63,C,TikTok,FALSE,153.56
+27,Man,50,A,TikTok,TRUE,22.66
+33,Woman,59,B,Facebook,FALSE,143.65
+43,Man,20,B,Instagram,TRUE,198.98
+29,Man,44,C,Facebook,TRUE,78.74
+43,Man,36,A,Google Search,TRUE,193.7
+51,Man,51,C,Facebook,TRUE,171.73
+45,Woman,35,C,Google Search,TRUE,270.21
+51,Man,21,A,Instagram,TRUE,157.27
+28,Man,26,B,Google Search,TRUE,225.16
+38,Man,85,A,Instagram,TRUE,158.32
+50,Man,45,A,Google Search,TRUE,126.65
+41,Man,60,A,TikTok,FALSE,84.48
+43,Man,23,B,Facebook,TRUE,160.23
+41,Man,23,B,Instagram,TRUE,234.7
+43,Woman,32,B,Google Search,TRUE,329.81
+40,Woman,66,C,TikTok,TRUE,141.52
+24,Man,59,B,Google Search,TRUE,141.76
+43,Non-Binary,70,A,TikTok,FALSE,210.22
+33,Woman,64,A,Google Search,TRUE,177.47
+62,Man,26,C,Google Search,TRUE,367.22
+32,Woman,65,B,TikTok,FALSE,152.68
+42,Woman,37,B,Facebook,FALSE,186.85
+18,Woman,100,C,TikTok,FALSE,25.25
+30,Man,55,A,Instagram,TRUE,28.04
+28,Man,24,B,Google Search,FALSE,168.27
+58,Woman,45,C,TikTok,TRUE,353.62
+38,Woman,42,A,Instagram,TRUE,200.26
+42,Other,50,C,Google Search,TRUE,294.88
+45,Man,22,C,Facebook,TRUE,247.86
+32,Woman,70,A,TikTok,FALSE,116.47
+45,Woman,32,B,Instagram,FALSE,288.65
+63,Man,39,A,TikTok,TRUE,239.66
+49,Other,23,A,Google Search,TRUE,158.25
+51,Man,49,B,Google Search,FALSE,293.68
+27,Woman,61,A,TikTok,TRUE,67.04
+43,Man,31,B,Instagram,FALSE,176.37
+44,Woman,34,B,Google Search,FALSE,294.65
+30,Woman,39,B,Instagram,TRUE,194.19
+42,Man,29,C,Facebook,TRUE,144.98
+70,Man,0,A,Instagram,TRUE,267.4
+25,Woman,69,B,Google Search,TRUE,181.28
+48,Woman,36,A,Google Search,TRUE,233.53
+24,Other,58,A,Google Search,FALSE,107.82
+45,Man,31,B,Facebook,TRUE,75.29
+24,Woman,52,B,Instagram,TRUE,121.2
+49,Man,86,B,Instagram,TRUE,273.56
+21,Woman,67,A,Facebook,FALSE,46.52
+40,Man,36,B,Facebook,FALSE,149.47
+60,Non-Binary,12,C,Google Search,TRUE,452.09
+37,Man,32,B,Google Search,TRUE,218.41
+38,Man,40,C,Instagram,FALSE,227.71
+61,Woman,38,A,TikTok,TRUE,168.49
+71,Man,19,B,Google Search,TRUE,372.18
+77,Man,0,A,Google Search,FALSE,214.68
+34,Man,33,C,Facebook,FALSE,72.71
+24,Man,80,A,Instagram,FALSE,107.98
+50,Man,24,B,Instagram,FALSE,267.31
+47,Woman,31,A,Facebook,TRUE,175.56
+59,Man,26,C,Google Search,TRUE,345.38
+42,Man,29,A,Instagram,TRUE,119.23
+42,Woman,56,B,Google Search,TRUE,310.2
+63,Woman,31,C,Instagram,TRUE,396.39
+42,Woman,37,B,Facebook,FALSE,188.2
+50,Man,9,C,TikTok,TRUE,204.71
+47,Man,23,B,TikTok,TRUE,202.27
+39,Man,59,A,Instagram,FALSE,107.8
+32,Man,60,A,Google Search,TRUE,119.7
+35,Man,33,B,Google Search,TRUE,276.12
+18,Man,39,B,TikTok,FALSE,30.19
+59,Woman,34,C,Facebook,TRUE,327.03
+18,Man,47,B,Google Search,TRUE,128.77
+31,Woman,25,A,Google Search,TRUE,123.88
+34,Woman,32,B,Facebook,TRUE,186.66
+58,Man,38,A,Instagram,TRUE,225.39
+41,Man,38,A,Google Search,TRUE,91.99
+54,Man,30,A,TikTok,TRUE,151.56
+36,Woman,53,B,TikTok,TRUE,236.49
+65,Woman,10,C,Instagram,TRUE,410.84
+47,Man,41,A,Facebook,TRUE,133.07
+48,Woman,38,C,Google Search,FALSE,333.32
+53,Woman,64,A,Google Search,TRUE,345.02
+18,Woman,70,A,Facebook,FALSE,82.32
+40,Man,45,A,Google Search,TRUE,195.87
+43,Woman,47,C,Google Search,FALSE,312.74
+28,Woman,42,A,Google Search,FALSE,190.1
+40,Man,55,C,TikTok,TRUE,107.6
+29,Non-Binary,66,B,Google Search,FALSE,316.47
+43,Man,39,A,Facebook,FALSE,152.84
+18,Man,74,C,TikTok,TRUE,40.12
+44,Man,43,B,Facebook,FALSE,191.22
+30,Woman,35,A,TikTok,TRUE,123.61
+54,Woman,12,B,Instagram,TRUE,382.41
+18,Man,52,A,TikTok,FALSE,64.37
+41,Man,61,B,Facebook,FALSE,113.85
+37,Woman,44,B,Google Search,TRUE,309.39
+54,Man,30,B,TikTok,TRUE,181.95
+18,Woman,69,A,Facebook,TRUE,92.5
+32,Woman,64,B,Google Search,FALSE,246.45
+51,Woman,51,A,Instagram,FALSE,196.71
+49,Man,44,C,Google Search,FALSE,179.27
+45,Woman,52,B,Instagram,TRUE,280.56
+44,Man,28,C,Instagram,FALSE,223.72
+18,Other,55,C,TikTok,FALSE,53.13
+53,Other,39,A,TikTok,TRUE,194.11
+43,Woman,59,B,Instagram,FALSE,268.48
+18,Man,61,C,Facebook,FALSE,94.41
+37,Woman,57,A,Google Search,FALSE,172.02
+54,Woman,65,A,Facebook,TRUE,215.67
+51,Man,34,A,Instagram,TRUE,143.57
+31,Woman,58,C,Instagram,TRUE,151.4
+54,Woman,42,C,Facebook,FALSE,332.09
+34,Non-Binary,72,C,Facebook,FALSE,216.46
+46,Woman,58,A,TikTok,TRUE,208.42
+54,Woman,31,C,Google Search,TRUE,351
+46,Woman,66,A,Instagram,TRUE,196.41
+30,Woman,45,A,Instagram,FALSE,61.72
+52,Man,29,A,Instagram,FALSE,218.35
+62,Man,1,A,Instagram,TRUE,222.61
+26,Man,37,B,Facebook,FALSE,62.03
+37,Man,31,B,Google Search,TRUE,240.57
+55,Woman,24,A,Instagram,TRUE,242.22
+27,Man,37,B,Instagram,TRUE,154.32
+18,Woman,78,C,Instagram,TRUE,67.5
+33,Man,23,A,Google Search,TRUE,126.49
+56,Man,17,C,TikTok,TRUE,247.77
+20,Man,59,C,Instagram,FALSE,20.45
+36,Woman,24,B,Instagram,FALSE,264.64
+54,Woman,46,B,TikTok,FALSE,330.47
+41,Man,28,C,Facebook,TRUE,196.16
+49,Man,43,B,Instagram,TRUE,291.54
+64,Man,3,A,Instagram,FALSE,172.8
+54,Man,19,B,Instagram,FALSE,230.82
+49,Man,29,A,Instagram,TRUE,215.18
+47,Man,27,A,Google Search,FALSE,207.74
+23,Woman,47,A,Google Search,FALSE,77.5
+53,Woman,42,B,TikTok,TRUE,254.52
+48,Woman,48,C,Google Search,TRUE,375.36
+46,Woman,63,B,Google Search,TRUE,332.41
+41,Man,52,C,Facebook,FALSE,225.96
+21,Woman,52,A,Google Search,FALSE,72.42
+42,Woman,44,B,Instagram,FALSE,257.78
+59,Man,40,B,Instagram,FALSE,259.79
+31,Woman,36,B,Instagram,TRUE,204.88
+18,Woman,42,C,TikTok,TRUE,122.6
+68,Non-Binary,31,B,Facebook,TRUE,500.46
+32,Man,29,B,Google Search,TRUE,178.97
+57,Man,32,A,Facebook,FALSE,68.95
+49,Man,67,C,Google Search,TRUE,288.02
+65,Man,34,B,Google Search,TRUE,433.1
+39,Woman,57,C,Facebook,TRUE,247.34
+35,Woman,47,A,Facebook,TRUE,83.76
+66,Woman,49,C,TikTok,FALSE,246.82
+72,Man,0,A,TikTok,TRUE,163.58
+45,Man,48,A,Google Search,FALSE,126.08
+43,Man,52,C,Facebook,FALSE,97.49
+51,Man,7,B,Instagram,FALSE,220.11
+30,Man,28,A,Facebook,TRUE,47.03
+47,Man,13,A,TikTok,TRUE,23.15
+25,Man,53,A,Google Search,TRUE,64.91
+36,Woman,64,C,Facebook,TRUE,218.09
+52,Man,17,C,Instagram,FALSE,229.13
+29,Non-Binary,78,C,TikTok,FALSE,64.5
+53,Man,17,C,Google Search,TRUE,322.52
+48,Woman,15,C,Instagram,FALSE,216.66
+62,Woman,14,A,TikTok,TRUE,184.32
+72,Woman,34,A,Google Search,TRUE,423.33
+31,Woman,56,C,Google Search,TRUE,105.89
+46,Woman,42,C,Instagram,FALSE,306.72
+63,Woman,35,A,Google Search,TRUE,369
+43,Man,23,A,Facebook,TRUE,150.38
+30,Non-Binary,76,B,TikTok,FALSE,130.47
+25,Man,37,B,Google Search,TRUE,137.89
+61,Man,15,B,Instagram,FALSE,290.02
+79,Woman,0,B,Facebook,TRUE,450.5
+24,Woman,52,A,Facebook,TRUE,139.62
+42,Woman,61,B,Instagram,TRUE,362.04
+18,Non-Binary,83,B,Facebook,TRUE,146.47
+41,Man,34,A,Google Search,TRUE,103.64
+35,Man,29,C,Facebook,TRUE,70.18
+40,Non-Binary,49,A,Google Search,TRUE,215.2
+80,Woman,0,C,Instagram,TRUE,546.32
+19,Woman,59,C,TikTok,FALSE,137.57
+46,Man,21,A,Facebook,TRUE,131.54
+67,Woman,21,B,TikTok,TRUE,377.52
+31,Woman,47,B,Google Search,TRUE,292.18
+28,Woman,53,B,Facebook,TRUE,89.24
+41,Man,43,A,Facebook,TRUE,116.99
+60,Man,29,A,TikTok,TRUE,160.84
+35,Man,32,C,TikTok,FALSE,118.98
+25,Man,56,C,Instagram,FALSE,87.7
+41,Woman,17,B,Google Search,TRUE,311.98
+18,Man,69,C,Instagram,TRUE,35.82
+18,Man,69,A,Facebook,TRUE,61.3
+56,Man,36,C,Instagram,TRUE,287.56
+47,Man,36,A,TikTok,TRUE,84.9
+18,Man,36,A,Facebook,TRUE,75.71
+49,Man,7,B,Instagram,FALSE,220.79
+18,Woman,80,B,Google Search,TRUE,147.96
+33,Man,41,A,Google Search,TRUE,136.12
+44,Woman,69,A,Facebook,FALSE,195.25
+19,Man,38,A,Google Search,TRUE,69.25
+59,Man,7,B,Google Search,TRUE,311.63
+58,Woman,20,A,Instagram,TRUE,262.84
+30,Woman,52,A,Google Search,TRUE,207.86
+57,Woman,14,A,Instagram,TRUE,308.86
+43,Man,64,A,Google Search,TRUE,128.49
+50,Man,7,C,Google Search,TRUE,315.21
+50,Woman,15,C,Instagram,FALSE,306.28
+21,Man,44,B,Google Search,TRUE,74.44
+18,Other,44,A,Facebook,TRUE,9.29
+73,Woman,2,A,Google Search,TRUE,454.72
+43,Woman,83,A,Instagram,FALSE,274.68
+46,Man,18,C,Google Search,TRUE,169.92
+22,Non-Binary,84,C,Instagram,TRUE,163.27
+57,Other,49,A,Instagram,FALSE,259.52
+68,Man,11,B,TikTok,FALSE,240.98
+63,Man,31,C,Google Search,TRUE,363.53
+18,Man,24,C,Facebook,TRUE,97.13
+24,Woman,54,C,TikTok,TRUE,154.53
+41,Woman,37,A,Instagram,FALSE,145.38
+50,Non-Binary,48,B,TikTok,TRUE,333.64
+32,Woman,74,A,Instagram,TRUE,181.21
+27,Man,24,A,Instagram,TRUE,71.57
+43,Woman,66,B,Google Search,TRUE,382.52
+26,Woman,85,A,Google Search,TRUE,110.58
+71,Man,11,A,Google Search,FALSE,219.14
+18,Man,26,A,Google Search,TRUE,62.5
+48,Woman,48,A,Google Search,FALSE,221.37
+18,Man,52,C,Google Search,TRUE,157.38
+33,Woman,41,C,TikTok,FALSE,175.95
+62,Woman,56,A,Instagram,FALSE,347.33
+57,Woman,21,B,Instagram,TRUE,474.88
+19,Woman,68,B,Google Search,FALSE,99.99
+18,Woman,71,C,Google Search,TRUE,104.32
+41,Man,12,C,Google Search,TRUE,155.87
+26,Man,67,B,Google Search,FALSE,142.88
+46,Woman,69,B,Facebook,TRUE,275.52
+25,Man,54,B,Facebook,TRUE,132.75
+18,Man,68,A,Instagram,TRUE,18.26
+34,Non-Binary,47,B,Instagram,FALSE,190.06
+22,Man,43,C,Instagram,FALSE,71.38
+56,Man,34,C,Facebook,TRUE,211.88
+35,Woman,55,A,Instagram,TRUE,193.39
+39,Woman,35,B,Instagram,TRUE,277.29
+61,Man,23,C,Facebook,FALSE,221.45
+68,Man,36,B,Facebook,FALSE,296.62
+39,Woman,37,A,Instagram,TRUE,77.35
+45,Man,25,B,Google Search,TRUE,262.59
+60,Woman,13,B,Facebook,TRUE,309.02
+37,Other,53,C,TikTok,TRUE,181.7
+24,Woman,48,A,Facebook,TRUE,36.27
+55,Woman,43,C,Google Search,TRUE,370.42
+18,Man,36,A,TikTok,FALSE,23.64
+36,Woman,35,B,Instagram,TRUE,261.97
+34,Woman,50,C,Google Search,FALSE,137.55
+32,Woman,35,C,TikTok,TRUE,211.99
+18,Woman,87,A,Instagram,FALSE,116.82
+31,Man,46,C,TikTok,TRUE,44.69
+59,Woman,26,B,Instagram,FALSE,396.44
+33,Woman,31,B,Instagram,TRUE,215.16
+31,Man,6,B,Facebook,FALSE,205.17
+30,Man,65,A,Instagram,TRUE,199.92
+27,Other,76,A,Instagram,TRUE,142.56
+42,Woman,57,A,Facebook,FALSE,199.48
+49,Non-Binary,28,A,TikTok,FALSE,172.59
+62,Man,43,A,Facebook,TRUE,118.46
+18,Woman,77,A,Instagram,TRUE,148.15
+46,Woman,22,A,TikTok,FALSE,128.74
+38,Woman,75,C,Facebook,FALSE,165.42
+44,Woman,17,C,Facebook,TRUE,134.77
+25,Other,21,B,Google Search,TRUE,197.55
+41,Man,43,A,TikTok,FALSE,140.79
+23,Woman,44,A,TikTok,FALSE,96.32
+50,Man,0,B,Instagram,TRUE,247.66
+26,Man,25,C,Facebook,TRUE,44.74
+41,Woman,90,B,Facebook,FALSE,165.93
+18,Man,58,C,Google Search,FALSE,99.98
+45,Woman,22,A,Instagram,TRUE,267.58
+57,Woman,25,A,Instagram,TRUE,259.85
+51,Non-Binary,47,C,Google Search,TRUE,377.12
+56,Man,21,C,Google Search,TRUE,362.94
+20,Other,59,C,Google Search,FALSE,120.47
+37,Woman,45,A,TikTok,TRUE,67.58
+39,Woman,60,A,Facebook,TRUE,145.25
+51,Woman,50,B,TikTok,TRUE,238.71
+37,Non-Binary,67,C,TikTok,TRUE,182.52
+37,Man,35,C,Google Search,TRUE,149.93
+65,Woman,2,A,Instagram,TRUE,257.85
+56,Woman,61,B,Google Search,TRUE,441.71
+18,Woman,58,A,Instagram,TRUE,87.19
+34,Man,32,A,Google Search,TRUE,144.32
+25,Woman,96,A,Instagram,TRUE,126.8
+80,Woman,28,A,Instagram,TRUE,422.14
+33,Man,39,B,Facebook,TRUE,50.81
+57,Woman,43,B,Facebook,FALSE,283.22
+41,Woman,51,C,Google Search,TRUE,374.75
+42,Man,37,C,Facebook,TRUE,208.34
+47,Woman,34,A,Facebook,FALSE,107.29
+38,Woman,67,B,Instagram,FALSE,260.57
+52,Man,38,B,Facebook,TRUE,180.26
+48,Woman,37,B,Facebook,TRUE,305.57
+18,Man,62,B,Facebook,TRUE,21.93
+32,Man,41,C,TikTok,TRUE,145.88
+32,Woman,56,A,Google Search,TRUE,163.95
+32,Woman,75,B,TikTok,TRUE,100.61
+56,Woman,39,A,Facebook,FALSE,156.48
+62,Man,27,B,Instagram,TRUE,315.71
+26,Non-Binary,75,C,Facebook,TRUE,107.41
+48,Other,26,A,Google Search,TRUE,278.86
+22,Man,31,A,Facebook,TRUE,82.96
+32,Woman,71,C,Google Search,FALSE,180.1
+44,Woman,62,A,TikTok,FALSE,159.56
+37,Man,49,B,Facebook,TRUE,123.35
+30,Non-Binary,76,C,Instagram,TRUE,195.98
+21,Woman,84,B,TikTok,TRUE,77.93
+35,Man,31,A,Google Search,TRUE,38.8
+41,Man,56,C,Google Search,TRUE,187.72
+48,Man,33,B,TikTok,TRUE,135.69
+27,Woman,22,B,Google Search,TRUE,230.1
+49,Woman,47,C,Facebook,FALSE,291.37
+23,Man,52,A,TikTok,FALSE,51.34
+32,Other,0,C,Google Search,FALSE,157.21
+47,Man,16,B,TikTok,TRUE,104.46
+30,Man,26,B,TikTok,TRUE,133.16
+28,Woman,51,A,Google Search,TRUE,105.77
+39,Man,32,B,Google Search,FALSE,244.73
+41,Other,45,B,TikTok,TRUE,229.52
+54,Woman,42,A,Facebook,FALSE,241.59
+36,Woman,20,A,Facebook,TRUE,139.08
+18,Woman,63,C,Facebook,FALSE,135.16
+30,Woman,46,C,Facebook,TRUE,120.47
+31,Man,46,A,Facebook,FALSE,75.01
+26,Woman,56,B,TikTok,TRUE,68.62
+45,Woman,26,A,Instagram,TRUE,229.96
+78,Man,2,B,Instagram,FALSE,414.37
+52,Man,37,A,TikTok,TRUE,164.78
+38,Woman,41,B,Facebook,TRUE,197.59
+48,Man,27,B,Google Search,TRUE,176.41
+62,Man,0,C,Facebook,TRUE,230.12
+35,Woman,50,C,Google Search,TRUE,253.38
+50,Woman,43,C,Google Search,TRUE,300.29
+48,Woman,20,B,Facebook,TRUE,249.77
+38,Woman,80,A,Google Search,TRUE,246.55
+41,Woman,76,C,Google Search,FALSE,336.92
+50,Woman,43,A,Instagram,TRUE,244.58
+40,Man,48,A,Instagram,FALSE,146.1
+35,Man,15,A,Google Search,TRUE,120.26
+31,Man,41,A,Facebook,FALSE,136.8
+44,Man,39,A,Instagram,TRUE,97.11
+39,Man,27,B,Instagram,FALSE,136.22
+34,Woman,16,B,Facebook,FALSE,187.91
+43,Man,31,A,Instagram,TRUE,193.07
+28,Man,39,C,Instagram,TRUE,131.34
+28,Woman,53,A,Facebook,TRUE,160.82
+61,Man,23,A,Google Search,FALSE,215.97
+27,Woman,67,A,TikTok,TRUE,88.22
+45,Woman,48,C,TikTok,TRUE,213.79
+25,Man,63,A,Instagram,FALSE,28.11
+37,Man,39,A,Facebook,TRUE,126.93
+46,Man,38,C,Instagram,TRUE,199.36
+25,Man,42,C,Facebook,TRUE,122.55
+49,Man,33,A,Google Search,TRUE,238.27
+43,Woman,19,C,Google Search,FALSE,313.09
+35,Man,22,A,TikTok,FALSE,91.07
+44,Man,28,B,Facebook,TRUE,173.68
+41,Man,46,C,Facebook,TRUE,107.01
+27,Man,26,C,Instagram,FALSE,96.11
+19,Man,39,C,Instagram,FALSE,138.33
+42,Woman,69,A,Google Search,FALSE,192.57
+25,Man,54,B,Facebook,TRUE,90.28
+39,Woman,30,B,Google Search,TRUE,354.41
+18,Woman,70,C,Facebook,TRUE,138.94
+26,Man,53,B,Google Search,TRUE,111.83
+44,Woman,51,C,Google Search,TRUE,256.67
+56,Woman,48,A,Facebook,FALSE,219.76
+43,Man,42,A,Instagram,FALSE,166.74
+25,Woman,32,B,Facebook,TRUE,116.68
+34,Man,34,A,Google Search,TRUE,113.3
+56,Man,33,A,Facebook,TRUE,157.16
+48,Man,34,C,Facebook,FALSE,97.66
+52,Non-Binary,33,A,Google Search,TRUE,247.67
+55,Man,29,A,Google Search,FALSE,166.73
+46,Man,39,C,TikTok,FALSE,199.93
+57,Woman,59,B,Facebook,FALSE,241.4
+25,Woman,67,A,Google Search,FALSE,125.9
+44,Woman,30,C,Facebook,TRUE,227.08
+35,Woman,71,A,Instagram,TRUE,251.91
+43,Man,37,A,Facebook,TRUE,127.5
+60,Woman,22,A,Google Search,TRUE,308.42
+48,Woman,53,A,TikTok,TRUE,92.05
+31,Other,60,A,Google Search,TRUE,116.48
+35,Man,52,B,Google Search,TRUE,174.47
+26,Man,52,C,Instagram,TRUE,112.55
+39,Non-Binary,21,A,Google Search,TRUE,192.88
+33,Man,55,B,Instagram,FALSE,146.32
+52,Man,35,B,Google Search,TRUE,374.16
+33,Man,17,C,Instagram,FALSE,161.82
+51,Non-Binary,33,C,Facebook,TRUE,283.76
+51,Woman,53,B,Google Search,TRUE,342.9
+33,Man,16,A,Facebook,TRUE,115.99
+61,Non-Binary,31,C,TikTok,TRUE,310.99
+40,Woman,41,A,Instagram,FALSE,190.12
+30,Man,62,B,Instagram,TRUE,174.67
+41,Man,63,A,Instagram,FALSE,166.47
+25,Man,53,C,Instagram,FALSE,105.09
+50,Woman,50,A,TikTok,TRUE,152.71
+27,Man,24,A,TikTok,TRUE,72.79
+59,Man,23,A,Instagram,TRUE,174.46
+18,Woman,66,C,Instagram,TRUE,29.94
+23,Man,35,A,Google Search,TRUE,132.47
+35,Man,26,A,Facebook,TRUE,93.59
+29,Man,44,A,Google Search,TRUE,94
+60,Other,51,B,Facebook,FALSE,316.58
+39,Non-Binary,69,A,TikTok,TRUE,247.16
+45,Man,50,A,Instagram,FALSE,89.69
+51,Woman,23,C,Google Search,TRUE,329.24
+42,Man,35,C,Instagram,TRUE,182.32
+54,Woman,9,C,Google Search,FALSE,365.25
+47,Man,29,B,Google Search,TRUE,285.04
+50,Man,13,C,Instagram,FALSE,169.77
+18,Woman,81,B,Instagram,TRUE,112.68
+23,Woman,65,B,Instagram,TRUE,181.48
+18,Man,25,A,TikTok,FALSE,47.26
+36,Woman,14,C,Facebook,TRUE,133.28
+61,Man,43,A,Facebook,FALSE,174.99
+25,Man,47,A,Google Search,FALSE,102.48
+45,Woman,48,A,Facebook,TRUE,130.64
+47,Man,18,C,Instagram,TRUE,210.18
+44,Woman,49,C,TikTok,TRUE,210.67
+36,Woman,51,B,Facebook,TRUE,220.49
+31,Woman,41,C,Google Search,FALSE,192.23
+30,Man,41,B,TikTok,TRUE,89.25
+40,Non-Binary,51,B,TikTok,TRUE,225.17
+59,Woman,31,C,Facebook,TRUE,319.99
+28,Man,49,A,Google Search,TRUE,57.3
+38,Non-Binary,50,A,Facebook,TRUE,130.91
+41,Man,1,B,Instagram,TRUE,218.21
+52,Woman,34,C,Facebook,FALSE,249.73
+37,Man,55,A,Facebook,TRUE,53.32
+50,Woman,22,B,TikTok,TRUE,253.28
+18,Man,42,A,Instagram,TRUE,73.61
+51,Woman,31,A,TikTok,TRUE,121.78
+41,Man,26,C,Instagram,TRUE,177.58
+24,Woman,41,B,TikTok,TRUE,14.12
+18,Woman,62,C,Instagram,FALSE,148.23
+35,Woman,60,A,Google Search,TRUE,224.92
+50,Man,39,C,Google Search,TRUE,263.03
+45,Woman,66,C,Google Search,TRUE,194.16
+35,Man,33,C,TikTok,TRUE,123.99
+41,Man,26,B,TikTok,TRUE,156.38
+42,Woman,45,C,TikTok,FALSE,226.2
+29,Woman,49,C,TikTok,FALSE,66.87
+41,Woman,44,A,Facebook,FALSE,94.34
+42,Woman,24,B,Facebook,TRUE,269.73
+29,Non-Binary,69,B,Facebook,TRUE,203.9
+43,Woman,49,C,Google Search,TRUE,338.6
+45,Woman,30,A,TikTok,TRUE,18.86
+48,Woman,25,A,Google Search,TRUE,242.77
+51,Man,33,C,Google Search,TRUE,192.21
+46,Woman,33,B,Facebook,FALSE,300.91
+45,Woman,23,C,Google Search,TRUE,329.05
+39,Woman,42,C,Google Search,TRUE,263.06
+47,Woman,34,C,Google Search,TRUE,316.08
+21,Man,63,A,Facebook,TRUE,48.71
+50,Woman,30,B,Facebook,FALSE,318.77
+32,Woman,51,A,Instagram,TRUE,141.58
+75,Woman,0,A,TikTok,FALSE,253.6
+31,Man,55,C,Instagram,FALSE,139.85
+18,Man,53,A,TikTok,TRUE,53.51
+61,Man,0,A,Facebook,FALSE,128.23
+31,Man,35,B,Instagram,FALSE,150.65
+49,Man,49,B,Instagram,TRUE,273.68
+43,Woman,58,B,Google Search,TRUE,345.16
+56,Woman,40,B,Google Search,TRUE,379.43
+26,Man,52,A,Instagram,FALSE,36.62
+22,Man,48,B,Google Search,TRUE,52.46
+56,Woman,36,A,TikTok,TRUE,208.51
+26,Man,28,C,TikTok,FALSE,52.89
+18,Woman,87,B,Instagram,TRUE,162.09
+52,Woman,48,C,Google Search,FALSE,357.31
+39,Man,27,B,Facebook,FALSE,106.86
+74,Woman,13,A,Instagram,FALSE,324.28
+45,Woman,44,A,Google Search,TRUE,260.67
+35,Man,30,A,Google Search,FALSE,53.69
+31,Man,12,C,Google Search,TRUE,144.08
+65,Man,14,A,Instagram,TRUE,245.84
+22,Woman,67,C,Google Search,FALSE,175.4
+49,Woman,30,A,TikTok,TRUE,120.65
+48,Woman,22,A,Instagram,FALSE,214.58
+31,Man,47,B,Facebook,TRUE,142.15
+63,Man,43,A,Google Search,TRUE,222.66
+29,Man,15,B,Facebook,TRUE,35.93
+40,Woman,39,B,Instagram,TRUE,340.91
+46,Man,0,A,Google Search,TRUE,184.22
+75,Woman,23,A,Google Search,TRUE,433.15
+49,Man,0,B,Facebook,TRUE,145.14
+66,Non-Binary,34,A,TikTok,TRUE,240.1
+29,Man,49,A,Google Search,FALSE,66.62
+18,Man,48,C,TikTok,TRUE,119.24
+53,Man,42,B,Facebook,TRUE,152.2
+18,Man,68,A,Instagram,TRUE,0
+20,Woman,72,B,Google Search,TRUE,164.19
+49,Woman,52,A,Google Search,FALSE,237.57
+39,Man,24,A,Facebook,FALSE,41.61
+53,Man,44,B,Google Search,TRUE,319.44
+61,Man,7,A,Facebook,TRUE,162.31
+54,Woman,49,A,Facebook,FALSE,246.68
+46,Woman,40,A,Google Search,FALSE,247
+48,Woman,62,B,Google Search,FALSE,315.2
+42,Woman,54,B,Facebook,TRUE,247.24
+66,Man,19,A,Google Search,TRUE,260.21
+41,Man,42,B,Instagram,TRUE,184.23
+52,Non-Binary,57,B,TikTok,TRUE,301.07
+26,Non-Binary,44,C,Facebook,TRUE,154.31
+41,Woman,72,B,Facebook,FALSE,209.05
+18,Woman,60,C,Google Search,TRUE,212.81
+42,Man,41,A,Google Search,TRUE,183.79
+18,Woman,38,B,Instagram,FALSE,169.24
+38,Man,33,B,TikTok,TRUE,188.41
+36,Man,34,B,Facebook,TRUE,91.48
+55,Woman,49,C,Facebook,TRUE,325.24
+30,Man,35,A,Facebook,FALSE,73.09
+30,Man,57,B,TikTok,FALSE,66.41
+18,Man,63,C,TikTok,TRUE,43.25
+49,Man,14,B,Google Search,TRUE,350.66
+56,Woman,60,B,Facebook,FALSE,352.48
+37,Man,15,C,Google Search,TRUE,120.82
+62,Man,0,C,TikTok,TRUE,147.56
+34,Man,77,A,Instagram,FALSE,53.76
+25,Man,29,C,Facebook,TRUE,37.03
+43,Other,32,A,TikTok,FALSE,62.14
+50,Woman,29,C,Facebook,TRUE,322.96
+18,Man,46,A,Facebook,TRUE,29.45
+18,Woman,60,C,Instagram,FALSE,45.08
+41,Woman,57,C,TikTok,TRUE,151.05
+47,Man,32,A,Google Search,TRUE,161.47
+18,Man,50,B,Facebook,TRUE,18.54
+18,Non-Binary,69,A,Google Search,TRUE,132.56
+45,Man,33,A,TikTok,TRUE,69.92
+53,Man,26,B,Facebook,TRUE,188.13
+34,Woman,61,C,Google Search,TRUE,283.81
+58,Man,23,A,TikTok,TRUE,42.38
+31,Woman,65,A,TikTok,TRUE,60.28
+37,Woman,49,B,Google Search,TRUE,275.91
+60,Man,35,B,Google Search,TRUE,370.35
+39,Woman,58,A,Google Search,TRUE,214.55
+40,Man,21,C,Google Search,TRUE,229.28
+27,Man,27,B,Facebook,FALSE,56.56
+41,Man,12,A,Google Search,TRUE,121.08
+30,Woman,37,B,Facebook,TRUE,83.94
+18,Man,5,B,Instagram,TRUE,32.97
+25,Man,71,A,Facebook,TRUE,39.72
+36,Man,54,A,TikTok,FALSE,101.49
+42,Woman,32,A,Facebook,FALSE,164.29
+56,Woman,25,C,Instagram,TRUE,369.63
+41,Man,63,C,Instagram,TRUE,164.74
+38,Man,13,A,Facebook,TRUE,68.85
+57,Man,25,C,Facebook,FALSE,197.59
+76,Woman,0,B,Instagram,TRUE,583.83
+39,Woman,54,A,TikTok,TRUE,169.9
+58,Man,47,B,TikTok,FALSE,212.09
+47,Woman,51,B,Google Search,FALSE,280.46
+39,Man,43,B,TikTok,TRUE,190.97
+18,Man,38,A,Instagram,TRUE,27.01
+25,Woman,80,A,Instagram,TRUE,96.49
+32,Woman,55,A,Instagram,FALSE,121.45
+23,Woman,79,A,Facebook,TRUE,73.76
+23,Man,57,B,Instagram,FALSE,167.33
+34,Woman,46,A,Instagram,FALSE,108.38
+54,Woman,42,B,Instagram,FALSE,344.44
+26,Man,45,B,Google Search,FALSE,195.31
+42,Woman,54,C,TikTok,TRUE,179.71
+37,Man,7,C,Google Search,FALSE,149.66
+52,Man,22,A,Instagram,TRUE,194.24
+41,Woman,25,B,Facebook,FALSE,152.89
+37,Woman,55,C,Google Search,TRUE,249.12
+31,Woman,38,C,Facebook,TRUE,181.94
+53,Woman,18,A,TikTok,FALSE,201.47
+57,Woman,25,B,Google Search,FALSE,478.56
+40,Man,26,C,TikTok,TRUE,94.04
+80,Man,2,C,TikTok,FALSE,290.19
+40,Man,40,C,Google Search,TRUE,223.92
+80,Man,9,A,Google Search,TRUE,364.28
+38,Man,41,C,Instagram,TRUE,158.87
+18,Woman,47,A,Facebook,TRUE,52.02
+19,Woman,69,A,TikTok,TRUE,0
+27,Woman,47,B,TikTok,TRUE,168.04
+62,Woman,26,C,Google Search,TRUE,422.98
+66,Man,3,B,Google Search,TRUE,425.93
+46,Woman,46,A,TikTok,TRUE,119.63
+45,Man,40,A,Google Search,FALSE,125.26
+32,Woman,55,C,Instagram,FALSE,234.51
+30,Woman,57,A,Facebook,TRUE,130.27
+29,Man,60,A,Facebook,FALSE,39.09
+27,Woman,66,C,Google Search,TRUE,216.11
+32,Man,54,B,Facebook,TRUE,90.66
+31,Man,36,C,Facebook,TRUE,35.54
+48,Man,27,A,TikTok,FALSE,145.37
+52,Man,39,A,Instagram,FALSE,134.12
+64,Woman,29,A,TikTok,TRUE,195.76
+18,Woman,71,C,TikTok,TRUE,78.75
+47,Man,63,C,TikTok,FALSE,168.9
+35,Woman,65,B,Instagram,TRUE,280.89
+36,Woman,60,A,Instagram,TRUE,98.13
+18,Man,84,C,TikTok,FALSE,103.58
+40,Woman,33,C,Instagram,FALSE,257.64
+28,Woman,69,B,Google Search,FALSE,284.99
+45,Woman,34,A,TikTok,TRUE,208.18
+23,Woman,66,A,Instagram,TRUE,134.71
+80,Woman,0,C,TikTok,TRUE,355.92
+28,Non-Binary,44,B,Facebook,TRUE,153.97
+36,Man,54,B,Instagram,TRUE,210.89
+22,Man,26,A,TikTok,TRUE,91.41
+35,Man,20,A,Instagram,TRUE,105.52
+72,Man,21,C,TikTok,TRUE,272.4
+34,Man,32,B,TikTok,FALSE,150.2
+49,Man,15,C,Facebook,TRUE,171.01
+26,Man,29,B,TikTok,TRUE,98.57
+63,Non-Binary,22,A,Google Search,FALSE,309.55
+47,Woman,55,B,Google Search,TRUE,360.05
+29,Man,38,A,Google Search,TRUE,133.35
+43,Woman,55,A,Facebook,TRUE,156.43
+34,Woman,33,A,Google Search,FALSE,124.11
+48,Man,32,A,Google Search,TRUE,197.72
+28,Man,46,A,Facebook,FALSE,80.07
+47,Woman,43,C,Facebook,TRUE,242.86
+64,Man,7,B,TikTok,TRUE,348.97
+59,Non-Binary,33,A,Google Search,FALSE,381.93
+45,Woman,54,C,Google Search,TRUE,335.42
+45,Woman,42,A,Facebook,TRUE,178.38
+46,Woman,48,C,Google Search,TRUE,326.26
+53,Woman,46,C,Google Search,TRUE,301.77
+46,Non-Binary,65,C,Facebook,TRUE,244.97
+49,Man,29,B,Facebook,TRUE,170.72
+50,Man,10,A,Instagram,TRUE,196.04
+43,Woman,57,C,Facebook,TRUE,194.22
+51,Woman,58,C,Facebook,TRUE,236.36
+41,Woman,46,A,TikTok,FALSE,72.3
+55,Woman,20,C,Google Search,TRUE,354.81
+34,Woman,31,A,Google Search,TRUE,193.48
+43,Man,22,A,TikTok,FALSE,27.89
+40,Woman,49,B,Instagram,FALSE,285.64
+24,Man,49,C,Facebook,TRUE,105.68
+58,Woman,35,A,Instagram,TRUE,343.56
+23,Woman,58,A,Google Search,TRUE,96.74
+60,Woman,20,B,TikTok,TRUE,362.36
+24,Other,31,A,Facebook,TRUE,80.84
+25,Man,59,A,Facebook,TRUE,71.68
+53,Man,33,C,Facebook,FALSE,164.96
+39,Woman,26,A,Google Search,TRUE,235.92
+18,Woman,67,B,Google Search,TRUE,132.75
+63,Man,20,A,TikTok,TRUE,55.87
+18,Woman,80,B,TikTok,FALSE,134.69
+30,Woman,33,C,Instagram,TRUE,281.76
+18,Man,25,B,Facebook,TRUE,12.76
+31,Woman,52,B,TikTok,TRUE,143
+41,Woman,59,B,Facebook,TRUE,218.4
+35,Woman,50,C,TikTok,FALSE,110.26
+31,Woman,35,C,Instagram,TRUE,140.01
+38,Non-Binary,63,C,Facebook,TRUE,195.39
+44,Man,82,B,Instagram,TRUE,171.84
+27,Man,26,C,Instagram,FALSE,172.02
+18,Man,58,B,Instagram,FALSE,20.65
+26,Woman,64,C,Facebook,FALSE,90.59
+18,Woman,44,A,Facebook,TRUE,60.52
+50,Woman,62,A,TikTok,TRUE,228.28
+68,Woman,17,B,Instagram,TRUE,472.92
+23,Other,26,C,Instagram,TRUE,87.64
+27,Woman,46,A,Google Search,TRUE,125.7
+27,Woman,42,C,Facebook,FALSE,162.81
+52,Man,46,B,Google Search,TRUE,253.91
+40,Woman,18,C,Google Search,TRUE,289.12
+47,Man,41,C,Google Search,FALSE,188.43
+52,Woman,55,A,TikTok,TRUE,174.77
+44,Woman,67,C,Facebook,TRUE,228.79
+47,Woman,23,B,Instagram,TRUE,347.64
+23,Man,74,A,Google Search,FALSE,121.67
+39,Woman,70,A,TikTok,FALSE,135.78
+31,Man,59,B,TikTok,TRUE,12.65
+20,Woman,75,A,Facebook,TRUE,79.32
+22,Man,23,B,Facebook,FALSE,22.24
+54,Woman,29,A,TikTok,FALSE,190.63
+20,Other,57,C,Google Search,FALSE,136.65
+34,Man,62,A,Facebook,FALSE,120.21
+55,Woman,34,B,TikTok,FALSE,188.25
+45,Non-Binary,49,C,Google Search,TRUE,338
+50,Man,21,C,Facebook,TRUE,229.46
+45,Woman,55,A,TikTok,FALSE,137.26
+38,Other,48,C,Instagram,FALSE,254.17
+18,Man,45,C,Instagram,TRUE,142.17
+31,Man,38,B,Facebook,TRUE,156.58
+19,Woman,100,A,Instagram,TRUE,117.77
+34,Man,40,A,Instagram,TRUE,103.2
+71,Man,4,A,TikTok,FALSE,182.51
+42,Man,33,C,Facebook,FALSE,162.78
+29,Woman,49,C,TikTok,TRUE,122.22
+53,Man,23,A,Facebook,TRUE,117.9
+47,Man,21,C,Instagram,FALSE,138.5
+39,Woman,23,A,Instagram,TRUE,158.79
+37,Non-Binary,76,C,Google Search,TRUE,240.55
+38,Man,54,A,Facebook,TRUE,32.75
+39,Woman,59,A,Google Search,TRUE,158.21
+49,Woman,47,C,Instagram,TRUE,315.9
+42,Man,28,B,Google Search,FALSE,191.38
+31,Man,34,A,Google Search,FALSE,139
+53,Woman,14,A,Google Search,TRUE,321.97
+30,Woman,81,A,Facebook,TRUE,57.16
+60,Woman,55,A,Facebook,TRUE,214.88
+25,Woman,46,B,Facebook,TRUE,153.43
+51,Woman,41,A,Google Search,TRUE,319
+59,Woman,18,A,Google Search,TRUE,286.67
+58,Woman,9,B,Facebook,FALSE,313.46
+38,Man,37,C,Google Search,TRUE,178.2
+50,Man,19,A,Google Search,TRUE,152.79
+18,Woman,67,C,Instagram,TRUE,119.77
+47,Woman,37,C,Facebook,FALSE,261.46
+38,Woman,58,A,Google Search,TRUE,162.23
+49,Man,34,A,Facebook,TRUE,147.1
+42,Woman,64,A,Instagram,TRUE,248.17
+59,Man,10,A,Google Search,FALSE,154.59
+37,Man,25,A,Facebook,TRUE,117.28
+51,Woman,36,B,Instagram,FALSE,314.89
+38,Woman,67,A,Instagram,TRUE,112.03
+50,Woman,23,A,Google Search,FALSE,270.52
+22,Man,54,B,TikTok,TRUE,91.38
+49,Woman,24,C,Facebook,TRUE,213.67
+34,Woman,66,B,Facebook,TRUE,181.59
+46,Woman,32,C,Instagram,TRUE,308.78
+27,Woman,57,A,Google Search,FALSE,81.75
+48,Woman,70,B,Facebook,TRUE,306.08
+80,Woman,16,A,Google Search,TRUE,398.36
+63,Man,3,C,Facebook,FALSE,250.97
+55,Woman,44,A,Google Search,TRUE,337.44
+31,Man,39,B,Google Search,FALSE,84.42
+45,Woman,40,A,Facebook,FALSE,160.82
+38,Man,21,C,Google Search,FALSE,146.1
+18,Man,20,C,Instagram,TRUE,114.27
+36,Woman,27,A,Google Search,FALSE,196.67
+35,Woman,62,C,Instagram,TRUE,246.28
+39,Woman,55,C,Facebook,FALSE,119.76
+32,Woman,46,B,Instagram,TRUE,278.92
+50,Woman,19,A,Facebook,TRUE,181.31
+69,Man,13,C,TikTok,FALSE,253.44
+57,Woman,15,A,Facebook,TRUE,204.73
+50,Woman,33,A,Google Search,TRUE,260.68
+41,Woman,4,B,Facebook,TRUE,188.98
+41,Man,59,C,TikTok,TRUE,74.42
+57,Non-Binary,37,C,Instagram,TRUE,374.93
+59,Man,50,A,TikTok,FALSE,161.7
+31,Man,50,A,TikTok,FALSE,30.12
+54,Woman,24,C,Google Search,TRUE,400.11
+22,Woman,52,A,Instagram,TRUE,127.58
+22,Non-Binary,74,C,Facebook,TRUE,41.47
+64,Man,28,B,Facebook,FALSE,185.75
+41,Non-Binary,65,A,Instagram,TRUE,168.81
+41,Non-Binary,19,C,Instagram,FALSE,222.15
+55,Man,41,C,Facebook,TRUE,254.69
+37,Woman,34,A,Instagram,FALSE,144.85
+27,Woman,35,B,Facebook,TRUE,197.29
+42,Woman,58,A,Instagram,FALSE,134.55
+18,Man,54,B,TikTok,FALSE,0
+33,Man,40,A,Facebook,FALSE,95.85
+38,Woman,51,B,Instagram,TRUE,306.01
+18,Woman,33,B,Facebook,TRUE,31.63
+43,Man,29,A,Facebook,TRUE,82.25
+29,Non-Binary,62,A,Google Search,TRUE,227.59
+57,Woman,50,A,Facebook,FALSE,174.9
+36,Man,24,B,Instagram,FALSE,178.78
+24,Woman,61,B,TikTok,FALSE,91.85
+44,Man,17,B,TikTok,TRUE,68.29
+39,Man,33,C,Facebook,TRUE,136.59
+41,Man,49,A,Facebook,FALSE,29.72
+43,Non-Binary,70,C,Instagram,TRUE,284.69
+34,Man,8,A,Instagram,TRUE,136.37
+35,Man,31,A,TikTok,TRUE,67.02
+50,Woman,66,A,Google Search,TRUE,290.98
+64,Man,7,C,TikTok,TRUE,232.28
+18,Man,55,B,Facebook,FALSE,32.89
+38,Man,26,A,Google Search,TRUE,189.57
+55,Man,8,B,Google Search,TRUE,299.66
+22,Woman,61,A,TikTok,FALSE,31.49
+58,Man,22,B,Google Search,TRUE,299.47
+34,Man,59,B,TikTok,FALSE,157.44
+51,Woman,24,A,Google Search,TRUE,311.69
+62,Man,32,A,Facebook,TRUE,170.59
+53,Woman,20,C,Google Search,FALSE,368.58
+58,Man,18,A,Google Search,TRUE,232.96
+18,Man,50,A,TikTok,TRUE,0
+21,Man,28,A,Facebook,FALSE,99.61
+49,Non-Binary,46,A,Google Search,TRUE,353.88
+26,Woman,80,A,TikTok,TRUE,79.61
+32,Man,36,A,Instagram,FALSE,36.19
+61,Man,39,B,Google Search,TRUE,353.25
+42,Woman,48,A,Facebook,TRUE,182.49
+41,Man,21,C,Instagram,TRUE,222.15
+36,Woman,74,B,TikTok,TRUE,215.89
+18,Man,46,B,Google Search,TRUE,129.78
+18,Man,45,B,Facebook,TRUE,88.26
+37,Woman,60,B,TikTok,TRUE,217.88
+45,Man,34,B,Google Search,TRUE,226.57
+20,Woman,63,A,Facebook,TRUE,81.2
+18,Woman,80,A,Facebook,FALSE,58.37
+59,Man,32,A,TikTok,TRUE,164.35
+48,Woman,62,A,TikTok,TRUE,172
+47,Woman,38,A,Google Search,TRUE,277.9
+54,Man,36,B,Instagram,FALSE,338.12
+48,Man,32,A,Instagram,TRUE,118.86
+24,Woman,64,A,TikTok,TRUE,0
+59,Woman,25,A,Facebook,FALSE,174.25
+21,Woman,91,A,Facebook,FALSE,178.44
+33,Man,25,C,Facebook,TRUE,99.91
+45,Man,30,A,TikTok,TRUE,105.65
+44,Woman,26,B,Facebook,FALSE,254.05
+49,Woman,23,B,Facebook,FALSE,290.15
+53,Woman,19,B,Facebook,TRUE,284.32
+28,Man,34,C,Facebook,TRUE,132.49
+21,Woman,56,B,Instagram,FALSE,100.58
+22,Woman,48,A,Facebook,TRUE,127.11
+49,Man,19,A,Instagram,TRUE,151.39
+33,Other,40,B,Facebook,TRUE,148.42
+46,Non-Binary,30,B,Facebook,FALSE,166.68
+58,Man,47,A,Facebook,TRUE,128.19
+30,Woman,61,C,Google Search,FALSE,122.32
+54,Man,17,C,Instagram,TRUE,352.89
+30,Woman,50,B,Google Search,FALSE,144.23
+49,Non-Binary,25,B,Facebook,TRUE,223.64
+41,Woman,76,A,Google Search,TRUE,115.37
+27,Woman,57,A,Instagram,TRUE,170.54
+54,Man,38,C,Google Search,FALSE,234.68
+51,Non-Binary,36,A,Facebook,FALSE,173.1
+27,Man,69,C,TikTok,FALSE,105.7
+41,Woman,45,C,TikTok,TRUE,172.2
+78,Man,2,A,Facebook,TRUE,220.8
+29,Woman,52,A,Google Search,TRUE,182.54
+37,Woman,51,C,Google Search,TRUE,344.66
+61,Woman,26,A,Google Search,FALSE,329.8
+23,Man,56,B,Facebook,TRUE,93.13
+76,Man,31,A,TikTok,TRUE,221.59
+30,Man,24,A,TikTok,FALSE,69.89
+32,Woman,55,B,TikTok,TRUE,143.93
+39,Man,33,B,Facebook,TRUE,148.42
+56,Woman,24,A,Instagram,TRUE,267.77
+80,Woman,11,C,Facebook,TRUE,509.21
+47,Non-Binary,49,A,Facebook,FALSE,230.91
+49,Man,32,B,Google Search,TRUE,281.33
+19,Woman,62,C,TikTok,FALSE,148.97
+42,Man,12,A,Facebook,TRUE,124.97
+18,Non-Binary,78,B,Instagram,FALSE,96.78
+36,Man,47,B,TikTok,TRUE,206.15
+62,Woman,36,A,Facebook,TRUE,288.58
+37,Woman,56,B,TikTok,TRUE,175.95
+39,Man,30,B,Facebook,FALSE,126.75
+41,Man,43,A,Facebook,FALSE,110.3
+38,Man,81,A,TikTok,FALSE,11.95
+42,Woman,39,A,Facebook,TRUE,197.52
+18,Man,60,A,TikTok,TRUE,27.19
+33,Other,42,A,Instagram,TRUE,125.27
+35,Man,36,C,Instagram,TRUE,165.74
+49,Woman,44,A,TikTok,TRUE,116.55
+43,Man,49,C,Instagram,FALSE,257.29
+29,Woman,56,A,Instagram,FALSE,130.32
+53,Man,11,C,TikTok,TRUE,199.77
+58,Other,13,C,TikTok,TRUE,358.84
+21,Non-Binary,65,C,Facebook,TRUE,90.58
+43,Man,11,A,TikTok,TRUE,61.48
+29,Man,69,A,Google Search,TRUE,68.89
+31,Man,69,A,Facebook,TRUE,4.04
+46,Woman,51,A,Google Search,TRUE,210.39
+53,Woman,28,A,Instagram,TRUE,260.94
+46,Man,15,C,Instagram,FALSE,212.53
+32,Woman,79,A,TikTok,FALSE,134.75
+57,Woman,36,B,Google Search,FALSE,347.29
+55,Woman,33,A,Facebook,TRUE,214.93
+25,Woman,57,A,Instagram,FALSE,55.85
+45,Man,15,C,Instagram,FALSE,146.03
+23,Man,33,A,Google Search,FALSE,74.13
+62,Woman,13,A,Instagram,TRUE,285.9
+44,Man,15,C,Google Search,TRUE,281.71
+56,Man,32,C,Google Search,TRUE,334.92
+46,Man,44,A,TikTok,TRUE,151.45
+38,Woman,28,C,Instagram,TRUE,253.7
+51,Man,14,A,Facebook,TRUE,186.5
+23,Man,36,B,Instagram,FALSE,70.47
+19,Woman,54,A,Google Search,TRUE,44.36
+31,Woman,55,C,TikTok,TRUE,119.78
+44,Man,22,A,Facebook,TRUE,127.23
+34,Woman,60,B,Google Search,TRUE,224.29
+33,Man,30,B,Google Search,TRUE,205.85
+54,Man,25,B,Facebook,FALSE,194.69
+32,Man,53,A,TikTok,TRUE,76.32
+55,Woman,46,A,Facebook,TRUE,203.26
+28,Woman,45,A,TikTok,TRUE,140.18
+36,Man,44,A,Facebook,FALSE,23.95
+28,Woman,33,B,Facebook,FALSE,150.72
+34,Woman,55,B,Instagram,TRUE,195.38
+23,Man,46,A,Instagram,FALSE,72.21
+47,Man,36,A,Facebook,FALSE,95.54
+58,Non-Binary,33,B,Facebook,TRUE,317.25
+44,Man,1,A,Instagram,TRUE,94.26
+66,Man,25,A,Facebook,TRUE,128.18
+18,Man,31,B,Instagram,TRUE,145
+29,Man,40,B,Facebook,TRUE,142.82
+48,Woman,30,C,Instagram,TRUE,338.99
+50,Man,33,A,Instagram,TRUE,243.55
+45,Man,43,B,TikTok,TRUE,184.31
+66,Woman,15,B,Facebook,TRUE,346.03
+65,Man,13,A,Google Search,FALSE,279.31
+18,Woman,47,A,Google Search,FALSE,163.33
+34,Man,12,A,Facebook,TRUE,62.32
+18,Man,32,C,Facebook,TRUE,31.45
+25,Man,38,B,Facebook,TRUE,141.26
+44,Man,27,B,TikTok,TRUE,146.56
+45,Man,45,C,Facebook,TRUE,166.33
+28,Man,38,A,Facebook,TRUE,118.93
+45,Man,18,A,Google Search,FALSE,162.5
+29,Non-Binary,55,A,Facebook,TRUE,108.12
+44,Man,31,B,Facebook,FALSE,210.42
+42,Woman,49,C,Google Search,TRUE,274
+36,Man,51,A,Instagram,TRUE,118.41
+26,Woman,73,A,Facebook,FALSE,90.05
+33,Woman,63,A,Google Search,TRUE,157.14
+47,Woman,7,C,Google Search,FALSE,283.99
+33,Man,20,B,Facebook,TRUE,131.27
+35,Man,38,A,Facebook,FALSE,17.59
+24,Man,34,B,TikTok,TRUE,51.27
+33,Man,24,C,Google Search,TRUE,104.21
+40,Woman,36,C,Instagram,TRUE,319.92
+29,Woman,65,A,Facebook,TRUE,135.43
+34,Woman,59,C,Instagram,FALSE,171.74
+23,Woman,78,B,Instagram,FALSE,190.15
+51,Man,28,B,Facebook,TRUE,280.78
+73,Man,0,C,Facebook,FALSE,289.83
+34,Man,63,A,Facebook,TRUE,138.07
+47,Man,20,A,Facebook,FALSE,106.97
+64,Woman,29,C,Facebook,FALSE,285.36
+34,Woman,51,B,TikTok,TRUE,262.06
+34,Man,45,A,TikTok,FALSE,53.12
+50,Man,13,C,Google Search,FALSE,302.4
+26,Non-Binary,40,A,Facebook,TRUE,140.1
+37,Man,46,A,Google Search,TRUE,133.01
+32,Woman,47,A,Instagram,FALSE,93.3
+25,Woman,31,B,Google Search,TRUE,78.11
+46,Woman,22,A,TikTok,TRUE,180.27
+38,Man,45,A,Google Search,TRUE,112.25
+73,Man,14,A,TikTok,FALSE,181.32
+18,Man,36,C,TikTok,TRUE,0
+50,Woman,47,C,Facebook,FALSE,284.27
+28,Other,51,B,TikTok,FALSE,157.98
+36,Man,39,A,Instagram,TRUE,61.07
+24,Man,66,B,Facebook,FALSE,46.84
+49,Man,21,A,Instagram,TRUE,123.71
+60,Non-Binary,34,C,Instagram,TRUE,525.65
+47,Woman,64,A,TikTok,FALSE,92.65
+26,Man,42,C,Facebook,FALSE,81.27
+64,Man,50,A,Instagram,TRUE,257.67
+38,Woman,51,A,Google Search,TRUE,184.16
+43,Man,38,B,Facebook,TRUE,236.79
+39,Woman,71,B,Google Search,TRUE,305.53
+37,Woman,50,C,Facebook,FALSE,117.81
+41,Man,19,C,Facebook,FALSE,192.51
+25,Non-Binary,39,B,TikTok,TRUE,172.67
+57,Man,18,A,Google Search,TRUE,207.24
+50,Man,17,C,Google Search,FALSE,212.09
+41,Non-Binary,38,A,Instagram,FALSE,168.39
+54,Non-Binary,55,B,Instagram,FALSE,374.97
+22,Woman,77,B,Instagram,TRUE,161.59
+56,Man,31,A,Facebook,TRUE,177.4
+43,Woman,49,A,Facebook,TRUE,171.41
+48,Non-Binary,22,A,Instagram,TRUE,219.36
+33,Man,64,B,Instagram,TRUE,156.83
+28,Man,45,A,Facebook,FALSE,22.33
+32,Woman,36,B,Facebook,TRUE,165.13
+56,Man,46,B,TikTok,TRUE,205.29
+56,Man,49,A,Facebook,TRUE,163.3
+63,Other,43,A,Instagram,TRUE,274.18
+39,Man,43,B,TikTok,TRUE,198.08
+29,Man,28,B,Facebook,TRUE,163.86
+62,Man,1,A,Instagram,TRUE,209.62
+18,Woman,88,A,Instagram,FALSE,26.58
+38,Woman,54,B,Facebook,FALSE,113.63
+49,Woman,34,B,Google Search,TRUE,394.23
+23,Woman,50,C,Google Search,TRUE,95.82
+18,Woman,80,A,TikTok,TRUE,133.75
+47,Man,18,A,Google Search,TRUE,194.86
+64,Man,36,B,Facebook,FALSE,170.5
+29,Man,59,B,Facebook,TRUE,122.3
+30,Man,39,B,Instagram,TRUE,261.63
+26,Woman,66,A,Facebook,FALSE,73.1
+62,Man,40,C,Facebook,FALSE,240.47
+29,Woman,63,A,Google Search,TRUE,163.41
+27,Woman,59,B,Facebook,FALSE,187.12
+28,Woman,37,C,Facebook,TRUE,106.8
+31,Man,34,C,TikTok,TRUE,141.02
+31,Man,51,B,Facebook,FALSE,93.28
+49,Man,19,C,Google Search,TRUE,283.99
+45,Woman,64,A,Facebook,TRUE,239.84
+47,Woman,69,A,Facebook,FALSE,223.87
+31,Woman,50,C,Google Search,FALSE,217.73
+51,Woman,43,B,Facebook,TRUE,265.63
+18,Woman,71,A,Facebook,TRUE,30.29
+57,Woman,31,B,Instagram,FALSE,375.64
+43,Woman,46,A,TikTok,FALSE,165.84
+34,Man,35,A,Instagram,TRUE,80.42
+47,Other,18,A,TikTok,TRUE,85.51
+22,Man,66,B,Instagram,TRUE,149.13
+31,Woman,62,A,Facebook,TRUE,131.78
+42,Woman,35,B,Google Search,FALSE,264.32
+18,Woman,66,B,TikTok,TRUE,99.41
+39,Man,44,A,Google Search,TRUE,220.29
+39,Man,10,A,Google Search,TRUE,162.66
+36,Woman,52,C,Facebook,FALSE,185.71
+21,Woman,44,A,Facebook,FALSE,0
+58,Woman,25,B,TikTok,TRUE,263.03
+18,Man,26,A,Facebook,FALSE,45.2
+18,Man,26,A,Google Search,TRUE,67.08
+31,Woman,22,A,Instagram,FALSE,133.88
+63,Non-Binary,39,C,Google Search,TRUE,467.37
+42,Woman,74,B,Google Search,TRUE,356.69
+44,Woman,61,C,TikTok,TRUE,295.4
+37,Woman,35,C,TikTok,TRUE,198.74
+44,Woman,33,B,Facebook,TRUE,269.23
+49,Other,51,B,Google Search,TRUE,397.49
+51,Woman,7,A,Google Search,FALSE,259.2
+61,Man,14,A,Facebook,FALSE,119.09
+28,Man,40,A,Instagram,TRUE,144.78
+38,Woman,23,C,Facebook,FALSE,128.93
+46,Man,55,C,TikTok,TRUE,148.02
+52,Man,34,C,TikTok,TRUE,192.27
+35,Man,57,C,TikTok,TRUE,78.58
+50,Man,24,C,TikTok,FALSE,90.5
+32,Woman,55,C,Google Search,FALSE,250.92
+35,Woman,55,C,Instagram,TRUE,183.95
+55,Woman,56,A,Google Search,FALSE,264.27
+18,Woman,89,A,Facebook,TRUE,64.57
+43,Man,25,B,Facebook,TRUE,98.6
+54,Woman,51,B,Instagram,TRUE,357.76
+35,Man,46,A,Google Search,FALSE,84.86
+49,Man,43,C,Facebook,TRUE,144.67
+29,Woman,35,A,Facebook,TRUE,116.93
+43,Man,30,C,TikTok,FALSE,85.08
+40,Man,56,C,Google Search,TRUE,217.22
+40,Man,38,A,Instagram,FALSE,181.89
+21,Man,49,C,TikTok,TRUE,18.33
+38,Woman,39,B,Facebook,TRUE,144.43
+28,Man,60,B,TikTok,TRUE,91.39
+35,Man,40,B,Google Search,FALSE,181.21
+55,Woman,36,A,Instagram,TRUE,297.88
+32,Man,30,B,Facebook,TRUE,123.31
+40,Other,57,C,TikTok,TRUE,50.43
+42,Man,35,A,Instagram,TRUE,76.28
+37,Woman,66,C,Google Search,TRUE,252.72
+52,Woman,35,C,Facebook,TRUE,305.65
+39,Man,37,A,Facebook,TRUE,135.04
+42,Man,37,A,Facebook,TRUE,59.64
+27,Man,37,C,TikTok,TRUE,61.75
+34,Man,11,C,Instagram,FALSE,147.24
+30,Man,31,A,Facebook,TRUE,68.61
+47,Woman,28,A,Google Search,FALSE,275.25
+57,Non-Binary,31,B,TikTok,TRUE,302.25
+33,Woman,38,B,Instagram,TRUE,214.26
+18,Woman,62,B,Google Search,FALSE,118.33
+27,Non-Binary,61,A,Facebook,FALSE,56.11
+26,Woman,82,C,Facebook,TRUE,12.72
+58,Man,21,A,Instagram,FALSE,185.61
+42,Woman,74,A,Facebook,TRUE,154.91
+63,Non-Binary,31,C,Instagram,FALSE,400.54
+46,Non-Binary,46,A,Google Search,TRUE,269.32
+18,Man,57,C,Instagram,FALSE,22.52
+47,Man,33,C,Instagram,TRUE,219.85
+29,Man,29,B,Facebook,TRUE,122.94
+40,Man,42,C,Google Search,FALSE,164.62
+38,Man,53,B,TikTok,FALSE,99.02
+38,Woman,56,A,Google Search,FALSE,178.49
+35,Non-Binary,56,A,Google Search,TRUE,205.87
+69,Man,5,B,Google Search,TRUE,411.59
+63,Woman,42,A,TikTok,TRUE,249.01
+27,Woman,64,C,Facebook,TRUE,131.41
+43,Woman,38,A,TikTok,FALSE,70.09
+57,Woman,23,C,TikTok,TRUE,297.83
+57,Woman,29,B,Instagram,FALSE,432.25
+27,Woman,69,A,Facebook,TRUE,92.2
+61,Other,18,C,Google Search,FALSE,390.7
+29,Woman,69,C,Google Search,TRUE,271.79
+42,Man,16,C,TikTok,TRUE,199.36
+43,Woman,57,A,Facebook,TRUE,132.86
+18,Woman,64,C,Facebook,TRUE,30.9
+38,Woman,69,B,Google Search,TRUE,295.05
+18,Woman,72,A,Instagram,FALSE,93.26
+18,Woman,74,B,Google Search,FALSE,99.19
+45,Woman,19,B,Instagram,FALSE,268.86
+45,Woman,39,A,Google Search,TRUE,156.37
+55,Woman,33,B,Google Search,TRUE,471.43
+46,Man,7,A,Facebook,FALSE,91.71
+30,Woman,34,C,Facebook,FALSE,118.75
+28,Woman,58,C,Instagram,FALSE,130.68
+52,Woman,18,A,TikTok,FALSE,148.01
+62,Woman,18,A,TikTok,FALSE,233.09
+52,Woman,47,A,Instagram,FALSE,208.45
+43,Man,46,B,Facebook,FALSE,180.07
+39,Man,30,C,Google Search,FALSE,213.72
+64,Man,20,B,Instagram,FALSE,318.42
+18,Non-Binary,84,A,Instagram,TRUE,70.14
+55,Woman,22,C,Google Search,FALSE,409.79
+37,Non-Binary,47,C,Facebook,TRUE,182.95
+23,Woman,79,A,Instagram,FALSE,58.86
+53,Man,29,A,Instagram,TRUE,206.74
+25,Man,24,B,Instagram,TRUE,105.97
+45,Man,28,B,Google Search,TRUE,340.01
+43,Man,11,C,Instagram,FALSE,173.53
+42,Other,27,B,Google Search,TRUE,270.12
+18,Woman,46,B,TikTok,TRUE,54.41
+42,Woman,30,A,Google Search,TRUE,218.28
+33,Woman,40,A,Google Search,FALSE,98.61
+29,Man,36,B,Facebook,TRUE,59.18
+22,Woman,87,A,Instagram,TRUE,45.11
+23,Man,48,B,Instagram,TRUE,100
+27,Man,18,A,Facebook,TRUE,12.25
+59,Man,0,A,Google Search,TRUE,297.28
+50,Man,16,A,Facebook,TRUE,40.56
+44,Woman,66,A,TikTok,TRUE,121.98
+66,Man,44,C,Instagram,TRUE,271.21
+64,Man,6,A,TikTok,TRUE,170.35
+54,Man,39,C,Facebook,TRUE,192.14
+22,Non-Binary,85,B,Google Search,TRUE,195.7
+61,Man,5,A,TikTok,FALSE,146.5
+37,Non-Binary,26,B,Google Search,TRUE,349.05
+36,Woman,35,C,Google Search,TRUE,248.09
+44,Woman,32,C,Google Search,FALSE,247.45
+41,Man,28,B,Google Search,TRUE,250.76
+33,Woman,81,B,Instagram,TRUE,205.37
+50,Man,29,C,Facebook,TRUE,177.46
+33,Woman,55,B,Google Search,FALSE,231.86
+32,Man,39,C,Facebook,FALSE,151.31
+36,Man,26,C,Instagram,TRUE,232.53
+29,Woman,41,B,Facebook,FALSE,137.82
+42,Man,57,C,Facebook,TRUE,100.57
+39,Man,32,C,Google Search,TRUE,151.23
+36,Woman,56,B,Instagram,TRUE,240.77
+47,Woman,22,C,Instagram,FALSE,296.51
+18,Man,63,A,Google Search,FALSE,85.07
+44,Man,25,C,Instagram,TRUE,147.33
+54,Man,30,A,Facebook,FALSE,126.7
+53,Woman,34,A,Facebook,TRUE,164.77
+73,Woman,0,B,Facebook,TRUE,400.04
+30,Man,62,B,Instagram,TRUE,95.41
+25,Man,61,A,Instagram,FALSE,60.37
+45,Man,20,B,TikTok,FALSE,169.78
+18,Woman,67,A,Facebook,FALSE,64.23
+58,Man,8,B,Google Search,FALSE,315.63
+24,Man,59,A,Facebook,TRUE,35.79
+47,Woman,51,A,Instagram,TRUE,205.31
+35,Man,5,A,Instagram,TRUE,116.26
+18,Man,27,C,Facebook,TRUE,67.72
+44,Woman,30,A,Google Search,TRUE,266.61
+23,Woman,62,A,Facebook,TRUE,101.98
+54,Non-Binary,20,B,Facebook,TRUE,369.93
+18,Man,60,C,TikTok,FALSE,66.2
+38,Woman,46,C,TikTok,FALSE,141.28
+24,Man,47,A,Facebook,TRUE,47.49
+57,Woman,19,B,Google Search,TRUE,520.29
+29,Man,52,A,Instagram,FALSE,79.79
+54,Woman,37,A,Facebook,TRUE,220.19
+33,Man,40,A,Facebook,TRUE,23.03
+42,Man,33,C,TikTok,FALSE,118.77
+62,Man,12,A,Facebook,TRUE,95.54
+30,Woman,37,A,Facebook,FALSE,104.28
+67,Non-Binary,11,A,Google Search,TRUE,325.37
+55,Woman,1,C,Facebook,FALSE,283
+59,Other,32,A,Google Search,FALSE,219.74
+18,Man,62,B,Instagram,FALSE,96.19
+37,Woman,32,A,TikTok,TRUE,63.43
+18,Man,60,A,Facebook,TRUE,54.46
+51,Woman,25,A,Facebook,TRUE,136.66
+58,Man,20,A,TikTok,FALSE,145.66
+31,Man,35,B,Instagram,FALSE,158.68
+32,Non-Binary,18,B,Google Search,FALSE,255.82
+18,Man,57,A,TikTok,FALSE,24.37
+52,Man,26,A,Google Search,TRUE,271.19
+62,Man,26,B,Instagram,TRUE,365.11
+18,Man,87,C,Google Search,TRUE,102.24
+18,Woman,67,C,Google Search,TRUE,119.62
+57,Man,55,C,Facebook,TRUE,209.97
+60,Man,29,C,TikTok,TRUE,236.71
+46,Woman,55,B,Facebook,TRUE,204.59
+44,Woman,30,B,Google Search,TRUE,341.82
+31,Woman,62,C,Facebook,FALSE,159.74
+45,Woman,32,B,Instagram,FALSE,290.94
+33,Woman,43,C,Google Search,TRUE,223.41
+71,Woman,14,A,Instagram,FALSE,263.8
+33,Woman,55,A,Google Search,TRUE,211.33
+18,Woman,56,B,TikTok,FALSE,0
+47,Woman,31,B,Google Search,TRUE,367.62
+21,Woman,83,A,TikTok,TRUE,119.27
+52,Non-Binary,35,A,Google Search,FALSE,250.8
+18,Man,29,B,Instagram,FALSE,49.86
+36,Man,20,A,Facebook,TRUE,92.15
+46,Woman,24,C,Instagram,TRUE,312.94
+37,Man,46,A,Facebook,FALSE,16.75
+18,Man,54,C,TikTok,FALSE,46.18
+19,Woman,45,A,Instagram,TRUE,218.77
+27,Man,38,A,Google Search,TRUE,130.34
+64,Man,19,B,TikTok,FALSE,193.18
+38,Man,51,A,TikTok,TRUE,135.81
+59,Man,52,A,Instagram,TRUE,229.81
+43,Man,48,C,Facebook,TRUE,157.1

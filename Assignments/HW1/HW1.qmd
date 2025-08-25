@@ -5,128 +5,52 @@ format: html
 
 # Homework 1
 
-**Due October 27th, 2024 by 11:59pm**
+This is [**NOT**]{.underline} A GROUP ASSIGNMENT. You should work individually.
 
-For this homework assignment, choose one data set below (or slack me about a data set you want to use, e.g. for your research...). As this is a **graduate course** it is expected that you use course materials to complete this assignment, but also that **you do some research on your own to find helpful extensions relevant the course material** (e.g. if you're measuring reaction time, maybe a *gamma* likelihood would help, even if we didn't talk specifically about gamma regression; if you have a Likert scale item, maybe cumulative logit models would help)
+**Due September 29th, 2025 by 11:59pm**
 
--   look into the data set and describe in Intro/**Background**
+## Data
 
--   choose one of the **research questions** (the entire bullet point) associated with each data set (or come up with your own, equally complex Q!)
+The data for this homework assignment is *synthetic* data looking at some marketing data for 5000 customers from **Company X**. Company X is a wellness brand that sells various supplements and other wellness products. Recently, they ran a new campaign called "Be Well" to support their new energy + protein poweder. There were 3 variants of the campaigned used. This data set contains data about the campaign as well as some customer information. The following variables are included in the data:
 
--   propose an **Analysis** (using the *tools/types of models we learned in class*, and any EDA tools such as plots, summaries) that answers the research question in the **Analysis** section. Also explain **why** you chose the analysis you did.
+-   `age`: age of customer
 
-    -   You **must** use models we covered in class, or extensions of these models. For example, I don't want you fitting neural networks. I want you to use the statistical models covered in this class, or closely related (check with me if you're unsure). For example: Ordinal Regression would be okay, Convolutional Neural Networks would not.
+-   `gender`: self-identified gender (provided by customer during purchase)
 
--   **run** the analysis, and present results in **Results** section
+-   `past_purchases`: number of purchases the customer has made over the past 2 years
 
--   discuss your findings in the **Discussion.** Also discuss limitations/roadblocks
+-   `campaign_variant`: which variant of the new Be Well campaign the customer was assigned to. `A` is the old, business-as-usual campaign, `B` is the new Be Well campaign, and `C` is a version of the Be Well campaign that focuses on mental health instead of physical health.
 
-Your assignment should include all of the following elements:
+-   `ad_source`: the source of the Be Well ad that the customer saw
 
--   Discussion of **Causal Inference** (is the answer to your question a **causal estimate** if so, why? if not, why not?)
+-   `email_signup`: whether or not the customer is signed up for promotional emails from Company X.
 
--   **Modeling** (GLMs, GAMs, Time Series Models)
+-   `campaign_spend`: how much the customer spent on items that were a part of the Be Well campaign
 
--   2+ plots
+## Questions
 
-Your assignment *can* but doesn't need to:
+For each question, choose an appropriate model that can help answer the question, fit that model to the data along with plots and exploratory data analysis and use these results to answer the questions. Your answers should be geared towards a non-data expert.
 
--   use hypothesis testing
+You **must** use models we covered in class, or extensions of these models. For example, I don't want you fitting neural networks. I want you to use the statistical models covered in this class, or closely related (check with me if you're unsure). For example: Ordinal Regression would be okay, Convolutional Neural Networks would not.
 
--   use p-values/bayes factors
+-   **Question 1**: What kinds of people make *more* purchases (`past_purchases`)?
 
-## Groups
-
-If you would like to work in a group of **up to 2** you can, but must choose **one research question** per **person** (two total), using the *same data set*. You must let Dr. P know who is in your group before **October 15th EOD**.
+-   **Question 2**: Which campaign variant should Company X use in the future and why?
 
 # Report Sections
 
-You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following sections:
+You should turn in a **readme**, a **code** file (.R, .Rmd, .qmd...etc) of your R code for analysis and a written **report**. The report should have the following **sections** (NO **Introduction** needed as we're all using the same data. Please still explain your results as if presenting them to a non-expert):
 
--   **Intro/Background**: Tell us about your **data set**, and your **research question**. Do some exploratory data analysis (make plots of relevant variables, make note of missing data, interesting patterns, relevant variables).
+\- **Analysis**: Tell us **how** analyzed the data to answer the questions above (e.g. what methods/models did you use?) Also explain **why** you chose the model/analyses you did.
 
--   **Analysis**: Tell us **how** you plan to answer the questions using a combination of models, summaries, and data visualization. Also explain **why** you chose the analysis you did.
+\- **Results**: What is the **answer** to the questions (clearly label where you're answering each Question)? What did the analyses tell you?
 
--   **Results**: What is the **answer** to your research question? What did the analysis tell you? This is where you share plots, coefficients from models, summaries, etc.
-
--   **Discussion**: What are the **potential impacts/applications** of the answers you found? Were there any **limitations**? What would you do **differently** next time if you re-did the same assignment?
+\- **Discussion**: What are the **potential impacts/applications** of the answers you found? What would you do *differently* next time if you re-did the same assignment?
 
 As a reminder, I expect the following files when you turn in your assignment:
 
--   PDF of report
+\- PDF of report
 
--   code file (.R, .qmd, .Rmd)
+\- code file (.R, .qmd, .Rmd)
 
--   a readme (.txt, .md)
-
-# Data Sets
-
--   Choose your own dataset! Good Places to look:
-
-    -   data.gov
-
-    -   kaggle
-
-    -   osf.io
-
-    -   [tidy tuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data)
-
--   [StackOverflow Posts](https://huggingface.co/datasets/mikex86/stackoverflow-posts)
-
-    -   does the [*sentiment*](https://www.tidytextmining.com/sentiment) of a post's body cause its score? Create a DAG and list of features that could be confounders (fork)/mediators (chain)/colliders (collider). Come up with an adjustment set and fit a model that adjusts for the appropriate variable in order to get a causal estimate
-
-    -   do the `Tags` of a post cause the `View Count` of the post? Create a DAG and list of features that could be confounders (fork)/mediators (chain)/colliders (collider). Come up with an adjustment set and fit a model that adjusts for the appropriate variable in order to get a causal estimate
-
--   [Climate Data](https://berkeleyearth.org/data/)
-
-    -   Why *seasonal* patterns occur in climate measurements, and what does this tell us about the way climate fluctuates?
-
--   [NHANES Data](https://cran.r-project.org/web/packages/NHANES/NHANES.pdf)
-
-    -   what is the relationship between `pulse` and Total Cholesterol?
-
-    -   what is the relationship between number of bad mental health days (`DaysMentHlthBad`) and income (`HHIncome`)?
-
--   [Hard Drive Failures](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2024/)
-
-    -   what variables cause hard drive failure and what are their impact?
-
--   [Higher Ed Math Tests](https://archive.ics.uci.edu/dataset/1031/dataset+for+assessing+mathematics+learning+in+higher+education)
-
-    -   which topics have the most difficult math questions?
-
-    -   which questions are the best at discriminating between students with different math abilities, and how could a professor use this information best?
-
--   [LAPD Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
-
-    -   Does the age of the victim (`Vict Age`) have a causal effect on the time a crime occured (`Time Occ`)?
-
-    -   Does the sex of the victim (`Vict Sex`) cause the `Status` of the crime?
-
--   [IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
-
-    -   does `meta_score` change over time differently for different `genre`s, and is there cyclical patterns?
-
-    -   can `gross` revenue of a movie be accurately forecasted into the future, and if so, what features are most impactful and what are their relationships to `gross` revenue?
-
-    -   are there `genre`s where the relationship between `meta_score` and `gross` revenue non-linear, and if so, describe the patterns
-
--   [Car Fuel Data](https://archive.ics.uci.edu/dataset/10/automobile)
-
-    -   does engine size *cause* price to go up? If so, describe the relationship, is it linear? non-linear? If not, describe how you know.
-
--   [Heart Health](https://archive.ics.uci.edu/dataset/45/heart+disease)
-
-    -   choose a variable you're interested in and create a DAG (using at *least 5* other variables from the dataset, but more is better) to estimate the impact of that variable on Heart Disease, then fit a model that adjusts for the appropriate variable in order to get a causal estimate
-
--   [Student Success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
-
-    -   what is the causal effect of daytime vs. evening attendance on dropping out? create a DAG (using at *least 5* other variables from the dataset, but more is better) to estimate the impact of daytime vs. evening attendance, then fit a model that adjusts for the appropriate variable in order to get a causal estimate
-
--   [Air Quality](https://archive.ics.uci.edu/dataset/360/air+quality)
-
-    -   Are there seasonal patterns in Air Quality, and does that help us accurately forecast Air Quality?
-
--   [Income Data 1994 Census](https://archive.ics.uci.edu/dataset/20/census+income)
-
-    -   does education cause income? Create a DAG and list of features that could be confounders (fork)/mediators (chain)/colliders (collider). Come up with an adjustment set and fit a model that adjusts for the appropriate variable in order to get a causal estimate
+\- a readme (.txt, .md)
