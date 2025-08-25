@@ -5,7 +5,7 @@ format: html
 
 # Homework 2
 
-**Due November 17th, 2024 by 11:59pm**
+**Due November 17th, 2025 by 11:59pm**
 
 This is [**NOT**]{.underline} A GROUP ASSIGNMENT. You should work individually.
 
