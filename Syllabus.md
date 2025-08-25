@@ -1,10 +1,10 @@
 # CPSC 540 \| Statistical Machine Learning I
 
-# Fall '24
+# Fall '25
 
 # Syllabus
 
-## Instructor: Dr. Chelsea Parlett-Pelleriti (cparlett\@chapman.edu)
+## Instructor: Dr. Chelsea Parlett (cparlett\@chapman.edu)
 
 ## Lecture: MW 5:30-6:45pm
 
@@ -12,11 +12,12 @@
 
 ### Dr. Parlett
 
--   Monday/Wednesday 6:45pm-7:30pm (M: Swenson N204, W: Swenson N206)
+-   Mondays 6:45pm-7:45pm (M: Swenson 20X )
+-   Fridays 12-12:45pm (Zoom: by appointment only)
 
-![](Images/Screenshot%202024-08-25%20at%205.37.52%20PM.png)
+![](images/Screenshot%202025-08-24%20at%202.54.05%20PM.png)
 
-(if you cannot make office hours, and need to schedule a meeting with me outside of class and office hours, please make sure to give sufficiently advance notice.)
+(if you cannot make office hours, and need to schedule a meeting with me outside of class and office hours, please make sure to give *sufficiently* advance notice.)
 
 ## INSTALLS
 
@@ -82,13 +83,15 @@ All programs should be written in **R** unless otherwise specified or cleared wi
 
 ### Assessment Structure
 
-There will be weekly quizzes on the lecture material and classwork, which will count toward the Quizzes grade. **You MUST be in person to take the quiz**. Missed quizzes cannot be made up at a different time. However, I will **drop your lowest 1 quiz score**, so use this dropped quiz to account for sick days or missed classes.
+There will be weekly quizzes on the lecture material and classwork, which will count toward the Quizzes grade. **You MUST be in person to take the quiz**. Missed quizzes cannot be made up on a different day. However, I will **drop your lowest 1 quiz score**, so use this dropped quiz to account for sick days or missed classes.
 
 There will also be two in-class exams: one midterm and one final. In-class exams must be taken **in-person** on the dates specified, however *I don't believe taking tests while sick demonstrates your true ability, so in the case of a well-documented, unavoidable conflict or illness, I will do my best to accommodate you. You must notify me prior to missing the exam.*
 
 ## Final Exam Time
 
-![](images/Screenshot%202024-08-25%20at%206.38.17%20PM.png)
+Wednesday December 10th, 2025.
+
+![](images/Screenshot%202025-08-25%20at%2010.35.50%20AM.png)
 
 ## Course Communication
 
@@ -143,15 +146,15 @@ I expect that everyone will maintain a classroom conducive to learning. Thus, ev
 
 ## Chapman University’s Academic Integrity Policy
 
-Chapman University is a community of scholars that emphasizes the mutual responsibility of all members to seek knowledge honestly and in good faith.  Students are responsible for doing their own work and academic dishonesty of any kind will be subject to sanction by the instructor/administrator and referral to the university Academic Integrity Committee, which may impose additional sanctions including expulsion.  Please see the full description of Chapman University's policy on [Academic Integrity](https://www.chapman.edu/academics/academic-integrity/index.aspx).
+Chapman University is a community of scholars that emphasizes the mutual responsibility of all members to seek knowledge honestly and in good faith. Students are responsible for doing their own work and academic dishonesty of any kind will be subject to sanction by the instructor/administrator and referral to the university Academic Integrity Committee, which may impose additional sanctions including expulsion. Please review the full description of Chapman University's policy on Academic Integrity.
 
 ## Chapman University’s Students with Disabilities Policy
 
-In compliance with ADA guidelines, students who have any condition, either permanent or temporary, that might affect their ability to perform in this class are encouraged to contact the Office of [Disability Services](https://www.chapman.edu/students/health-and-safety/disability-services/index.aspx). If you will need to utilize your approved accommodations in this class, please follow the proper notification procedure for informing your professor(s). This notification process must occur more than a week before any accommodation can be utilized. Please contact Disability Services at (714) 516–4520 if you have questions regarding this procedure or for information or to make an appointment to discuss and/or request potential accommodations based on documentation of your disability. Once formal approval of your need for an accommodation has been granted, you are encouraged to talk with your professor(s) about your accommodation options. The granting of any accommodation will not be retroactive and cannot jeopardize the academic standards or integrity of the course.
+Students who seek an accommodation of a disability or medication condition to participate in the class must contact the Office of Disability Services and follow the proper notification procedure for informing your professor(s) of any granted accommodations. This notification process must occur more than a week before any accommodation can be utilized. Please contact Disability Services at (714) 516-4520 or DS\@chapman.edu if you have questions regarding this process, or for information and to make an appointment to discuss and/or request potential accommodations based on documentation of your disability. The granting of any accommodation will not be retroactive. https://www.chapman.edu/students/health-and-safety/disability-services/policy.aspx
 
-## Chapman University’s Equity and Diversity Policy
+## Chapman University’s Anti-Discrimination Policy
 
-Chapman University is committed to ensuring equality and valuing diversity. To access information part of Chapman's DEI (Diversity, Equity, and Inclusion) initiative, including on-campus resources, student-driven clubs, faculty and staff advocates, and how to report a concern or incident, please view the [Diversity and Inclusion Resources](https://www.chapman.edu/diversity/resources/index.aspx). Students and professors are reminded to show respect at all times as outlined in Chapman’s [Discrimination, Harassment, and Retaliation Prevention Policy](https://www.chapman.edu/faculty-staff/human-resources/_files/eodo/dhrp-policy.pdf). Any violations of this policy should be discussed with the professor, the Dean of Students and/or otherwise reported in accordance with this policy.
+Chapman University is committed to ensuring equality and valuing diversity, including of backgrounds, experiences and viewpoints. Students and professors are reminded to show respect at all times as outlined in Chapman’s Harassment and Discrimination Policy. Please review the full description of the Harassment and Discrimination Policy. Any violations of this policy should be discussed with the professor, the Dean of Students and/or otherwise reported in accordance with this policy."s who have any condition, either permanent or temporary, that might affect their ability to perform in this class are encouraged to contact the Office of [Disability Services](https://www.chapman.edu/students/health-and-safety/disability-services/index.aspx). If you will need to utilize your approved accommodations in this class, please follow the proper notification procedure for informing your professor(s). This notification process must occur more than a week before any accommodation can be utilized. Please contact Disability Services at (714) 516–4520 if you have questions regarding this procedure or for information or to make an appointment to discuss and/or request potential accommodations based on documentation of your disability. Once formal approval of your need for an accommodation has been granted, you are encouraged to talk with your professor(s) about your accommodation options. The granting of any accommodation will not be retroactive and cannot jeopardize the academic standards or integrity of the course.
 
 ## Student Support at Chapman University
 
