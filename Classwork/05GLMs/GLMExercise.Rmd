@@ -1,0 +1,312 @@
+---
+title: "GLM Model Exercise"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(brms)
+library(ggplot2)
+library(dplyr)
+set.seed(540)
+```
+
+# Introduction to GLM Model Fitting
+
+In this activity, you'll practice fitting various types of Generalized Linear Models (GLMs) using both frequentist approaches (`lm()`, `glm()`) and Bayesian approaches (`brms`).
+
+## Worked Example: Simple Linear Regression
+
+Let's start with a simple example to demonstrate both `lm()` and `brms()`
+
+```{r example-data}
+# Simple example: Height vs Weight
+n <- 100
+height_cm <- rnorm(n, mean = 170, sd = 10)
+weight_kg <- 2.3 * height_cm - 320 + rnorm(n, mean = 0, sd = 8)
+example_data <- data.frame(height_cm, weight_kg)
+
+# Visualize
+ggplot(example_data, aes(x = height_cm, y = weight_kg)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "Height vs Weight", x = "Height (cm)", y = "Weight (kg)")
+```
+
+**Frequentist approach using lm():**
+
+```{r example-lm}
+# Fit linear model
+model_lm <- lm(weight_kg ~ height_cm, data = example_data)
+summary(model_lm)
+```
+
+**Bayesian approach using brms:**
+
+```{r example-brms, results='hide'}
+# Fit Bayesian linear model
+model_brms <- brm(weight_kg ~ height_cm, 
+                  data = example_data,
+                  family = gaussian(),
+                  chains = 2, 
+                  iter = 2000,
+                  refresh = 0)  # suppress output
+```
+
+```{r example-brms-summary}
+summary(model_brms)
+```
+
+------------------------------------------------------------------------
+
+## Data Generation
+
+The code below generates your datasets for the next part of the activity.
+
+```{r generate-data}
+# Set seed for reproducibility
+set.seed(540)
+
+# Dataset 1: Student Test Scores (Linear Regression)
+n1 <- 200
+study_hours <- runif(n1, 0, 10)
+test_score <- 65 + 3.2 * study_hours + rnorm(n1, 0, 8)
+test_score <- pmax(0, pmin(100, test_score))  # bound between 0-100
+dataset1 <- data.frame(
+  study_hours = study_hours,
+  test_score = test_score
+)
+
+# Dataset 2: Medical Treatment Success (Logistic Regression)
+n2 <- 300
+age <- rnorm(n2, 50, 15)
+age <- pmax(18, pmin(85, age))
+dosage_mg <- runif(n2, 10, 100)
+logit_p <- -2 + 0.02 * age + 0.03 * dosage_mg
+prob_success <- plogis(logit_p)
+treatment_success <- rbinom(n2, 1, prob_success)
+dataset2 <- data.frame(
+  age = age,
+  dosage_mg = dosage_mg,
+  treatment_success = treatment_success
+)
+
+# Dataset 3: Exam Performance Proportion (Beta Regression)
+n3 <- 150
+prep_time <- runif(n3, 1, 20)
+difficulty <- factor(sample(c("Easy", "Medium", "Hard"), n3, replace = TRUE))
+difficulty_num <- as.numeric(difficulty)
+mu_logit <- -1 + 0.15 * prep_time - 0.3 * difficulty_num
+mu <- plogis(mu_logit)
+# Simulate beta distribution
+phi <- 15  # precision parameter
+alpha <- mu * phi
+beta <- (1 - mu) * phi
+exam_proportion <- rbeta(n3, alpha, beta)
+dataset3 <- data.frame(
+  prep_time = prep_time,
+  difficulty = difficulty,
+  exam_proportion = exam_proportion
+)
+
+# Dataset 4: Hospital Admissions Count (Poisson Regression)
+n4 <- 100
+population_thousands <- runif(n4, 10, 200)
+hospital_quality <- rnorm(n4, 0, 1)
+lambda <- exp(1.5 + 0.01 * population_thousands + 0.2 * hospital_quality)
+daily_admissions <- rpois(n4, lambda)
+dataset4 <- data.frame(
+  population_thousands = population_thousands,
+  hospital_quality = hospital_quality,
+  daily_admissions = daily_admissions
+)
+
+# Dataset 5: Customer Satisfaction (Ordered Logistic Regression)
+n5 <- 400
+service_rating <- rnorm(n5, 7, 2)
+service_rating <- pmax(1, pmin(10, service_rating))
+price_satisfaction <- rnorm(n5, 6, 1.5)
+price_satisfaction <- pmax(1, pmin(10, price_satisfaction))
+
+# Create ordered satisfaction levels
+linear_pred <- -2 + 0.3 * service_rating + 0.4 * price_satisfaction
+# Convert to ordered categories (1 = Very Unsatisfied, 5 = Very Satisfied)
+# Create cumulative probabilities for 5 categories
+thresholds <- c(-2, -1, 0, 1)
+probs <- plogis(linear_pred)
+satisfaction <- rep(1, n5)
+for(i in 1:length(thresholds)) {
+  satisfaction[linear_pred > thresholds[i]] <- i + 1
+}
+satisfaction <- pmin(satisfaction, 5)  # cap at 5
+
+dataset5 <- data.frame(
+  service_rating = service_rating,
+  price_satisfaction = price_satisfaction,
+  satisfaction = satisfaction
+)
+
+# Dataset 6: Website Click Counts (Negative Binomial Regression)
+n6 <- 120
+ad_spend_hundreds <- runif(n6, 1, 50)
+website_age_years <- runif(n6, 0.5, 5)
+mu <- exp(2 + 0.04 * ad_spend_hundreds - 0.15 * website_age_years)
+daily_clicks <- rnbinom(n6, size = 5, mu = mu)  # overdispersed count data
+dataset6 <- data.frame(
+  ad_spend_hundreds = ad_spend_hundreds,
+  website_age_years = website_age_years,
+  daily_clicks = daily_clicks
+)
+```
+
+------------------------------------------------------------------------
+
+# Exercise 1: Student Test Scores
+
+**Data:** This dataset contains information about students' study habits and test performance.
+
+-   `study_hours`: Number of hours spent studying (0-10)
+-   `test_score`: Final test score (0-100)
+
+```{r explore-dataset1}
+head(dataset1)
+ggplot(dataset1, aes(x = study_hours, y = test_score)) +
+  geom_point() +
+  labs(title = "Study Hours vs Test Score")
+```
+
+**Question:** How does study time relate to test performance?
+
+```{r exercise1-solution}
+```
+
+------------------------------------------------------------------------
+
+# Exercise 2: Medical Treatment Success
+
+**Data:** This dataset tracks medical treatment outcomes.
+
+-   `age`: Patient age in years (18-85)
+-   `dosage_mg`: Treatment dosage in milligrams (10-100)
+-   `treatment_success`: Binary outcome (1 = success, 0 = failure)
+
+```{r explore-dataset2}
+head(dataset2)
+ggplot(dataset2, aes(x = age, y = treatment_success)) +
+  geom_jitter(height = 0.05, alpha = 0.6) +
+  geom_smooth(method = "glm", method.args = list(family = "binomial")) +
+  labs(title = "Age vs Treatment Success")
+```
+
+**Questions:** 1.
+How do age and dosage affect treatment success probability?
+
+```{r exercise2-solution}
+
+```
+
+------------------------------------------------------------------------
+
+# Exercise 3: Exam Performance Proportions
+
+**Data:** This dataset contains exam performance as proportions (0-1).
+
+-   `prep_time`: Hours of preparation (1-20)
+-   `difficulty`: Exam difficulty level (Easy, Medium, Hard)
+-   `exam_proportion`: Proportion of exam answered correctly (0-1)
+
+```{r explore-dataset3}
+head(dataset3)
+ggplot(dataset3, aes(x = prep_time, y = exam_proportion, color = difficulty)) +
+  geom_point() +
+  labs(title = "Preparation Time vs Exam Performance")
+```
+
+**Questions:** 1.
+How do preparation time and exam difficulty affect performance?
+
+```{r exercise3-solution}
+
+```
+
+------------------------------------------------------------------------
+
+# Exercise 4: Hospital Daily Admissions
+
+**Data Description:** This dataset tracks daily hospital admissions.
+
+-   `population_thousands`: Local population in thousands (10-200)
+-   `hospital_quality`: Hospital quality rating (standardized, mean=0)
+-   `daily_admissions`: Count of daily admissions
+
+```{r explore-dataset4}
+head(dataset4)
+ggplot(dataset4, aes(x = population_thousands, y = daily_admissions)) +
+  geom_point() +
+  labs(title = "Population vs Daily Hospital Admissions")
+```
+
+**Questions:** 1.
+How do population size and hospital quality affect admission counts?
+
+```{r exercise4-solution}
+
+```
+
+------------------------------------------------------------------------
+
+# Exercise 5: Customer Satisfaction
+
+**Data Description:** This dataset contains customer satisfaction ratings.
+
+-   `service_rating`: Service quality rating (1-10)
+-   `price_satisfaction`: Price satisfaction rating (1-10)
+-   `satisfaction`: Overall satisfaction (1=Very Unsatisfied, 5=Very Satisfied)
+
+```{r explore-dataset5}
+head(dataset5)
+table(dataset5$satisfaction)
+ggplot(dataset5, aes(x = service_rating, y = satisfaction)) +
+  geom_jitter(height = 0.2, alpha = 0.6) +
+  labs(title = "Service Rating vs Overall Satisfaction")
+```
+
+**Questions:** 1.
+How do service rating and price satisfaction predict overall satisfaction?
+
+```{r exercise5-solution}
+
+```
+
+------------------------------------------------------------------------
+
+# Exercise 6: Website Daily Clicks
+
+**Data Description:** This dataset tracks website click counts (potentially overdispersed👀).
+
+-   `ad_spend_hundreds`: Advertising spend in hundreds of dollars (1-50)
+-   `website_age_years`: Age of website in years (0.5-5)
+-   `daily_clicks`: Count of daily clicks
+
+```{r explore-dataset6}
+head(dataset6)
+ggplot(dataset6, aes(x = ad_spend_hundreds, y = daily_clicks)) +
+  geom_point() +
+  labs(title = "Ad Spend vs Daily Clicks")
+
+# Check for overdispersion
+mean(dataset6$daily_clicks)
+var(dataset6$daily_clicks)
+```
+
+**Questions:** 1.
+How do advertising spend and website age affect click counts?
+
+```{r exercise6-solution}
+
+```
+
+------------------------------------------------------------------------
