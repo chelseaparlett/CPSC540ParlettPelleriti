@@ -7,7 +7,7 @@ output: html_document
 
 The final project is composed of 3 parts:
 
-1.  **Proposal** (due *October 20th at 11:59pm*)
+1.  **Proposal** (due *October 27th at 11:59pm*)
 
 2.  **Presentation** (due *December 1st or 3rd* during class depending on assigned presentation time)
 
@@ -15,7 +15,7 @@ The final project is composed of 3 parts:
 
 ## Groups
 
-If you would like to work in a group of [**up to 4**]{.underline} you can. You must let Dr. Parlett know who is in your group before **October 20th EOD**. Working in a group means:
+If you would like to work in a group of [**up to 4**]{.underline} you can. You must let Dr. Parlett know who is in your group before **October 27th EOD**. Working in a group means:
 
 1.  you will be graded together
 
