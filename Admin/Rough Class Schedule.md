@@ -16,14 +16,14 @@
 |2025-10-08  |W  |13     |Causal Inference DAGs               |Quiz |Causal Inference Methods                 |Causal Inference in R Chapter 8-10            |
 |2025-10-13  |M  |14     |Review                              |     |                                         |                                              |
 |2025-10-15  |W  |15     |Midterm Exam                        |Exam |                                         |                                              |
-|2025-10-20  |M  |16     |Statistical Inference               |     |Estimation                               |TBD                                           |
-|2025-10-22  |W  |17     |Statistical Inference               |Quiz |Quantifying Uncertainty                  |TBD                                           |
-|2025-10-27  |M  |18     |Statistical Inference               |     |Interval Estimates + Bootstrapping       |TBD                                           |
-|2025-10-29  |W  |19     |Statistical Inference               |Quiz |Interval Estimates + Bootstrapping       |TBD                                           |
-|2025-11-03  |M  |20     |Statistical Inference               |     |Hypothesis Testing                       |TBD                                           |
-|2025-11-05  |W  |21     |Statistical Inference               |Quiz |Hypothesis Testing                       |TBD                                           |
-|2025-11-10  |M  |22     |Advanced Statistical Inference      |     |Bayesian Regression Inference            |TBD                                           |
-|2025-11-12  |W  |23     |Advanced Statistical Inference      |Quiz |Frequentist Regression Inference         |TBD                                           |
+|2025-10-20  |M  |16     |Statistical Inference               |     |Estimation                               |None                                         |
+|2025-10-22  |W  |17     |Statistical Inference               |Quiz |Quantifying Uncertainty                  |Casella and Berger Chapter 7, Bayes Rules Section 8.1|
+|2025-10-27  |M  |18     |Statistical Inference               |     |Interval Estimates + Bootstrapping       |Casella and Berger Chapter 9, Bayes Rules Section 8.2                                            |
+|2025-10-29  |W  |19     |Statistical Inference               |Quiz |Interval Estimates + Bootstrapping       |Casella and Berger Chapter 9, Bayes Rules Section 8.2                                            |
+|2025-11-03  |M  |20     |Statistical Inference               |     |Hypothesis Testing                       |Casella and Berger Chapter 8, [Equiv Testing for Psych](https://journals.sagepub.com/doi/pdf/10.1177/2515245918770963)                                           |
+|2025-11-05  |W  |21     |Statistical Inference               |Quiz |Hypothesis Testing                       |Casella and Berger Chapter 8, Bayes Rules Section 8.2-8.3                                            |
+|2025-11-10  |M  |22     |Advanced Statistical Inference      |     |Bayesian Regression Inference            |Casella and Berger Chapter 12                                          |
+|2025-11-12  |W  |23     |Advanced Statistical Inference      |Quiz |Frequentist Regression Inference         |Bayes Rules Chapters 9 and 13                                          |
 |2025-11-17  |M  |24     |Topics in Statistical ML            |     |TBD                                      |TBD                                           |
 |2025-11-19  |W  |25     |READING GROUP: Statistical Inference|     |                                         |Journal Articles (see Canvas)                 |
 |Thanksgiving|M  |       |                                    |     |                                         |                                              |
