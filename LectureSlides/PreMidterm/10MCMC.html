@@ -1078,10 +1078,10 @@ Chelsea Parlett-Pelleriti
 <p><code>rexp()</code> (or <code>rnorm()</code>, or <code>runif()</code>…)</p>
 <div class="cell">
 <div class="cell-output cell-output-stdout">
-<pre><code> [1] 0.31499696 0.31074170 0.77966564 4.95525108 0.18211537 1.74283773
- [7] 0.36098591 0.23966234 1.83088591 0.50545510 0.18931873 0.03924691
-[13] 1.39353828 2.02938731 0.19003377 0.34244733 0.51549975 0.61900834
-[19] 0.20966650 0.67004248</code></pre>
+<pre><code> [1] 1.004726107 1.899397748 0.668582603 0.131195115 1.327563672 0.957235750
+ [7] 2.569706181 0.007746431 1.859365312 0.464416840 0.256819900 0.711314304
+[13] 0.331531289 0.772841139 0.716172114 0.622136481 3.282682344 2.696552707
+[19] 0.410249213 0.062705896</code></pre>
 </div>
 </div>
 </section>
@@ -1120,6 +1120,7 @@ F(x) = P(X \leq x) = \\ P(T(U) \leq x) = \\ P(U \leq T^{-1}(x)) = \\ T^{-1}(x) \
 <li>Replace <span class="math inline">\(X\)</span> with some function <span class="math inline">\(T(U)\)</span> which transforms uniforms into <span class="math inline">\(X\)</span></li>
 <li>Apply <span class="math inline">\(T^{-1}\)</span> to both sides of ineq.</li>
 <li>For <span class="math inline">\(U\)</span>, <span class="math inline">\(P(U \leq x)\)</span> is <span class="math inline">\(x\)</span> (think: what is <span class="math inline">\(P(U \leq 0.5)\)</span>)</li>
+<li>Invert both sides</li>
 </ol>
 </div></div>
 
@@ -1346,16 +1347,26 @@ P(X_n = x | X_1 = x_1, X_2 = x_2, ..., X_{n-1}= x_{n-1}) = P(X_n = x | X_{n-1}= 
 0.2 &amp; 0.7 &amp; 0.5
 \end{bmatrix}
 \]</span></p>
-<p>A <strong>steady state</strong> or <strong>stationary distribution</strong> occurs when <span class="math inline">\(xA = x\)</span></p>
+<p>A <strong>steady state</strong> or <strong>stationary distribution</strong> occurs when <span class="math inline">\(xA = x\)</span>.</p>
 </section>
 <section id="markov-transition-matrices-1" class="slide level2">
 <h2>Markov Transition Matrices</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
 <p><span class="math display">\[ A = \begin{bmatrix}
+0.2 &amp; 0.6 &amp; 0.2 \\
+0.3 &amp; 0 &amp; 0.7 \\
+0.5 &amp; 0 &amp; 0.5
+\end{bmatrix}
+\]</span></p>
+</div><div class="column" style="width:50%;">
+<p><span class="math display">\[ A^T = \begin{bmatrix}
 0.2 &amp; 0.3 &amp; 0.5 \\
 0.6 &amp; 0 &amp; 0 \\
 0.2 &amp; 0.7 &amp; 0.5
 \end{bmatrix}
 \]</span></p>
+</div></div>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href></a><span class="co"># burger, pizza, hotdog</span></span>
 <span id="cb8-2"><a href></a>tr <span class="ot">&lt;-</span> <span class="fu">matrix</span>(<span class="fu">c</span>(<span class="fl">0.2</span>, <span class="fl">0.6</span>, <span class="fl">0.2</span>,</span>
@@ -1369,10 +1380,11 @@ P(X_n = x | X_1 = x_1, X_2 = x_2, ..., X_{n-1}= x_{n-1}) = P(X_n = x | X_{n-1}= 
 </section>
 <section id="markov-transition-matrices-2" class="slide level2">
 <h2>Markov Transition Matrices</h2>
-<h4 id="design-balance-condition">Design Balance Condition</h4>
+<h4 id="detailed-balance-condition">Detailed Balance Condition</h4>
 <p><span class="math display">\[
 p(x)T(y|x) = p(y)T(x|y) \,\,\, \forall_{x,y} \Rightarrow \\
-\sum_{x}p(x)T(y|x) = p(y)\sum_{x}T(y|x) = p(y) \Rightarrow \\
+\sum_{x}p(x)T(y|x) = p(y)\sum_{x}T(x|y) = p(y) \Rightarrow \\
+\underbrace{\sum_{x}p(x)T(y|x)}_\text{flowing into y} = \underbrace{p(y)}_\text{what&#39;s in y} \Rightarrow \\
 pT = p
 \]</span></p>
 </section>
@@ -1616,7 +1628,7 @@ A(x_n \rightarrow x_*) = min \left (1, \frac{f(x_*)}{f(x_n)} \times \frac{q(x_n 
 <section id="peek-at-future" class="slide level2">
 <h2>Peek at Future</h2>
 <p>Tons of new MCMC algorithms. But the cool ones use <em>gradients</em> to choose samples.</p>
-<p>Many SOTA use <strong>Hamiltonian Monte Carlo</strong></p>
+<p>Many SOTA use <strong>Hamiltonian Monte Carlo</strong> :::::::::</p>
 
 </section></section>
     </div>
